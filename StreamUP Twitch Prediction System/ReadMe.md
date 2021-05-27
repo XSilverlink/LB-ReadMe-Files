@@ -10,17 +10,16 @@ https://discord.gg/RnDKRaVCEu
 
 # Features  
 
-### Through Lioranboard, Transmitter and Chat:
+### Through Lioranboard, Transmitter and (Mobile) Chat:
 - Create a prediction 
 - Lock a prediction¹
 - Cancel a prediction¹
 - Pick a winning side¹
 - Start, Stop, Cancel, Lock and pick a side through commands
 
-¹ 
-
+¹ Currently its only possible to do these things if its launched through the extension
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY5NjY1NTYsMTA2NDE1ODcxMCwtOT
-kyODc0MzczLDQ0NDg2NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2
-NzUwNiwtOTQ1MDAwOTQ0XX0=
+eyJoaXN0b3J5IjpbMTQ3NDY1NzY1MiwtMTU1Njk2NjU1NiwxMD
+Y0MTU4NzEwLC05OTI4NzQzNzMsNDQ0ODY3NDA3LC0xMTU1OTQ4
+NzI3LC0xMDYzNzY3NTA2LC05NDUwMDA5NDRdfQ==
 -->
