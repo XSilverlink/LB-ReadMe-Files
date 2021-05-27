@@ -10,16 +10,17 @@ https://discord.gg/RnDKRaVCEu
 
 # Features
 
+## Through Lioran
  - Create a prediction 
- - Lock a prediction*
- - Cancel a prediction*
- - Pick a winning side*
+ - Lock a prediction¹
+ - Cancel a prediction¹
+ - Pick a winning side¹
  - Mods can make predictions through commands
 
-* These items can only 
+¹ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTAxMjU1MywtOTkyODc0MzczLDQ0ND
+eyJoaXN0b3J5IjpbMTE2NDg5MDYwMCwtOTkyODc0MzczLDQ0ND
 g2NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1MDAw
 OTQ0XX0=
 -->
