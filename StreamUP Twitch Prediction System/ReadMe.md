@@ -60,10 +60,12 @@ This section you can edit the values on the right where it says 'Var./Real/"Stri
 Number you can put in without any "quotes"*
 ### Do not touch
 I think this does not need any explaining right? 😉
+
+If you press your edited button in the Lioranboard Stream deck app
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTcwMzI0NywtODAwNzkxNzk1LC05Mj
-QyMjAzMDgsLTEzMzY1MzYzODgsMjEwMDI1MTk3MiwtMjI3MjYx
-MjUsMjYzOTAxMTAyLC0xNTU2OTY2NTU2LDEwNjQxNTg3MTAsLT
-k5Mjg3NDM3Myw0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLTEwNjM3
-Njc1MDYsLTk0NTAwMDk0NF19
+eyJoaXN0b3J5IjpbODk5ODk5NjY1LC05MTU3MDMyNDcsLTgwMD
+c5MTc5NSwtOTI0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAyNTE5
+NzIsLTIyNzI2MTI1LDI2MzkwMTEwMiwtMTU1Njk2NjU1NiwxMD
+Y0MTU4NzEwLC05OTI4NzQzNzMsNDQ0ODY3NDA3LC0xMTU1OTQ4
+NzI3LC0xMDYzNzY3NTA2LC05NDUwMDA5NDRdfQ==
 -->
