@@ -58,10 +58,12 @@ This section you can edit the values on the right where it says 'Var./Real/"Stri
 
 *Strings needs values to be put in between "quotes"  
 Number you can put in without any "quotes"*
+### Do not touch
+I think this does not need any explaining right? 😉
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM2NDY3NDYsLTgwMDc5MTc5NSwtOT
-I0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAyNTE5NzIsLTIyNzI2
-MTI1LDI2MzkwMTEwMiwtMTU1Njk2NjU1NiwxMDY0MTU4NzEwLC
-05OTI4NzQzNzMsNDQ0ODY3NDA3LC0xMTU1OTQ4NzI3LC0xMDYz
-NzY3NTA2LC05NDUwMDA5NDRdfQ==
+eyJoaXN0b3J5IjpbLTkxNTcwMzI0NywtODAwNzkxNzk1LC05Mj
+QyMjAzMDgsLTEzMzY1MzYzODgsMjEwMDI1MTk3MiwtMjI3MjYx
+MjUsMjYzOTAxMTAyLC0xNTU2OTY2NTU2LDEwNjQxNTg3MTAsLT
+k5Mjg3NDM3Myw0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLTEwNjM3
+Njc1MDYsLTk0NTAwMDk0NF19
 -->
