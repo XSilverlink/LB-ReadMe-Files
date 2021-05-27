@@ -45,6 +45,10 @@ This is where a big part of the magic happens. This button can be copied as many
 
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_h7ErAZNGmd.png)
 
+### Information section:
+This just has some general info for you to read
+### Edit section:
+This section you can edit the values on the right where it says 'Var./Real/"String"*'
 |  Value | Variable |  Type | Extra info |
 |--|--|--|--|
 | 1 | Prediction Title | String | Max 45 characters
@@ -54,16 +58,10 @@ This is where a big part of the magic happens. This button can be copied as many
 
 *Strings needs values to be put in between "quotes"  
 Number you can put in without any "quotes"*
-
-### Information section:
-This just has some general info for you to read
-### Edit section:
-This section you can edit the values on the right where it says 'Var./Real/"String"'
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyMTYwNTAyLC04MDA3OTE3OTUsLTkyND
-IyMDMwOCwtMTMzNjUzNjM4OCwyMTAwMjUxOTcyLC0yMjcyNjEy
-NSwyNjM5MDExMDIsLTE1NTY5NjY1NTYsMTA2NDE1ODcxMCwtOT
-kyODc0MzczLDQ0NDg2NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2
-NzUwNiwtOTQ1MDAwOTQ0XX0=
+eyJoaXN0b3J5IjpbLTExNjM2NDY3NDYsLTgwMDc5MTc5NSwtOT
+I0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAyNTE5NzIsLTIyNzI2
+MTI1LDI2MzkwMTEwMiwtMTU1Njk2NjU1NiwxMDY0MTU4NzEwLC
+05OTI4NzQzNzMsNDQ0ODY3NDA3LC0xMTU1OTQ4NzI3LC0xMDYz
+NzY3NTA2LC05NDUwMDA5NDRdfQ==
 -->
