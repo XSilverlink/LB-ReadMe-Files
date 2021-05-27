@@ -22,11 +22,11 @@ https://discord.gg/RnDKRaVCEu
 
 # Getting started after install
 There should be a new deck available in Lioranboard called 'StreamUP - Predictions' open up this deck and you will be greeted by the deck :
-![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_GUmc3k2112.png)
+![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_15IkbU6WVI.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNzI2MTI1LDI2MzkwMTEwMiwtMTU1Nj
-k2NjU1NiwxMDY0MTU4NzEwLC05OTI4NzQzNzMsNDQ0ODY3NDA3
-LC0xMTU1OTQ4NzI3LC0xMDYzNzY3NTA2LC05NDUwMDA5NDRdfQ
-==
+eyJoaXN0b3J5IjpbMjEwMDI1MTk3MiwtMjI3MjYxMjUsMjYzOT
+AxMTAyLC0xNTU2OTY2NTU2LDEwNjQxNTg3MTAsLTk5Mjg3NDM3
+Myw0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLTEwNjM3Njc1MDYsLT
+k0NTAwMDk0NF19
 -->
