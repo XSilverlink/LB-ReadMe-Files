@@ -29,15 +29,17 @@ We shall now go over the numbers what they do and mean:
  2. This is a blank button. Just to fill up some space. You can resize or delete this button and make some space for more prediction buttons if you want.
  3. These buttons are for picking a winning side. The extension will autofill the answers into this button and will show it on the Lioranboard streamdeck application.²
  4. This button will retrieve the latest prediction information as how many channel points have been used and how many people have chosen a side. ²
- 5. This button will lock an open predication before the timer is finished.
- 6. This button will cancel any open or locked prediction. Viewers will get their points back.
- 7. This button has some complex logic in it so that moderators and the streamer can make a prediction through Twitch chat. This feature was implemented so that mobile users can also create a prediction. This is not possible at the time of writing.
+ 5. This button will lock an open predication before the timer is finished.²
+ 6. This button will cancel any open or locked prediction. Viewers will get their points back.²
+ 7. This button has some complex logic in it so that moderators and the streamer can make a prediction through Twitch chat. This feature was implemented so that mobile users can also create a prediction. This is not possible at the time of writing.²
  8. This button will make you go to the StreamUP website
  9. This button will make you go to this documentation
- 10. This button will make you go to an awesome streamer called Silverlink and you should totally follow him 😉 
+ 10. This button will make you go to an awesome streamer called Silverlink and you should totally follow him 😉  
+
+² **Please do not edi**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzE2Mzc5OCwyMTAwMjUxOTcyLC0yMj
-cyNjEyNSwyNjM5MDExMDIsLTE1NTY5NjY1NTYsMTA2NDE1ODcx
-MCwtOTkyODc0MzczLDQ0NDg2NzQwNywtMTE1NTk0ODcyNywtMT
-A2Mzc2NzUwNiwtOTQ1MDAwOTQ0XX0=
+eyJoaXN0b3J5IjpbLTE2Mzg0MDk1ODgsMjEwMDI1MTk3MiwtMj
+I3MjYxMjUsMjYzOTAxMTAyLC0xNTU2OTY2NTU2LDEwNjQxNTg3
+MTAsLTk5Mjg3NDM3Myw0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLT
+EwNjM3Njc1MDYsLTk0NTAwMDk0NF19
 -->
