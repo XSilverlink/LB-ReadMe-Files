@@ -10,13 +10,16 @@ https://discord.gg/RnDKRaVCEu
 
 # Features
 
- - Create a prediction
- - Lock a prediction
- - Cancel a prediction
- - Pick a winner
+ - Create a prediction 
+ - Lock a prediction*
+ - Cancel a prediction*
+ - Pick a winning side*
+ - Mods can make predictions through commands
+
+* These items can only 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU1OTk3NywtOTkyODc0MzczLDQ0ND
+eyJoaXN0b3J5IjpbLTkwNTAxMjU1MywtOTkyODc0MzczLDQ0ND
 g2NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1MDAw
 OTQ0XX0=
 -->
