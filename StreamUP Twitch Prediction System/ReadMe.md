@@ -36,10 +36,11 @@ We shall now go over the numbers what they do and mean:
  9. This button will make you go to this documentation
  10. This button will make you go to an awesome streamer called Silverlink and you should totally follow him 😉  
 
-² **Please do not edit these buttons. **
+² **Please do not edit these buttons.  They are fully automated.**  
+³ **This button only retrieves information when a prediction is created through this extension!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3NzQwMjkxLDIxMDAyNTE5NzIsLTIyNz
-I2MTI1LDI2MzkwMTEwMiwtMTU1Njk2NjU1NiwxMDY0MTU4NzEw
-LC05OTI4NzQzNzMsNDQ0ODY3NDA3LC0xMTU1OTQ4NzI3LC0xMD
-YzNzY3NTA2LC05NDUwMDA5NDRdfQ==
+eyJoaXN0b3J5IjpbLTEzMzY1MzYzODgsMjEwMDI1MTk3MiwtMj
+I3MjYxMjUsMjYzOTAxMTAyLC0xNTU2OTY2NTU2LDEwNjQxNTg3
+MTAsLTk5Mjg3NDM3Myw0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLT
+EwNjM3Njc1MDYsLTk0NTAwMDk0NF19
 -->
