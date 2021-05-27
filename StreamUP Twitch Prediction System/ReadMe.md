@@ -44,6 +44,12 @@ We shall now go over the numbers what they do and mean:
 This is where a big part of the magic happens. This button can be copied as many times as you want so that can create unlimited presets for your predictions.
 
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_h7ErAZNGmd.png)
+
+|  |  |
+|--|--|
+|  |  |
+
+
  1. Title for your prediction
     - This must be a string so must put between ""
     - Cannot be longer than 45 characters long
@@ -56,7 +62,7 @@ This is where a big part of the magic happens. This button can be copied as many
  5. Timer (How long people have the time to predict)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDIxMjkyNDAsLTkyNDIyMDMwOCwtMT
+eyJoaXN0b3J5IjpbLTIxMTQyMzgxODAsLTkyNDIyMDMwOCwtMT
 MzNjUzNjM4OCwyMTAwMjUxOTcyLC0yMjcyNjEyNSwyNjM5MDEx
 MDIsLTE1NTY5NjY1NTYsMTA2NDE1ODcxMCwtOTkyODc0MzczLD
 Q0NDg2NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1
