@@ -51,6 +51,7 @@ This is where a big part of the magic happens. This button can be copied as many
 | 2 | Answer 1 / Blue | String | Max 25 characters
 | 3 | Answer 2 / Pink | String | Max 45 characters
 | 4 | Timer | Number | Min: 1, Max: 1800
+
 *Strings needs values to be put in between "quotes"  
 Number you can put in without any "quotes"*
 
@@ -66,9 +67,9 @@ Number you can put in without any "quotes"*
  5. Timer (How long people have the time to predict)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY4Mjc1NzAsLTgwMDc5MTc5NSwtOT
-I0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAyNTE5NzIsLTIyNzI2
-MTI1LDI2MzkwMTEwMiwtMTU1Njk2NjU1NiwxMDY0MTU4NzEwLC
-05OTI4NzQzNzMsNDQ0ODY3NDA3LC0xMTU1OTQ4NzI3LC0xMDYz
-NzY3NTA2LC05NDUwMDA5NDRdfQ==
+eyJoaXN0b3J5IjpbLTk4NzI3MjM4OCwtODAwNzkxNzk1LC05Mj
+QyMjAzMDgsLTEzMzY1MzYzODgsMjEwMDI1MTk3MiwtMjI3MjYx
+MjUsMjYzOTAxMTAyLC0xNTU2OTY2NTU2LDEwNjQxNTg3MTAsLT
+k5Mjg3NDM3Myw0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLTEwNjM3
+Njc1MDYsLTk0NTAwMDk0NF19
 -->
