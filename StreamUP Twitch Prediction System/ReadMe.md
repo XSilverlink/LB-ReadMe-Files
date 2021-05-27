@@ -25,11 +25,13 @@ There should be a new deck available in Lioranboard called 'StreamUP - Predictio
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_15IkbU6WVI.png)
 We shall now go over the numbers what they do and mean:
 
- 1. These are example prediction buttons. You can freely open and edit this button. You can make as many copies of these buttons as you want so you can easily make premade default predictions for yourself. Inside the button 
+ 1. These are example prediction buttons. You can freely open and edit this button. You can make as many copies of these buttons as you want so you can easily make premade default predictions for yourself. Inside the button is a small instruction available about what you can change. But it will also be covered in this documentation later on also.
+ 2. This is a blank button. Just to fill up some space. You can resize or delete this button and make some space for more prediction buttons if you want.
+ 3. These buttons are 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI0OTkxOTgsMjEwMDI1MTk3MiwtMj
-I3MjYxMjUsMjYzOTAxMTAyLC0xNTU2OTY2NTU2LDEwNjQxNTg3
-MTAsLTk5Mjg3NDM3Myw0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLT
-EwNjM3Njc1MDYsLTk0NTAwMDk0NF19
+eyJoaXN0b3J5IjpbMTY3MDcwNzQzNywyMTAwMjUxOTcyLC0yMj
+cyNjEyNSwyNjM5MDExMDIsLTE1NTY5NjY1NTYsMTA2NDE1ODcx
+MCwtOTkyODc0MzczLDQ0NDg2NzQwNywtMTE1NTk0ODcyNywtMT
+A2Mzc2NzUwNiwtOTQ1MDAwOTQ0XX0=
 -->
