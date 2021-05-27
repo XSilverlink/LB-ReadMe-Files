@@ -7,7 +7,10 @@
 
 **💭 If you have any questions, problems or feedback feel free to join us on the StreamUP discord:**
 https://discord.gg/RnDKRaVCEu
+
+# Features
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Mjg3NDM3Myw0NDQ4Njc0MDcsLTExNT
-U5NDg3MjcsLTEwNjM3Njc1MDYsLTk0NTAwMDk0NF19
+eyJoaXN0b3J5IjpbNDM1Njc5MjYxLC05OTI4NzQzNzMsNDQ0OD
+Y3NDA3LC0xMTU1OTQ4NzI3LC0xMDYzNzY3NTA2LC05NDUwMDA5
+NDRdfQ==
 -->
