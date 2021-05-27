@@ -9,8 +9,14 @@
 https://discord.gg/RnDKRaVCEu
 
 # Features
+
+ - Create a prediction
+ - Lock a prediction
+ - Cancel a prediction
+ - Pick a winner
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1Njc5MjYxLC05OTI4NzQzNzMsNDQ0OD
-Y3NDA3LC0xMTU1OTQ4NzI3LC0xMDYzNzY3NTA2LC05NDUwMDA5
-NDRdfQ==
+eyJoaXN0b3J5IjpbLTE3MjU1OTk3NywtOTkyODc0MzczLDQ0ND
+g2NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1MDAw
+OTQ0XX0=
 -->
