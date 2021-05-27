@@ -21,12 +21,11 @@ https://discord.gg/RnDKRaVCEu
 ¹ Currently its only possible to do these things if its launched through the extension.
 
 # Getting started after install
-There should be a new deck available in Lioranboard called 'StreamUP - Predictions' open up this deck and you will be greeted by the deck in the fi
+There should be a new deck available in Lioranboard called 'StreamUP - Predictions' open up this deck and you will be greeted by the deck in th
 
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_GUmc3k2112.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTIyNDY0MCwyNjM5MDExMDIsLTE1NT
-Y5NjY1NTYsMTA2NDE1ODcxMCwtOTkyODc0MzczLDQ0NDg2NzQw
-NywtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1MDAwOTQ0XX
-0=
+eyJoaXN0b3J5IjpbLTQzNzU1ODYsMjYzOTAxMTAyLC0xNTU2OT
+Y2NTU2LDEwNjQxNTg3MTAsLTk5Mjg3NDM3Myw0NDQ4Njc0MDcs
+LTExNTU5NDg3MjcsLTEwNjM3Njc1MDYsLTk0NTAwMDk0NF19
 -->
