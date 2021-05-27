@@ -45,9 +45,9 @@ This is where a big part of the magic happens. This button can be copied as many
 
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_h7ErAZNGmd.png)
 
-|  |  |
-|--|--|
-|  |  |
+|  Value | Variable |  Type | Char Limit |
+|--|--|--|
+| 1 |  |
 
 
  1. Title for your prediction
@@ -62,7 +62,7 @@ This is where a big part of the magic happens. This button can be copied as many
  5. Timer (How long people have the time to predict)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQyMzgxODAsLTkyNDIyMDMwOCwtMT
+eyJoaXN0b3J5IjpbLTIwMTA3MTIxOTksLTkyNDIyMDMwOCwtMT
 MzNjUzNjM4OCwyMTAwMjUxOTcyLC0yMjcyNjEyNSwyNjM5MDEx
 MDIsLTE1NTY5NjY1NTYsMTA2NDE1ODcxMCwtOTkyODc0MzczLD
 Q0NDg2NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1
