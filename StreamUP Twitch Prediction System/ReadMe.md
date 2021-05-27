@@ -23,10 +23,13 @@ https://discord.gg/RnDKRaVCEu
 # Getting started after install
 There should be a new deck available in Lioranboard called 'StreamUP - Predictions' open up this deck and you will be greeted by the deck :
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_15IkbU6WVI.png)
+We shall now go over the numbers what they do and mean:
+
+ 1. These are example prediction buttons. You can freely open this and edit this button. You can easily 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDI1MTk3MiwtMjI3MjYxMjUsMjYzOT
-AxMTAyLC0xNTU2OTY2NTU2LDEwNjQxNTg3MTAsLTk5Mjg3NDM3
-Myw0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLTEwNjM3Njc1MDYsLT
-k0NTAwMDk0NF19
+eyJoaXN0b3J5IjpbLTIwNzY1MzgxOSwyMTAwMjUxOTcyLC0yMj
+cyNjEyNSwyNjM5MDExMDIsLTE1NTY5NjY1NTYsMTA2NDE1ODcx
+MCwtOTkyODc0MzczLDQ0NDg2NzQwNywtMTE1NTk0ODcyNywtMT
+A2Mzc2NzUwNiwtOTQ1MDAwOTQ0XX0=
 -->
