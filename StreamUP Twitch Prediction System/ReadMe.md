@@ -60,14 +60,11 @@ This section you can edit the values on the right where it says 'Var./Real/"Stri
 Number you can put in without any "quotes"*
 ### Do not touch
 I think this does not need any explaining right? 😉
-
-If you press your edited button in the Lioranboard Stream deck application it will start the prediction right away and your viewers can believe or doubt in you 😃
-
-![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_sq05UVAR7S.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzgxMTA0MjgsLTkxNTcwMzI0NywtOD
-AwNzkxNzk1LC05MjQyMjAzMDgsLTEzMzY1MzYzODgsMjEwMDI1
-MTk3MiwtMjI3MjYxMjUsMjYzOTAxMTAyLC0xNTU2OTY2NTU2LD
-EwNjQxNTg3MTAsLTk5Mjg3NDM3Myw0NDQ4Njc0MDcsLTExNTU5
-NDg3MjcsLTEwNjM3Njc1MDYsLTk0NTAwMDk0NF19
+eyJoaXN0b3J5IjpbLTkxNTcwMzI0NywtMTYzODExMDQyOCwtOT
+E1NzAzMjQ3LC04MDA3OTE3OTUsLTkyNDIyMDMwOCwtMTMzNjUz
+NjM4OCwyMTAwMjUxOTcyLC0yMjcyNjEyNSwyNjM5MDExMDIsLT
+E1NTY5NjY1NTYsMTA2NDE1ODcxMCwtOTkyODc0MzczLDQ0NDg2
+NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1MDAwOT
+Q0XX0=
 -->
