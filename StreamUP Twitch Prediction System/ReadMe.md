@@ -17,9 +17,11 @@ https://discord.gg/RnDKRaVCEu
 - Pick a winning side¹
 - Start, Stop, Cancel, Lock and pick a side through commands
 
-¹ Currently its only possible to do these things if its launched through the extension
+¹ Currently its only possible to do these things if its launched through the extension.
+# Getting started after install
+There should be a new deck available in Lioranboard called StreamUP 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDY1NzY1MiwtMTU1Njk2NjU1NiwxMD
+eyJoaXN0b3J5IjpbLTI2OTQ0ODU3NCwtMTU1Njk2NjU1NiwxMD
 Y0MTU4NzEwLC05OTI4NzQzNzMsNDQ0ODY3NDA3LC0xMTU1OTQ4
 NzI3LC0xMDYzNzY3NTA2LC05NDUwMDA5NDRdfQ==
 -->
