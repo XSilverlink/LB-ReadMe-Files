@@ -10,26 +10,16 @@ https://discord.gg/RnDKRaVCEu
 
 # Features  
 
-### Through Lioranboard self:
- - Create a prediction 
- - Lock a prediction¹
- - Cancel a prediction¹
- - Pick a winning side¹
- ### Through the transmitter:
- - Create a prediction 
- - Lock a prediction¹
- - Cancel a prediction¹
- - Pick a winning side¹
- ### Through twitch chat:
- - Create a prediction 
- - Lock a prediction¹
- - Cancel a prediction¹
- - Pick a winning side¹
-
+### Through Lioranboard, Transmitter and Chat:
+- Create a prediction 
+- Lock a prediction¹
+- Cancel a prediction¹
+- Pick a winning side¹
+- Start, Stop, Cancel, Lock and pick a side
 ¹ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzUyMDc5NDEsMTA2NDE1ODcxMCwtOT
-kyODc0MzczLDQ0NDg2NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2
-NzUwNiwtOTQ1MDAwOTQ0XX0=
+eyJoaXN0b3J5IjpbMzI4NTkwNjY2LDEwNjQxNTg3MTAsLTk5Mj
+g3NDM3Myw0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLTEwNjM3Njc1
+MDYsLTk0NTAwMDk0NF19
 -->
