@@ -1,5 +1,6 @@
 # StreamUP Twitch Prediction System by [Silverlink](https://twitch.tv/silverlink)
 **An extension and deck for [Lioranboard](https://obsproject.com/forum/resources/lioranboard-stream-deck-animator.862/) that utilizes the new Twitch Prediction System API!**
+
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/StreamUPTwitchPredictionSystem.png)
 *You need to know how to install extensions in Lioranboard, you can follow [this](https://christinna9031.github.io/LBDocumentation/setup.html#extensions) guide created by the amazing [Christinna](https://github.com/christinna9031)!*
 
@@ -21,9 +22,11 @@ https://discord.gg/RnDKRaVCEu
 
 # Getting started after install
 There should be a new deck available in Lioranboard called 'StreamUP - Predictions' open up this deck and you will be greeted by the deck in the fi
+
+![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_GUmc3k2112.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM2MTUxOTQsMjYzOTAxMTAyLC0xNT
-U2OTY2NTU2LDEwNjQxNTg3MTAsLTk5Mjg3NDM3Myw0NDQ4Njc0
-MDcsLTExNTU5NDg3MjcsLTEwNjM3Njc1MDYsLTk0NTAwMDk0NF
-19
+eyJoaXN0b3J5IjpbMTk4OTIyNDY0MCwyNjM5MDExMDIsLTE1NT
+Y5NjY1NTYsMTA2NDE1ODcxMCwtOTkyODc0MzczLDQ0NDg2NzQw
+NywtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1MDAwOTQ0XX
+0=
 -->
