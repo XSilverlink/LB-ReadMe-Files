@@ -1,6 +1,8 @@
 # StreamUP Twitch Prediction System by [Silverlink](https://twitch.tv/silverlink)
 
-![](images/LioranBoard_Receiver_GUmc3k2112.png)
+![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_GUmc3k2112.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM3Njc1MDYsLTk0NTAwMDk0NF19
+eyJoaXN0b3J5IjpbLTE1OTE1MjAwODYsLTEwNjM3Njc1MDYsLT
+k0NTAwMDk0NF19
 -->
