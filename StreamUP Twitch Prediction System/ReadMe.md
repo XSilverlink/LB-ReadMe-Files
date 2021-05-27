@@ -61,9 +61,11 @@ Number you can put in without any "quotes"*
 ### Do not touch
 I think this does not need any explaining right? 😉
 
-If you press your edited button in the Lioranboard Stream deck app
+If you press your edited button in the Lioranboard Stream deck application it will start the prediction right away and your viewers can believe or doubt in you 😃
+
+![enter image description here](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_sq05UVAR7S.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5ODk5NjY1LC05MTU3MDMyNDcsLTgwMD
+eyJoaXN0b3J5IjpbODQ5MDA3NzgxLC05MTU3MDMyNDcsLTgwMD
 c5MTc5NSwtOTI0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAyNTE5
 NzIsLTIyNzI2MTI1LDI2MzkwMTEwMiwtMTU1Njk2NjU1NiwxMD
 Y0MTU4NzEwLC05OTI4NzQzNzMsNDQ0ODY3NDA3LC0xMTU1OTQ4
