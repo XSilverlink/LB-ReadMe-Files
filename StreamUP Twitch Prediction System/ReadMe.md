@@ -28,10 +28,9 @@ We shall now go over the numbers what they do and mean:
  1. These are example prediction buttons. You can freely open and edit this button. You can make as many copies of these buttons as you want so you can easily make premade default predictions for yourself. Inside the button is a small instruction available about what you can change. But it will also be covered in this documentation later on also.
  2. This is a blank button. Just to fill up some space. You can resize or delete this button and make some space for more prediction buttons if you want.
  3. These buttons are for picking a winning side. The extension will autofill the answers into this button and will show it on the Lioranboard streamdeck application.²
- 4. 
-
+ 4. This button will retrieve the latest prediction information as how many channel points have been used and how many people have chosen a side. ²
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTY5NjgwNiwyMTAwMjUxOTcyLC0yMj
+eyJoaXN0b3J5IjpbMTg2NjkxNTMwMCwyMTAwMjUxOTcyLC0yMj
 cyNjEyNSwyNjM5MDExMDIsLTE1NTY5NjY1NTYsMTA2NDE1ODcx
 MCwtOTkyODc0MzczLDQ0NDg2NzQwNywtMTE1NTk0ODcyNywtMT
 A2Mzc2NzUwNiwtOTQ1MDAwOTQ0XX0=
