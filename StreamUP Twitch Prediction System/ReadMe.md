@@ -40,9 +40,10 @@ We shall now go over the numbers what they do and mean:
 ³ **This button only retrieves information when a prediction is created through this extension!**
 
 # Editing the example prediction
+This is where a big part of the magic happens. Here you can edit and create preset buttons for yourself
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_h7ErAZNGmd.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjI1MDE3NTQsLTEzMzY1MzYzODgsMj
+eyJoaXN0b3J5IjpbLTExOTAyNDM0MTksLTEzMzY1MzYzODgsMj
 EwMDI1MTk3MiwtMjI3MjYxMjUsMjYzOTAxMTAyLC0xNTU2OTY2
 NTU2LDEwNjQxNTg3MTAsLTk5Mjg3NDM3Myw0NDQ4Njc0MDcsLT
 ExNTU5NDg3MjcsLTEwNjM3Njc1MDYsLTk0NTAwMDk0NF19
