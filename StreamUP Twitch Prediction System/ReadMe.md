@@ -55,21 +55,15 @@ This is where a big part of the magic happens. This button can be copied as many
 *Strings needs values to be put in between "quotes"  
 Number you can put in without any "quotes"*
 
- 1. Title for your prediction
-    - This must be a string so must put between ""
-    - Cannot be longer than 45 characters long
- 2. First / Blue answer
-    - This must be a string so must put between ""
-    - Cannot be longer than 25 characters long
- 3. Second / Pink answer
-    - This must be a string so must put between ""
-    - Cannot be longer than 25 characters long
- 5. Timer (How long people have the time to predict)
+### Information section:
+This just has some general info for you to read
+### Edit section:
+This section you can edit the values on the right where it says 'Var./Real/"String"'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzI3MjM4OCwtODAwNzkxNzk1LC05Mj
-QyMjAzMDgsLTEzMzY1MzYzODgsMjEwMDI1MTk3MiwtMjI3MjYx
-MjUsMjYzOTAxMTAyLC0xNTU2OTY2NTU2LDEwNjQxNTg3MTAsLT
-k5Mjg3NDM3Myw0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLTEwNjM3
-Njc1MDYsLTk0NTAwMDk0NF19
+eyJoaXN0b3J5IjpbODUyMTYwNTAyLC04MDA3OTE3OTUsLTkyND
+IyMDMwOCwtMTMzNjUzNjM4OCwyMTAwMjUxOTcyLC0yMjcyNjEy
+NSwyNjM5MDExMDIsLTE1NTY5NjY1NTYsMTA2NDE1ODcxMCwtOT
+kyODc0MzczLDQ0NDg2NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2
+NzUwNiwtOTQ1MDAwOTQ0XX0=
 -->
