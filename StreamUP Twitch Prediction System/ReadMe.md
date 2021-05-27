@@ -47,10 +47,10 @@ This is where a big part of the magic happens. This button can be copied as many
 
 |  Value | Variable |  Type | Limits |
 |--|--|--|--|
-| 1 | Prediction Title | String | 45
-| 2 | Answer 1 / Blue | String | 45
-| 3 | Answer 2 / Pink | String | 45
-| 4 | Timer | Number | 45
+| 1 | Prediction Title | String | 45 characters
+| 2 | Answer 1 / Blue | String | 25 characters
+| 3 | Answer 2 / Pink | String | 45 characters
+| 4 | Timer | Number | Min: 1, Max: 1800
 
 
  1. Title for your prediction
@@ -65,7 +65,7 @@ This is where a big part of the magic happens. This button can be copied as many
  5. Timer (How long people have the time to predict)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTQxMDIzMiwtOTI0MjIwMzA4LC0xMz
+eyJoaXN0b3J5IjpbLTgwMDc5MTc5NSwtOTI0MjIwMzA4LC0xMz
 M2NTM2Mzg4LDIxMDAyNTE5NzIsLTIyNzI2MTI1LDI2MzkwMTEw
 MiwtMTU1Njk2NjU1NiwxMDY0MTU4NzEwLC05OTI4NzQzNzMsND
 Q0ODY3NDA3LC0xMTU1OTQ4NzI3LC0xMDYzNzY3NTA2LC05NDUw
