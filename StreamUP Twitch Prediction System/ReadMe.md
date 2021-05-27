@@ -41,13 +41,19 @@ We shall now go over the numbers what they do and mean:
 ³ **This button only retrieves information when a prediction is created through this extension!**
 
 # Editing the example prediction
-This is where a big part of the magic happens. This button can be copied as many times as you want so that can create unlimited presets for your predictions
+This is where a big part of the magic happens. This button can be copied as many times as you want so that can create unlimited presets for your predictions.
 
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_h7ErAZNGmd.png)
+You must put
+ 1. Title for your prediction
+ 2. First / Blue answer
+ 3. Second / Pink answer
+ 4. Timer (How long people have the time to predict)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDIyMDMwOCwtMTMzNjUzNjM4OCwyMT
-AwMjUxOTcyLC0yMjcyNjEyNSwyNjM5MDExMDIsLTE1NTY5NjY1
-NTYsMTA2NDE1ODcxMCwtOTkyODc0MzczLDQ0NDg2NzQwNywtMT
-E1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1MDAwOTQ0XX0=
+eyJoaXN0b3J5IjpbOTYxMTk3ODQ3LC05MjQyMjAzMDgsLTEzMz
+Y1MzYzODgsMjEwMDI1MTk3MiwtMjI3MjYxMjUsMjYzOTAxMTAy
+LC0xNTU2OTY2NTU2LDEwNjQxNTg3MTAsLTk5Mjg3NDM3Myw0ND
+Q4Njc0MDcsLTExNTU5NDg3MjcsLTEwNjM3Njc1MDYsLTk0NTAw
+MDk0NF19
 -->
