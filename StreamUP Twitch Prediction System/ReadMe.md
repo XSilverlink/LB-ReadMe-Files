@@ -63,11 +63,11 @@ I think this does not need any explaining right? 😉
 
 If you press your edited button in the Lioranboard Stream deck application it will start the prediction right away and your viewers can believe or doubt in you 😃
 
-![enter image description here](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_sq05UVAR7S.png)
+![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_sq05UVAR7S.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5MDA3NzgxLC05MTU3MDMyNDcsLTgwMD
-c5MTc5NSwtOTI0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAyNTE5
-NzIsLTIyNzI2MTI1LDI2MzkwMTEwMiwtMTU1Njk2NjU1NiwxMD
-Y0MTU4NzEwLC05OTI4NzQzNzMsNDQ0ODY3NDA3LC0xMTU1OTQ4
-NzI3LC0xMDYzNzY3NTA2LC05NDUwMDA5NDRdfQ==
+eyJoaXN0b3J5IjpbLTE2MzgxMTA0MjgsLTkxNTcwMzI0NywtOD
+AwNzkxNzk1LC05MjQyMjAzMDgsLTEzMzY1MzYzODgsMjEwMDI1
+MTk3MiwtMjI3MjYxMjUsMjYzOTAxMTAyLC0xNTU2OTY2NTU2LD
+EwNjQxNTg3MTAsLTk5Mjg3NDM3Myw0NDQ4Njc0MDcsLTExNTU5
+NDg3MjcsLTEwNjM3Njc1MDYsLTk0NTAwMDk0NF19
 -->
