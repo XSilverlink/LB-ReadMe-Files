@@ -46,13 +46,17 @@ This is where a big part of the magic happens. This button can be copied as many
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_h7ErAZNGmd.png)
  1. Title for your prediction
     - This must be a string so must put between ""
-	 - 
- 3. First / Blue answer
- 4. Second / Pink answer
+    - Cannot be longer than 45 characters long
+ 2. First / Blue answer
+    - This must be a string so must put between ""
+    - Cannot be longer than 25 characters long
+ 3. Second / Pink answer
+    - This must be a string so must put between ""
+    - Cannot be longer than 25 characters long
  5. Timer (How long people have the time to predict)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODI4NzI4NDMsLTkyNDIyMDMwOCwtMT
+eyJoaXN0b3J5IjpbLTE2NDIxMjkyNDAsLTkyNDIyMDMwOCwtMT
 MzNjUzNjM4OCwyMTAwMjUxOTcyLC0yMjcyNjEyNSwyNjM5MDEx
 MDIsLTE1NTY5NjY1NTYsMTA2NDE1ODcxMCwtOTkyODc0MzczLD
 Q0NDg2NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1
