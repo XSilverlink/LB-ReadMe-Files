@@ -31,9 +31,12 @@ We shall now go over the numbers what they do and mean:
  4. This button will retrieve the latest prediction information as how many channel points have been used and how many people have chosen a side. ²
  5. This button will lock an open predication before the timer is finished.
  6. This button will cancel any open or locked prediction. Viewers will get their points back.
- 7. This button has some complex logic in it so that moderators and the streamer can make a prediction through Twitch chat. This feature was imp
+ 7. This button has some complex logic in it so that moderators and the streamer can make a prediction through Twitch chat. This feature was implemented so that mobile users can also create a prediction. This is not possible at the time of writing.
+ 8. This button will make you go to the StreamUP website
+ 9. This button will make you go to this documentation
+ 10. This button will make you go to an awesome streamer called Silverlink and you should totally follow him 😉 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTM0MzIyOSwyMTAwMjUxOTcyLC0yMj
+eyJoaXN0b3J5IjpbMTEwMzE2Mzc5OCwyMTAwMjUxOTcyLC0yMj
 cyNjEyNSwyNjM5MDExMDIsLTE1NTY5NjY1NTYsMTA2NDE1ODcx
 MCwtOTkyODc0MzczLDQ0NDg2NzQwNywtMTE1NTk0ODcyNywtMT
 A2Mzc2NzUwNiwtOTQ1MDAwOTQ0XX0=
