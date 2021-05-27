@@ -15,8 +15,12 @@ https://discord.gg/RnDKRaVCEu
  - Lock a prediction¹
  - Cancel a prediction¹
  - Pick a winning side¹
- - Mods can make predictions through commands
  ### Through the transmitter:
+ - Create a prediction 
+ - Lock a prediction¹
+ - Cancel a prediction¹
+ - Pick a winning side¹
+ ### Through twitch chat:
  - Create a prediction 
  - Lock a prediction¹
  - Cancel a prediction¹
@@ -25,7 +29,7 @@ https://discord.gg/RnDKRaVCEu
 ¹ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDE1ODcxMCwtOTkyODc0MzczLDQ0ND
-g2NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1MDAw
-OTQ0XX0=
+eyJoaXN0b3J5IjpbLTIwNzUyMDc5NDEsMTA2NDE1ODcxMCwtOT
+kyODc0MzczLDQ0NDg2NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2
+NzUwNiwtOTQ1MDAwOTQ0XX0=
 -->
