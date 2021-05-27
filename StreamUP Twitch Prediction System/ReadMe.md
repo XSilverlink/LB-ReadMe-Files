@@ -8,19 +8,24 @@
 **💭 If you have any questions, problems or feedback feel free to join us on the StreamUP discord:**
 https://discord.gg/RnDKRaVCEu
 
-# Features
+# Features  
 
-## Through Lioran
+### Through Lioranboard self:
  - Create a prediction 
  - Lock a prediction¹
  - Cancel a prediction¹
  - Pick a winning side¹
  - Mods can make predictions through commands
+ ### Through The transmitter:
+ - Create a prediction 
+ - Lock a prediction¹
+ - Cancel a prediction¹
+ - Pick a winning side¹
 
 ¹ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDg5MDYwMCwtOTkyODc0MzczLDQ0ND
-g2NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1MDAw
-OTQ0XX0=
+eyJoaXN0b3J5IjpbLTE0NjU3NDU5NjIsLTk5Mjg3NDM3Myw0ND
+Q4Njc0MDcsLTExNTU5NDg3MjcsLTEwNjM3Njc1MDYsLTk0NTAw
+MDk0NF19
 -->
