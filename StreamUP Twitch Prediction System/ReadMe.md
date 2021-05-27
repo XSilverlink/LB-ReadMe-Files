@@ -47,11 +47,12 @@ This is where a big part of the magic happens. This button can be copied as many
 
 |  Value | Variable |  Type | Extra info |
 |--|--|--|--|
-| 1 | Prediction Title | String | 45 characters
-| 2 | Answer 1 / Blue | String | 25 characters
-| 3 | Answer 2 / Pink | String | 45 characters
+| 1 | Prediction Title | String | Max 45 characters
+| 2 | Answer 1 / Blue | String | Max 25 characters
+| 3 | Answer 2 / Pink | String | Max 45 characters
 | 4 | Timer | Number | Min: 1, Max: 1800
-
+*Strings needs values to be put in between "quotes"  
+Number you can put in without any "quotes"*
 
  1. Title for your prediction
     - This must be a string so must put between ""
@@ -65,7 +66,7 @@ This is where a big part of the magic happens. This button can be copied as many
  5. Timer (How long people have the time to predict)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM1ODMzMjEsLTgwMDc5MTc5NSwtOT
+eyJoaXN0b3J5IjpbLTEyMDY4Mjc1NzAsLTgwMDc5MTc5NSwtOT
 I0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAyNTE5NzIsLTIyNzI2
 MTI1LDI2MzkwMTEwMiwtMTU1Njk2NjU1NiwxMDY0MTU4NzEwLC
 05OTI4NzQzNzMsNDQ0ODY3NDA3LC0xMTU1OTQ4NzI3LC0xMDYz
