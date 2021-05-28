@@ -113,10 +113,11 @@ These are the available chat commands for moderators and streamers:
 | !prediction stop | This will stop the current setup of a prediction
 | !prediction-winblue | Pick Team Blue as the winner |
 | !prediction-winpink | Pick Team Pink as the winner|
-| !prediction-| |
+| !prediction-lock| Locks the current running prediction |
+| !prediction-cancel| Cancels prediction and refunds channel points|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDAyNzQ1NCwzNjU3NjUxMDYsLTEzNz
+eyJoaXN0b3J5IjpbMTY5NjI1NzA1MiwzNjU3NjUxMDYsLTEzNz
 U4NjA3MjUsMjY2OTY3NTUsLTU1MTc5ODQwMiwxMzA1MDkxMzY2
 LC0yMTgxNTI0MSwyMTA5OTMzMTQwLC0xMDQwNDUwODM5LDk2Nj
 UxNzE4MCwtMTI1MTc3NzEyOSwxNjM3MTk0ODcsLTE4MjAwMzM3
