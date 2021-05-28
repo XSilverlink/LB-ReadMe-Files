@@ -161,19 +161,21 @@ This is where the magic happens! Lioranboard receives every 2 seconds (or per wh
 The extension sends out the following variables:
 | Variable | Type | Information
 |--|--|--|
-| SUPr:predictionID | String | ID of prediction given by twitch
+| SUPr:predictionID | String | ID of prediction given by Twitch
 | SUPr:predictionTitle | String | Title you specified for the prediction
 | SUPr:predictionWindow | Number | Seconds you specified for the prediction
 | SUPr:predictionStatus | String | Status of the prediction. (OPEN, LOCKED, RESOLVED or CANCELED)
 | SUPr:isPredictionRunning | Number | Internal Variable to check if the prediction is running
-| SUPr:blueID |  |
+| SUPr:blueID | String | ID of Answer 1 / Blue given by Twitch
+| SUPr:blueTitle | String | Answer you specified for Answer 1 / Blue
+| SUPr:blue |  | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjU4MTM2MCw4MzcxMzU2NjIsNTQ4OD
-c1NjcwLC01NTA5NjE4NDAsLTE0NTAxNzM2MjIsLTEzNzc2Nzgz
-NTYsMTY1MDE5ODgzOCwtMTA3NTAzNjI3MywtNzU4MTM1ODE1LC
-05ODgxNTM1ODUsLTEwNTAyMzAzNDksMTk5OTMyNTQxOCwxODc2
-MTgyMTkyLDE3ODI2NjU2MzAsMzMwMTg1MDQyLC0yNzYxNDcxMj
-gsLTE0NjM4OTEwODksMTc5MzgwNTUzNiw0OTMxOTA0NzQsMTY5
-NjI1NzA1Ml19
+eyJoaXN0b3J5IjpbOTc2NDI1NjA3LDgzNzEzNTY2Miw1NDg4Nz
+U2NzAsLTU1MDk2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3ODM1
+NiwxNjUwMTk4ODM4LC0xMDc1MDM2MjczLC03NTgxMzU4MTUsLT
+k4ODE1MzU4NSwtMTA1MDIzMDM0OSwxOTk5MzI1NDE4LDE4NzYx
+ODIxOTIsMTc4MjY2NTYzMCwzMzAxODUwNDIsLTI3NjE0NzEyOC
+wtMTQ2Mzg5MTA4OSwxNzkzODA1NTM2LDQ5MzE5MDQ3NCwxNjk2
+MjU3MDUyXX0=
 -->
