@@ -65,12 +65,14 @@ I think this does not need any explaining right? 😉
 # Starting a prediction through Lioranboard Stream Deck
 This guide assumes that you know how to connect to Lioranboard through the Lioranboard Stream Deck app for android or PC. Once you're connected to the app it should look something like this:
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Stream_Deck_We5ZSC950y.png)
+
+Once you've set up your buttons you can press them on this screen. In this example we are going to click on 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTUwMzUwNTYsLTExNDgwOTIyMzUsMj
-QyNjIwMTk1LC05MTU3MDMyNDcsLTE2MzgxMTA0MjgsLTkxNTcw
-MzI0NywtODAwNzkxNzk1LC05MjQyMjAzMDgsLTEzMzY1MzYzOD
-gsMjEwMDI1MTk3MiwtMjI3MjYxMjUsMjYzOTAxMTAyLC0xNTU2
-OTY2NTU2LDEwNjQxNTg3MTAsLTk5Mjg3NDM3Myw0NDQ4Njc0MD
-csLTExNTU5NDg3MjcsLTEwNjM3Njc1MDYsLTk0NTAwMDk0NF19
+eyJoaXN0b3J5IjpbLTU0NzE4MjQ1NywtMTE0ODA5MjIzNSwyND
+I2MjAxOTUsLTkxNTcwMzI0NywtMTYzODExMDQyOCwtOTE1NzAz
+MjQ3LC04MDA3OTE3OTUsLTkyNDIyMDMwOCwtMTMzNjUzNjM4OC
+wyMTAwMjUxOTcyLC0yMjcyNjEyNSwyNjM5MDExMDIsLTE1NTY5
+NjY1NTYsMTA2NDE1ODcxMCwtOTkyODc0MzczLDQ0NDg2NzQwNy
+wtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1MDAwOTQ0XX0=
 
 -->
