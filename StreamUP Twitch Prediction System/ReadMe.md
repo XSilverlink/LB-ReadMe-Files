@@ -40,7 +40,7 @@ We shall now go over the numbers what they do and mean:
 ² **Please do not edit these buttons.  They are fully automated.**  
 ³ **This button only retrieves information when a prediction is created through this extension!**
 
-# Editing the example prediction
+# Setting up / editing the example prediction
 This is where a big part of the magic happens. This button can be copied as many times as you want so that can create unlimited presets for your predictions.
 
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_h7ErAZNGmd.png)
@@ -60,11 +60,13 @@ This section you can edit the values on the right where it says 'Var./Real/"Stri
 Number you can put in without any "quotes"*
 ### Do not touch
 I think this does not need any explaining right? 😉
+
+# Starting a prediction through Lioranboard Stream Deck
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTcwMzI0NywtMTYzODExMDQyOCwtOT
-E1NzAzMjQ3LC04MDA3OTE3OTUsLTkyNDIyMDMwOCwtMTMzNjUz
-NjM4OCwyMTAwMjUxOTcyLC0yMjcyNjEyNSwyNjM5MDExMDIsLT
-E1NTY5NjY1NTYsMTA2NDE1ODcxMCwtOTkyODc0MzczLDQ0NDg2
-NzQwNywtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1MDAwOT
-Q0XX0=
+eyJoaXN0b3J5IjpbMjQyNjIwMTk1LC05MTU3MDMyNDcsLTE2Mz
+gxMTA0MjgsLTkxNTcwMzI0NywtODAwNzkxNzk1LC05MjQyMjAz
+MDgsLTEzMzY1MzYzODgsMjEwMDI1MTk3MiwtMjI3MjYxMjUsMj
+YzOTAxMTAyLC0xNTU2OTY2NTU2LDEwNjQxNTg3MTAsLTk5Mjg3
+NDM3Myw0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLTEwNjM3Njc1MD
+YsLTk0NTAwMDk0NF19
 -->
