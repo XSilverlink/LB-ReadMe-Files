@@ -93,9 +93,10 @@ First you need to press the button 'Get / Refresh OAuth Credentials from Lioranb
 
 When a prediction is started you'll see some information popup. These are are being live retrieved through lioranboard (That is what the flashing 'Retrieve prediction information' button does 😉) You can see live how many people have cast a prediction and how many channel points they have spend. This information is also pushed to Lioranboard (More information about this later in this document). Here you can, just as in the Lioranboard stream deck application, select a winner, lock and / or cancel a prediction.
 
-# Starting a pr
+# Starting a prediction through Twitch chat
+T
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODk0Njc1MywyNjY5Njc1NSwtNTUxNz
+eyJoaXN0b3J5IjpbMTM1OTg3NjM5MiwyNjY5Njc1NSwtNTUxNz
 k4NDAyLDEzMDUwOTEzNjYsLTIxODE1MjQxLDIxMDk5MzMxNDAs
 LTEwNDA0NTA4MzksOTY2NTE3MTgwLC0xMjUxNzc3MTI5LDE2Mz
 cxOTQ4NywtMTgyMDAzMzcyLC0xMTQ4MDkyMjM1LDI0MjYyMDE5
