@@ -78,13 +78,13 @@ You can now press one of the answer buttons to set that as the winning predictio
 
 Once you've picked a winning side points will be distributed to the winners of that side!
 
-As you can see when a prediction is running the button 'Retrieve prediction information' flashes every 2 seconds. This will be happening until the timer runs out or if you lock the prediction. Manually pressing this button while nothing is running or when a prediction is locked will not do anything. This button is meant for retrieving prediction information that is made through this extension. If you find that every 2 seconds is to quick you can edit the button and put in a higher number than 2000. We don't recommend to go lower than that though.
+As you can see when a prediction is running the button 'Retrieve prediction information' flashes every 2 seconds. This will be happening until the timer runs out or if you lock the prediction. Manually pressing this button while nothing is running or when a prediction is locked will not do anything. This button is meant for retrieving prediction information that is made through this extension.⁴ If you find that every 2 seconds is to quick you can edit the button and put in a higher number than 2000. We don't recommend to go lower than that though.
 
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_pP8Ite0cSE.png)
 
-
+⁴ The reason why information has been pulling will be explained later on .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTAxMTAxNTksMTYzNzE5NDg3LC0xOD
+eyJoaXN0b3J5IjpbLTEyNTE3NzcxMjksMTYzNzE5NDg3LC0xOD
 IwMDMzNzIsLTExNDgwOTIyMzUsMjQyNjIwMTk1LC05MTU3MDMy
 NDcsLTE2MzgxMTA0MjgsLTkxNTcwMzI0NywtODAwNzkxNzk1LC
 05MjQyMjAzMDgsLTEzMzY1MzYzODgsMjEwMDI1MTk3MiwtMjI3
