@@ -104,9 +104,11 @@ Here is a complete example how it works:
 
 <p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_bpBEnwPl88.png"></p>
 
-The texts are customizable in the '
+*The texts are customizable in the 'Mod Prediction Trigger' (How to edit and what to edit is available in this document)*
+
+These are the commands
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjYzNjUxMjAsMzY1NzY1MTA2LC0xMz
+eyJoaXN0b3J5IjpbLTExNDI5OTM4NjksMzY1NzY1MTA2LC0xMz
 c1ODYwNzI1LDI2Njk2NzU1LC01NTE3OTg0MDIsMTMwNTA5MTM2
 NiwtMjE4MTUyNDEsMjEwOTkzMzE0MCwtMTA0MDQ1MDgzOSw5Nj
 Y1MTcxODAsLTEyNTE3NzcxMjksMTYzNzE5NDg3LC0xODIwMDMz
