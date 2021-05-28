@@ -100,8 +100,13 @@ When a prediction is started you'll see some information popup. These are are be
 # Starting a prediction through Twitch chat
 With this you can also start predictions through twitch as a mod or streamer. Currently Twitch does not support '/prediction' on mobile so we made it possible through our own system. You just start by typing !prediction. If you or a mod start the prediction only the one who started the prediction can finish the prediction.
 
+Here is a complete example how it works:
+
+<p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_bpBEnwPl88.png"></p>
+
+The texts are customizable in the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTkxNDkwNSwzNjU3NjUxMDYsLTEzNz
+eyJoaXN0b3J5IjpbMjE0NjYzNDIyMSwzNjU3NjUxMDYsLTEzNz
 U4NjA3MjUsMjY2OTY3NTUsLTU1MTc5ODQwMiwxMzA1MDkxMzY2
 LC0yMTgxNTI0MSwyMTA5OTMzMTQwLC0xMDQwNDUwODM5LDk2Nj
 UxNzE4MCwtMTI1MTc3NzEyOSwxNjM3MTk0ODcsLTE4MjAwMzM3
