@@ -171,16 +171,16 @@ The extension sends out the following variables:
 | SUPr:blueTotalCP | Real | Total amount of channel points spent for Answer 1 / Blue
 | SUPr:blueTotalCPRounded | String | Total amount of channel points for Answer 1 / Blue. Will give you a rounded String when over 1000+ channel points spent. (ex: 1337 will show as 1.3k)
 | SUPr:blueTotalUsers | Real | Total amount of people who voted for Answer 1 / Blue
-| SUPr:blueTotalUsersRounded | String | Total amount of people who voted for Answer 1 / Blue. Will give you a rounded String when over 1000+ channel points spent. (ex: 1111 will show as 1.1k)
+| SUPr:blueTotalUsersRounded | String | Total amount of people who voted for Answer 1 / Blue. Will give you a rounded String when over 1000+ users have voted. (ex: 1111 will show as 1.1k)
 | SUPr:pinkID | String | ID of Answer 2 / Pink given by Twitch
 | SUPr:pinkTitle | String | Answer you specified for Answer 2 / Pink
 | SUPr:pinkTotalCP | Real | Total amount of channel points spent for Answer 2 / Pink
 | SUPr:pinkTotalCPRounded | String | Total amount of channel points for Answer 2 / Pink. Will give you a rounded String when over 1000+ channel points spent. (ex: 4957 will show as 4.9k)
 | SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
-| SUPr:pinkTotalUsersRounded | String | Total amount of people who voted for Answer 2 / Pink. Will give you a rounded String when over 1000+ channel points spent. (ex: 102030 will show as 10.2k)
+| SUPr:pinkTotalUsersRounded | String | Total amount of people who voted for Answer 2 / Pink. Will give you a rounded String when over 1000+ users have voted. (ex: 102030 will show as 10.2k)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzIwODMxNjgsMTk0MDEwODY1MSw4Mz
+eyJoaXN0b3J5IjpbLTEwMjQ4NzIwNzIsMTk0MDEwODY1MSw4Mz
 cxMzU2NjIsNTQ4ODc1NjcwLC01NTA5NjE4NDAsLTE0NTAxNzM2
 MjIsLTEzNzc2NzgzNTYsMTY1MDE5ODgzOCwtMTA3NTAzNjI3My
 wtNzU4MTM1ODE1LC05ODgxNTM1ODUsLTEwNTAyMzAzNDksMTk5
