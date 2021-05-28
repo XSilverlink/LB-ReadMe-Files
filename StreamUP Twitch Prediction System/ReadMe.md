@@ -75,12 +75,18 @@ Also on twitch the prediction should have started and if you look into your chat
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_sq05UVAR7S.png)
 
 You can now press one of the answer buttons to set that as the winning prediction, you can lock the prediction so that no new votes can be put in or you can cancel the running prediction and give everyone their points back.
+
+As you can see in your deck the button 'Retrieve prediction information' flashes every 2 seconds. This will be happening until
+a. 	
+
+ - [ ] List item
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1MDAzMjg2LC0xMTQ4MDkyMjM1LDI0Mj
-YyMDE5NSwtOTE1NzAzMjQ3LC0xNjM4MTEwNDI4LC05MTU3MDMy
-NDcsLTgwMDc5MTc5NSwtOTI0MjIwMzA4LC0xMzM2NTM2Mzg4LD
-IxMDAyNTE5NzIsLTIyNzI2MTI1LDI2MzkwMTEwMiwtMTU1Njk2
-NjU1NiwxMDY0MTU4NzEwLC05OTI4NzQzNzMsNDQ0ODY3NDA3LC
-0xMTU1OTQ4NzI3LC0xMDYzNzY3NTA2LC05NDUwMDA5NDRdfQ==
+eyJoaXN0b3J5IjpbLTU4MzQ5NDY0NSwtMTE0ODA5MjIzNSwyND
+I2MjAxOTUsLTkxNTcwMzI0NywtMTYzODExMDQyOCwtOTE1NzAz
+MjQ3LC04MDA3OTE3OTUsLTkyNDIyMDMwOCwtMTMzNjUzNjM4OC
+wyMTAwMjUxOTcyLC0yMjcyNjEyNSwyNjM5MDExMDIsLTE1NTY5
+NjY1NTYsMTA2NDE1ODcxMCwtOTkyODc0MzczLDQ0NDg2NzQwNy
+wtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1MDAwOTQ0XX0=
 
 -->
