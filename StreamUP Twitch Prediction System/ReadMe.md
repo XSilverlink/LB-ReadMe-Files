@@ -1,7 +1,8 @@
 # StreamUP Twitch Prediction System by [Silverlink](https://twitch.tv/silverlink)
 **An extension and deck for [Lioranboard](https://obsproject.com/forum/resources/lioranboard-stream-deck-animator.862/) that utilizes the new Twitch Prediction System API!**
 
-![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/StreamUPTwitchPredictionSystem.png)
+<p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/StreamUPTwitchPredictionSystem.png"></p>
+
 *You need to know how to install extensions in Lioranboard, you can follow [this](https://christinna9031.github.io/LBDocumentation/setup.html#extensions) guide created by the amazing [Christinna](https://github.com/christinna9031)!*
 
 ℹ This extension comes with an with an **REQUIRED** deck. If you remove this deck automatic updating will **NOT** work.  Almost every button has an unique ID which should also **NOT** changed. It comes with 2 Example predictions which you can change however you want, you can even create more buttons on other decks.
@@ -82,12 +83,13 @@ Once you've picked a winning side points will be distributed to the winners of t
 
 As you can see when a prediction is running the button 'Retrieve prediction information' flashes every 2 seconds. This will be happening until the timer runs out or if you lock the prediction. Manually pressing this button while nothing is running or when a prediction is locked will not do anything. This button is meant for retrieving prediction information that is made through this extension.⁴ If you find that every 2 seconds is to quick you can edit the button and put in a higher number than 2000. We don't recommend to go lower than that though.
 
-![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_pP8Ite0cSE.png)
+<p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_pP8Ite0cSE.png"></p>
 
 ⁴ The reason why information has been pulling will be explained later on 
 # Starting a prediction through the Transmitter
 You can also start a prediction by clicking on the 'StreamUP Twitch Prediction System' tab in your tsl_transmitter and you can start a prediction there. 
-![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/chrome_e3LC4U85zf.png)
+
+<p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/chrome_e3LC4U85zf.png"></p>
 
 First you need to press the button 'Get / Refresh OAuth Credentials from Lioranboard' so it will retrieve your credentials from Lioranboard. If you don't press that button, creating a prediction will not work. After that you can fill in the fields in the 'Create Prediction' area as you would in Lioranboard.  When the fields are filled you just press the button 'Start New Prediction' and voila the prediction should be started. This syncs up with Lioranboard itself so the decks will also be updated.
 
@@ -99,11 +101,11 @@ When a prediction is started you'll see some information popup. These are are be
 With this you can also start predictions through twitch as a mod or streamer. Currently Twitch does not support '/prediction' on mobile so we made it possible through our own system. You just start by typing !prediction. If you or a mod start the prediction only the one who started the prediction can finish the prediction.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzU3NzQxNSwzNjU3NjUxMDYsLTEzNz
-U4NjA3MjUsMjY2OTY3NTUsLTU1MTc5ODQwMiwxMzA1MDkxMzY2
-LC0yMTgxNTI0MSwyMTA5OTMzMTQwLC0xMDQwNDUwODM5LDk2Nj
-UxNzE4MCwtMTI1MTc3NzEyOSwxNjM3MTk0ODcsLTE4MjAwMzM3
-MiwtMTE0ODA5MjIzNSwyNDI2MjAxOTUsLTkxNTcwMzI0NywtMT
-YzODExMDQyOCwtOTE1NzAzMjQ3LC04MDA3OTE3OTUsLTkyNDIy
-MDMwOF19
+eyJoaXN0b3J5IjpbNDAwMzk5NzMsMzY1NzY1MTA2LC0xMzc1OD
+YwNzI1LDI2Njk2NzU1LC01NTE3OTg0MDIsMTMwNTA5MTM2Niwt
+MjE4MTUyNDEsMjEwOTkzMzE0MCwtMTA0MDQ1MDgzOSw5NjY1MT
+cxODAsLTEyNTE3NzcxMjksMTYzNzE5NDg3LC0xODIwMDMzNzIs
+LTExNDgwOTIyMzUsMjQyNjIwMTk1LC05MTU3MDMyNDcsLTE2Mz
+gxMTA0MjgsLTkxNTcwMzI0NywtODAwNzkxNzk1LC05MjQyMjAz
+MDhdfQ==
 -->
