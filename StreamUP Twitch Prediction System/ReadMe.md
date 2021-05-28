@@ -136,9 +136,10 @@ Everything is specified already in the deck but here is a little bit extra. My a
 | 6 | predictionChatStep4a | String | Summary | "Prediction Settings: Title: /$SUPr:predictionTitle$/ || Answer 1: /$SUPr:blueTitle$/ || Answer 2: /$SUPr:pinkTitle$/"
 | 7 | predictionChatStep4B | String | Question if the user wants to continue | "@/$SUPr:triggerUser$/ Do you want to start the prediction? Type !prediction YES to continue. Type !prediction and anything else to stop"
 | 8 | predictionChatStep5Yes | String | Message when Yes | "Starting Prediction!"
-| 9 | predictionChatStep5No | String | Message when Anything else | "Starting Prediction!"
+| 9 | predictionChatStep5No | String | Message when Anything else | "Stopping prediction. You can start a new prediction by typing !prediction"
+| 10 | predictionChatStop | String | Message when triggered by !prediction stop | predictionChatStep5No
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4ODQxNDQ1LC0yNzYxNDcxMjgsLTE0Nj
+eyJoaXN0b3J5IjpbMzMwMTg1MDQyLC0yNzYxNDcxMjgsLTE0Nj
 M4OTEwODksMTc5MzgwNTUzNiw0OTMxOTA0NzQsMTY5NjI1NzA1
 MiwzNjU3NjUxMDYsLTEzNzU4NjA3MjUsMjY2OTY3NTUsLTU1MT
 c5ODQwMiwxMzA1MDkxMzY2LC0yMTgxNTI0MSwyMTA5OTMzMTQw
