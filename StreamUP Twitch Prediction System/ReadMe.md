@@ -126,14 +126,18 @@ You can edit this button to personalize the messages. If you find the messages g
 
 Everything is specified already in the deck but here is a little bit extra. My advise to you is to copy and paste the variables into a text file for easier editing. All these values are strings so they need to be in "quotes".
 
-
-
+|  Value | Variable |  Type | Extra info |
+|--|--|--|--|
+| 1 | Step 1 | String | First message that appears.
+| 2 | Answer 1 / Blue | String | Max 25 characters
+| 3 | Answer 2 / Pink | String | Max 45 characters
+| 4 | Timer | Number | Min: 1, Max: 1800
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzgwNTUzNiw0OTMxOTA0NzQsMTY5Nj
-I1NzA1MiwzNjU3NjUxMDYsLTEzNzU4NjA3MjUsMjY2OTY3NTUs
-LTU1MTc5ODQwMiwxMzA1MDkxMzY2LC0yMTgxNTI0MSwyMTA5OT
-MzMTQwLC0xMDQwNDUwODM5LDk2NjUxNzE4MCwtMTI1MTc3NzEy
-OSwxNjM3MTk0ODcsLTE4MjAwMzM3MiwtMTE0ODA5MjIzNSwyND
-I2MjAxOTUsLTkxNTcwMzI0NywtMTYzODExMDQyOCwtOTE1NzAz
-MjQ3XX0=
+eyJoaXN0b3J5IjpbMTE0NDA5ODEyOCwxNzkzODA1NTM2LDQ5Mz
+E5MDQ3NCwxNjk2MjU3MDUyLDM2NTc2NTEwNiwtMTM3NTg2MDcy
+NSwyNjY5Njc1NSwtNTUxNzk4NDAyLDEzMDUwOTEzNjYsLTIxOD
+E1MjQxLDIxMDk5MzMxNDAsLTEwNDA0NTA4MzksOTY2NTE3MTgw
+LC0xMjUxNzc3MTI5LDE2MzcxOTQ4NywtMTgyMDAzMzcyLC0xMT
+Q4MDkyMjM1LDI0MjYyMDE5NSwtOTE1NzAzMjQ3LC0xNjM4MTEw
+NDI4XX0=
 -->
