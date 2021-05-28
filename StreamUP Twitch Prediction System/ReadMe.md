@@ -156,13 +156,13 @@ Everything is specified already in the deck but here is a little bit extra. My a
 Don't edit anything else in this button or otherwise it may brake and you may need to reinstall the deck.
 
 # Receiving Variables in Lioranboard
-
+This is where the magic happens! Lioranboard receives every 2 seconds information from the Twitch API. This means you can live update
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODEzNTgxNSwtOTg4MTUzNTg1LC0xMD
-UwMjMwMzQ5LDE5OTkzMjU0MTgsMTg3NjE4MjE5MiwxNzgyNjY1
-NjMwLDMzMDE4NTA0MiwtMjc2MTQ3MTI4LC0xNDYzODkxMDg5LD
-E3OTM4MDU1MzYsNDkzMTkwNDc0LDE2OTYyNTcwNTIsMzY1NzY1
-MTA2LC0xMzc1ODYwNzI1LDI2Njk2NzU1LC01NTE3OTg0MDIsMT
-MwNTA5MTM2NiwtMjE4MTUyNDEsMjEwOTkzMzE0MCwtMTA0MDQ1
-MDgzOV19
+eyJoaXN0b3J5IjpbLTEwNzUwMzYyNzMsLTc1ODEzNTgxNSwtOT
+g4MTUzNTg1LC0xMDUwMjMwMzQ5LDE5OTkzMjU0MTgsMTg3NjE4
+MjE5MiwxNzgyNjY1NjMwLDMzMDE4NTA0MiwtMjc2MTQ3MTI4LC
+0xNDYzODkxMDg5LDE3OTM4MDU1MzYsNDkzMTkwNDc0LDE2OTYy
+NTcwNTIsMzY1NzY1MTA2LC0xMzc1ODYwNzI1LDI2Njk2NzU1LC
+01NTE3OTg0MDIsMTMwNTA5MTM2NiwtMjE4MTUyNDEsMjEwOTkz
+MzE0MF19
 -->
