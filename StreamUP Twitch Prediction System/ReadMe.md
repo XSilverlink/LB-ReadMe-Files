@@ -156,13 +156,13 @@ Everything is specified already in the deck but here is a little bit extra. My a
 Don't edit anything else in this button or otherwise it may brake and you may need to reinstall the deck.
 
 # Receiving Variables in Lioranboard
-This is where the magic happens! Lioranboard receives every 2 seconds (or per what you've set in the 'Retrieve prediction information' button) information from the Twitch API. This means you can live update your sources in OBS through Lioranboard. You can show live numbers on stream. Make a moving bar for the countdown 
+This is where the magic happens! Lioranboard receives every 2 seconds (or per what you've set in the 'Retrieve prediction information' button) information from the Twitch API. This means you can live update your sources in OBS through Lioranboard. You can show live numbers on stream. Make a moving bar for the countdown and other great stuff. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTAxNzM2MjIsLTEzNzc2NzgzNTYsMT
-Y1MDE5ODgzOCwtMTA3NTAzNjI3MywtNzU4MTM1ODE1LC05ODgx
-NTM1ODUsLTEwNTAyMzAzNDksMTk5OTMyNTQxOCwxODc2MTgyMT
-kyLDE3ODI2NjU2MzAsMzMwMTg1MDQyLC0yNzYxNDcxMjgsLTE0
-NjM4OTEwODksMTc5MzgwNTUzNiw0OTMxOTA0NzQsMTY5NjI1Nz
-A1MiwzNjU3NjUxMDYsLTEzNzU4NjA3MjUsMjY2OTY3NTUsLTU1
-MTc5ODQwMl19
+eyJoaXN0b3J5IjpbLTU1MDk2MTg0MCwtMTQ1MDE3MzYyMiwtMT
+M3NzY3ODM1NiwxNjUwMTk4ODM4LC0xMDc1MDM2MjczLC03NTgx
+MzU4MTUsLTk4ODE1MzU4NSwtMTA1MDIzMDM0OSwxOTk5MzI1ND
+E4LDE4NzYxODIxOTIsMTc4MjY2NTYzMCwzMzAxODUwNDIsLTI3
+NjE0NzEyOCwtMTQ2Mzg5MTA4OSwxNzkzODA1NTM2LDQ5MzE5MD
+Q3NCwxNjk2MjU3MDUyLDM2NTc2NTEwNiwtMTM3NTg2MDcyNSwy
+NjY5Njc1NV19
 -->
