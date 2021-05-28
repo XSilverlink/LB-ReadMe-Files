@@ -93,7 +93,7 @@ You can also start a prediction by clicking on the 'StreamUP Twitch Prediction S
 
 First you need to press the button 'Get / Refresh OAuth Credentials from Lioranboard' so it will retrieve your credentials from Lioranboard. If you don't press that button, creating a prediction will not work. After that you can fill in the fields in the 'Create Prediction' area as you would in Lioranboard.  When the fields are filled you just press the button 'Start New Prediction' and voila the prediction should be started. This syncs up with Lioranboard itself so the decks will also be updated.
 
-![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/chrome_rrPyRt86Uya.png)
+<p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/chrome_rrPyRt86Uya.png"></p>
 
 When a prediction is started you'll see some information popup. These are are being live retrieved through lioranboard (That is what the flashing 'Retrieve prediction information' button does 😉) You can see live how many people have cast a prediction and how many channel points they have spend. This information is also pushed to Lioranboard (More information about this later in this document). Here you can, just as in the Lioranboard stream deck application, select a winner, lock and / or cancel a prediction.
 
@@ -101,11 +101,11 @@ When a prediction is started you'll see some information popup. These are are be
 With this you can also start predictions through twitch as a mod or streamer. Currently Twitch does not support '/prediction' on mobile so we made it possible through our own system. You just start by typing !prediction. If you or a mod start the prediction only the one who started the prediction can finish the prediction.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwMzk5NzMsMzY1NzY1MTA2LC0xMzc1OD
-YwNzI1LDI2Njk2NzU1LC01NTE3OTg0MDIsMTMwNTA5MTM2Niwt
-MjE4MTUyNDEsMjEwOTkzMzE0MCwtMTA0MDQ1MDgzOSw5NjY1MT
-cxODAsLTEyNTE3NzcxMjksMTYzNzE5NDg3LC0xODIwMDMzNzIs
-LTExNDgwOTIyMzUsMjQyNjIwMTk1LC05MTU3MDMyNDcsLTE2Mz
-gxMTA0MjgsLTkxNTcwMzI0NywtODAwNzkxNzk1LC05MjQyMjAz
-MDhdfQ==
+eyJoaXN0b3J5IjpbLTU3MTkxNDkwNSwzNjU3NjUxMDYsLTEzNz
+U4NjA3MjUsMjY2OTY3NTUsLTU1MTc5ODQwMiwxMzA1MDkxMzY2
+LC0yMTgxNTI0MSwyMTA5OTMzMTQwLC0xMDQwNDUwODM5LDk2Nj
+UxNzE4MCwtMTI1MTc3NzEyOSwxNjM3MTk0ODcsLTE4MjAwMzM3
+MiwtMTE0ODA5MjIzNSwyNDI2MjAxOTUsLTkxNTcwMzI0NywtMT
+YzODExMDQyOCwtOTE1NzAzMjQ3LC04MDA3OTE3OTUsLTkyNDIy
+MDMwOF19
 -->
