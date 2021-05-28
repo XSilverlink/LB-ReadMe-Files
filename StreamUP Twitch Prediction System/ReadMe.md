@@ -62,11 +62,12 @@ Number you can put in without any "quotes"*
 I think this does not need any explaining right? 😉
 
 # Starting a prediction through Lioranboard Stream Deck
+This guide assumes that you know how to connect to
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyNjIwMTk1LC05MTU3MDMyNDcsLTE2Mz
-gxMTA0MjgsLTkxNTcwMzI0NywtODAwNzkxNzk1LC05MjQyMjAz
-MDgsLTEzMzY1MzYzODgsMjEwMDI1MTk3MiwtMjI3MjYxMjUsMj
-YzOTAxMTAyLC0xNTU2OTY2NTU2LDEwNjQxNTg3MTAsLTk5Mjg3
-NDM3Myw0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLTEwNjM3Njc1MD
-YsLTk0NTAwMDk0NF19
+eyJoaXN0b3J5IjpbLTM2OTMzOTE1LDI0MjYyMDE5NSwtOTE1Nz
+AzMjQ3LC0xNjM4MTEwNDI4LC05MTU3MDMyNDcsLTgwMDc5MTc5
+NSwtOTI0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAyNTE5NzIsLT
+IyNzI2MTI1LDI2MzkwMTEwMiwtMTU1Njk2NjU1NiwxMDY0MTU4
+NzEwLC05OTI4NzQzNzMsNDQ0ODY3NDA3LC0xMTU1OTQ4NzI3LC
+0xMDYzNzY3NTA2LC05NDUwMDA5NDRdfQ==
 -->
