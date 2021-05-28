@@ -83,9 +83,10 @@ As you can see when a prediction is running the button 'Retrieve prediction info
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_pP8Ite0cSE.png)
 
 ⁴ The reason why information has been pulling will be explained later on 
-# Starting a prediction through
+# Starting a prediction through the Transmitter
+You can also start a prediction by clicking on the StreamUP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3MDgzMTM3LC0xMjUxNzc3MTI5LDE2Mz
+eyJoaXN0b3J5IjpbMjg4NTAyNjkzLC0xMjUxNzc3MTI5LDE2Mz
 cxOTQ4NywtMTgyMDAzMzcyLC0xMTQ4MDkyMjM1LDI0MjYyMDE5
 NSwtOTE1NzAzMjQ3LC0xNjM4MTEwNDI4LC05MTU3MDMyNDcsLT
 gwMDc5MTc5NSwtOTI0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAy
