@@ -133,9 +133,9 @@ Everything is specified already in the deck but here is a little bit extra. My a
 | 3 | predictionChatStep1 | String | Title specified, waiting for 1st answer |"Title specified! Now please enter the first answer! Start typing !prediction and than the answer"
 | 4 | predictionChatStep2 | String | 1st answer specified waiting for 2nd answer | "Answer 1 specified! Now please enter the second answer! Start typing !prediction and than the answer"
 | 5 | predictionChatStep3 | String | 2nd answer specified waiting for timer number | "Answer 2 specified! Now enter how long in seconds the prediction should be running. Start typing !prediction and than a number between 1 and 1800 to start a prediction"
-| 6 | predictionChatStep4a | String | When at the first step and someone makes a boo boo | "I think you forgot a step. Please start the prediction by just typing !prediction"
+| 6 | predictionChatStep4a | String | Gives all the | "Prediction Settings: Title: /$SUPr:predictionTitle$/ || Answer 1: /$SUPr:blueTitle$/ || Answer 2: /$SUPr:pinkTitle$/ ||"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzOTgwMjYxLC0xNDYzODkxMDg5LDE3OT
+eyJoaXN0b3J5IjpbODE2MDg1NTM2LC0xNDYzODkxMDg5LDE3OT
 M4MDU1MzYsNDkzMTkwNDc0LDE2OTYyNTcwNTIsMzY1NzY1MTA2
 LC0xMzc1ODYwNzI1LDI2Njk2NzU1LC01NTE3OTg0MDIsMTMwNT
 A5MTM2NiwtMjE4MTUyNDEsMjEwOTkzMzE0MCwtMTA0MDQ1MDgz
