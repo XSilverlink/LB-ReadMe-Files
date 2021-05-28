@@ -163,21 +163,22 @@ The extension sends out the following variables:
 |--|--|--|
 | SUPr:predictionID | String | ID of prediction given by Twitch
 | SUPr:predictionTitle | String | Title you specified for the prediction
-| SUPr:predictionWindow | Number | Seconds you specified for the prediction
+| SUPr:predictionWindow | Real | Seconds you specified for the prediction
 | SUPr:predictionStatus | String | Status of the prediction. (OPEN, LOCKED, RESOLVED or CANCELED)
-| SUPr:isPredictionRunning | Number | Internal Variable to check if the prediction is running
+| SUPr:isPredictionRunning | Real | Internal Variable to check if the prediction is running
 | SUPr:blueID | String | ID of Answer 1 / Blue given by Twitch
 | SUPr:blueTitle | String | Answer you specified for Answer 1 / Blue
+| SUPr:blueTotalCP | Number | 
 | SUPr:pinkID | String | ID of Answer 2 / Pink given by Twitch
 | SUPr:pinkTitle | String | Answer you specified for Answer 2 / Pink
 | SUPr: |  | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDEwODY1MSw4MzcxMzU2NjIsNTQ4OD
-c1NjcwLC01NTA5NjE4NDAsLTE0NTAxNzM2MjIsLTEzNzc2Nzgz
-NTYsMTY1MDE5ODgzOCwtMTA3NTAzNjI3MywtNzU4MTM1ODE1LC
-05ODgxNTM1ODUsLTEwNTAyMzAzNDksMTk5OTMyNTQxOCwxODc2
-MTgyMTkyLDE3ODI2NjU2MzAsMzMwMTg1MDQyLC0yNzYxNDcxMj
-gsLTE0NjM4OTEwODksMTc5MzgwNTUzNiw0OTMxOTA0NzQsMTY5
-NjI1NzA1Ml19
+eyJoaXN0b3J5IjpbMTU3Nzc4Mzg2NSwxOTQwMTA4NjUxLDgzNz
+EzNTY2Miw1NDg4NzU2NzAsLTU1MDk2MTg0MCwtMTQ1MDE3MzYy
+MiwtMTM3NzY3ODM1NiwxNjUwMTk4ODM4LC0xMDc1MDM2MjczLC
+03NTgxMzU4MTUsLTk4ODE1MzU4NSwtMTA1MDIzMDM0OSwxOTk5
+MzI1NDE4LDE4NzYxODIxOTIsMTc4MjY2NTYzMCwzMzAxODUwND
+IsLTI3NjE0NzEyOCwtMTQ2Mzg5MTA4OSwxNzkzODA1NTM2LDQ5
+MzE5MDQ3NF19
 -->
