@@ -106,13 +106,18 @@ Here is a complete example how it works:
 
 *The texts are customizable in the 'Mod Prediction Trigger' (How to edit and what to edit is available in this document)*
 
-These are the commands
+These are the available chat commands for moderators and streamers:
+|  Chat Command| Information  |
+|--|--|
+| !prediction | This will start a prediction |
+| !prediction stop | This will stop 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI5OTM4NjksMzY1NzY1MTA2LC0xMz
-c1ODYwNzI1LDI2Njk2NzU1LC01NTE3OTg0MDIsMTMwNTA5MTM2
-NiwtMjE4MTUyNDEsMjEwOTkzMzE0MCwtMTA0MDQ1MDgzOSw5Nj
-Y1MTcxODAsLTEyNTE3NzcxMjksMTYzNzE5NDg3LC0xODIwMDMz
-NzIsLTExNDgwOTIyMzUsMjQyNjIwMTk1LC05MTU3MDMyNDcsLT
-E2MzgxMTA0MjgsLTkxNTcwMzI0NywtODAwNzkxNzk1LC05MjQy
-MjAzMDhdfQ==
+eyJoaXN0b3J5IjpbMjY3NTQ0MjQ5LDM2NTc2NTEwNiwtMTM3NT
+g2MDcyNSwyNjY5Njc1NSwtNTUxNzk4NDAyLDEzMDUwOTEzNjYs
+LTIxODE1MjQxLDIxMDk5MzMxNDAsLTEwNDA0NTA4MzksOTY2NT
+E3MTgwLC0xMjUxNzc3MTI5LDE2MzcxOTQ4NywtMTgyMDAzMzcy
+LC0xMTQ4MDkyMjM1LDI0MjYyMDE5NSwtOTE1NzAzMjQ3LC0xNj
+M4MTEwNDI4LC05MTU3MDMyNDcsLTgwMDc5MTc5NSwtOTI0MjIw
+MzA4XX0=
 -->
