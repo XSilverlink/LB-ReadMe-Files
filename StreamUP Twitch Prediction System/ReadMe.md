@@ -32,10 +32,11 @@ We shall now go over the numbers what they do and mean:
  4. This button will retrieve the latest prediction information as how many channel points have been used and how many people have chosen a side. ² ³
  5. This button will lock an open predication before the timer is finished.²
  6. This button will cancel any open or locked prediction. Viewers will get their points back.²
- 7. This button has some complex logic in it so that moderators and the streamer can make a prediction through Twitch chat. This feature was implemented so that mobile users can also create a prediction. You can't use the native '/prediction' on mobile ²
- 8. This button will make you go to the StreamUP website
- 9. This button will make you go to this documentation
- 10. This button will make you go to an awesome streamer called Silverlink and you should totally follow him 😉  
+ 7. This button has some complex logic in it so that moderators and the streamer can make a prediction through Twitch chat. This feature was implemented so that mobile users can also create a prediction.²
+    - You can't use the native '/prediction' on mobile as of writing this.
+ 9. This button will make you go to the StreamUP website
+ 10. This button will make you go to this documentation
+ 11. This button will make you go to an awesome streamer called Silverlink and you should totally follow him 😉  
 
 ² **Please do not edit these buttons.  They are fully automated.**  
 ³ **This button only retrieves information when a prediction is created through this extension!**
@@ -64,10 +65,10 @@ I think this does not need any explaining right? 😉
 # Starting a prediction through Lioranboard Stream Deck
 This guide assumes that you know how to connect to Lioranboard through the Lioranboard Stream Deck app for android or PC. Once you're connected to the app it should look something like this:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1OTI2NDUsMjQyNjIwMTk1LC05MTU3MD
-MyNDcsLTE2MzgxMTA0MjgsLTkxNTcwMzI0NywtODAwNzkxNzk1
-LC05MjQyMjAzMDgsLTEzMzY1MzYzODgsMjEwMDI1MTk3MiwtMj
-I3MjYxMjUsMjYzOTAxMTAyLC0xNTU2OTY2NTU2LDEwNjQxNTg3
-MTAsLTk5Mjg3NDM3Myw0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLT
-EwNjM3Njc1MDYsLTk0NTAwMDk0NF19
+eyJoaXN0b3J5IjpbLTExNDgwOTIyMzUsMjQyNjIwMTk1LC05MT
+U3MDMyNDcsLTE2MzgxMTA0MjgsLTkxNTcwMzI0NywtODAwNzkx
+Nzk1LC05MjQyMjAzMDgsLTEzMzY1MzYzODgsMjEwMDI1MTk3Mi
+wtMjI3MjYxMjUsMjYzOTAxMTAyLC0xNTU2OTY2NTU2LDEwNjQx
+NTg3MTAsLTk5Mjg3NDM3Myw0NDQ4Njc0MDcsLTExNTU5NDg3Mj
+csLTEwNjM3Njc1MDYsLTk0NTAwMDk0NF19
 -->
