@@ -126,14 +126,14 @@ You can edit this button to personalize the messages. If you find the messages g
 
 Everything is specified already in the deck but here is a little bit extra. My advise to you is to copy and paste the variables into a text file for easier editing. All these values are strings so they need to be in "quotes".
 
-|  Value | Variable |  Type | Info | Default message
+|  Bullet | Variable |  Type | Info | Default message
 |--|--|--|--|--|
-| 1 | Step 1 | String | First message that appears. | "Prediction setup started for /$SUPr:triggerUser$/. Please enter a title for the new prediction! Start typing !prediction and than the title of the prediction or type !prediction stop to stop anytime in the setup"
+| 1 | prediction | String | First message that appears. | "Prediction setup started for /$SUPr:triggerUser$/. Please enter a title for the new prediction! Start typing !prediction and than the title of the prediction or type !prediction stop to stop anytime in the setup"
 | 2 | Answer 1 / Blue | String | Max 25 characters
 | 3 | Answer 2 / Pink | String | Max 45 characters
 | 4 | Timer | Number | Min: 1, Max: 1800
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI4MjM1NTEsMTc5MzgwNTUzNiw0OT
+eyJoaXN0b3J5IjpbLTEyMTU4NjkyNjgsMTc5MzgwNTUzNiw0OT
 MxOTA0NzQsMTY5NjI1NzA1MiwzNjU3NjUxMDYsLTEzNzU4NjA3
 MjUsMjY2OTY3NTUsLTU1MTc5ODQwMiwxMzA1MDkxMzY2LC0yMT
 gxNTI0MSwyMTA5OTMzMTQwLC0xMDQwNDUwODM5LDk2NjUxNzE4
