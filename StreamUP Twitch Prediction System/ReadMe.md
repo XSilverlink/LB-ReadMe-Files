@@ -82,13 +82,14 @@ As you can see when a prediction is running the button 'Retrieve prediction info
 
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_pP8Ite0cSE.png)
 
-⁴ The reason why information has been pulling will be explained later on .
+⁴ The reason why information has been pulling will be explained later on 
+# Starting a prediction through
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE3NzcxMjksMTYzNzE5NDg3LC0xOD
-IwMDMzNzIsLTExNDgwOTIyMzUsMjQyNjIwMTk1LC05MTU3MDMy
-NDcsLTE2MzgxMTA0MjgsLTkxNTcwMzI0NywtODAwNzkxNzk1LC
-05MjQyMjAzMDgsLTEzMzY1MzYzODgsMjEwMDI1MTk3MiwtMjI3
-MjYxMjUsMjYzOTAxMTAyLC0xNTU2OTY2NTU2LDEwNjQxNTg3MT
-AsLTk5Mjg3NDM3Myw0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLTEw
-NjM3Njc1MDZdfQ==
+eyJoaXN0b3J5IjpbNjA3MDgzMTM3LC0xMjUxNzc3MTI5LDE2Mz
+cxOTQ4NywtMTgyMDAzMzcyLC0xMTQ4MDkyMjM1LDI0MjYyMDE5
+NSwtOTE1NzAzMjQ3LC0xNjM4MTEwNDI4LC05MTU3MDMyNDcsLT
+gwMDc5MTc5NSwtOTI0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAy
+NTE5NzIsLTIyNzI2MTI1LDI2MzkwMTEwMiwtMTU1Njk2NjU1Ni
+wxMDY0MTU4NzEwLC05OTI4NzQzNzMsNDQ0ODY3NDA3LC0xMTU1
+OTQ4NzI3XX0=
 -->
