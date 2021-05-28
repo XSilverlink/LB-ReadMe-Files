@@ -23,7 +23,8 @@ https://discord.gg/RnDKRaVCEu
 # Getting started after install
 There should be a new deck available in Lioranboard called 'StreamUP - Predictions' open up this deck and you will be greeted by the deck :
 
-![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_15IkbU6WVI.png)
+<p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_15IkbU6WVI.png"></p>
+
 We shall now go over the numbers what they do and mean:
 
  1. These are example prediction buttons. You can freely open and edit this button. You can make as many copies of these buttons as you want so you can easily make premade default predictions for yourself. Inside the button is a small instruction available about what you can change. But it will also be covered in this documentation later on also.
@@ -44,7 +45,7 @@ We shall now go over the numbers what they do and mean:
 # Setting up / editing the example prediction
 This is where a big part of the magic happens. This button can be copied as many times as you want so that can create unlimited presets for your predictions.
 
-![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_h7ErAZNGmd.png)
+<p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_h7ErAZNGmd.png"></p>
 
 ### Information section:
 This just has some general info for you to read
@@ -64,7 +65,8 @@ I think this does not need any explaining right? 😉
 
 # Starting a prediction through Lioranboard Stream Deck
 This guide assumes that you know how to connect to Lioranboard through the Lioranboard Stream Deck app for android or PC. Once you're connected to the app it should look something like this:
-![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Stream_Deck_We5ZSC950y.png)
+
+<p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Stream_Deck_We5ZSC950y.png"></p>
 
 Once you've set up your buttons you can press them on this screen. In this example we are going to click on 'Example Prediction 1' . Once the prediction has started the answer you've specified will be showing up on the Answers button as shown below:
 
@@ -97,7 +99,7 @@ When a prediction is started you'll see some information popup. These are are be
 With this you can also start predictions through twitch as a mod or streamer. Currently Twitch does not support '/prediction' on mobile so we made it possible through our own system. You just start by typing !prediction. If you or a mod start the prediction only the one who started the prediction can finish the prediction.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODQ1OTQ4NywzNjU3NjUxMDYsLTEzNz
+eyJoaXN0b3J5IjpbLTkwNzU3NzQxNSwzNjU3NjUxMDYsLTEzNz
 U4NjA3MjUsMjY2OTY3NTUsLTU1MTc5ODQwMiwxMzA1MDkxMzY2
 LC0yMTgxNTI0MSwyMTA5OTMzMTQwLC0xMDQwNDUwODM5LDk2Nj
 UxNzE4MCwtMTI1MTc3NzEyOSwxNjM3MTk0ODcsLTE4MjAwMzM3
