@@ -138,15 +138,16 @@ Everything is specified already in the deck but here is a little bit extra. My a
 | 8 | predictionChatStep5Yes | String | Message when Yes | "Starting Prediction!"
 | 9 | predictionChatStep5No | String | Message when Anything else | "Stopping prediction. You can start a new prediction by typing !prediction"
 | 10 | predictionChatStop | String | Message when triggered by !prediction stop | predictionChatStep5No
+
 *Strings needs values to be put in between "quotes"*
 
 Don't edit anything else in this button or otherwise it may brake and you may need to reinstall the deck.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjY2NTYzMCwzMzAxODUwNDIsLTI3Nj
-E0NzEyOCwtMTQ2Mzg5MTA4OSwxNzkzODA1NTM2LDQ5MzE5MDQ3
-NCwxNjk2MjU3MDUyLDM2NTc2NTEwNiwtMTM3NTg2MDcyNSwyNj
-Y5Njc1NSwtNTUxNzk4NDAyLDEzMDUwOTEzNjYsLTIxODE1MjQx
-LDIxMDk5MzMxNDAsLTEwNDA0NTA4MzksOTY2NTE3MTgwLC0xMj
-UxNzc3MTI5LDE2MzcxOTQ4NywtMTgyMDAzMzcyLC0xMTQ4MDky
-MjM1XX0=
+eyJoaXN0b3J5IjpbMTg3NjE4MjE5MiwxNzgyNjY1NjMwLDMzMD
+E4NTA0MiwtMjc2MTQ3MTI4LC0xNDYzODkxMDg5LDE3OTM4MDU1
+MzYsNDkzMTkwNDc0LDE2OTYyNTcwNTIsMzY1NzY1MTA2LC0xMz
+c1ODYwNzI1LDI2Njk2NzU1LC01NTE3OTg0MDIsMTMwNTA5MTM2
+NiwtMjE4MTUyNDEsMjEwOTkzMzE0MCwtMTA0MDQ1MDgzOSw5Nj
+Y1MTcxODAsLTEyNTE3NzcxMjksMTYzNzE5NDg3LC0xODIwMDMz
+NzJdfQ==
 -->
