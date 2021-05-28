@@ -155,14 +155,14 @@ Everything is specified already in the deck but here is a little bit extra. My a
 
 Don't edit anything else in this button or otherwise it may brake and you may need to reinstall the deck.
 
-# 
+# Receiving Variables in Lioranboard
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDMwNDY4NDgsLTk4ODE1MzU4NSwtMT
-A1MDIzMDM0OSwxOTk5MzI1NDE4LDE4NzYxODIxOTIsMTc4MjY2
-NTYzMCwzMzAxODUwNDIsLTI3NjE0NzEyOCwtMTQ2Mzg5MTA4OS
-wxNzkzODA1NTM2LDQ5MzE5MDQ3NCwxNjk2MjU3MDUyLDM2NTc2
-NTEwNiwtMTM3NTg2MDcyNSwyNjY5Njc1NSwtNTUxNzk4NDAyLD
-EzMDUwOTEzNjYsLTIxODE1MjQxLDIxMDk5MzMxNDAsLTEwNDA0
-NTA4MzldfQ==
+eyJoaXN0b3J5IjpbLTc1ODEzNTgxNSwtOTg4MTUzNTg1LC0xMD
+UwMjMwMzQ5LDE5OTkzMjU0MTgsMTg3NjE4MjE5MiwxNzgyNjY1
+NjMwLDMzMDE4NTA0MiwtMjc2MTQ3MTI4LC0xNDYzODkxMDg5LD
+E3OTM4MDU1MzYsNDkzMTkwNDc0LDE2OTYyNTcwNTIsMzY1NzY1
+MTA2LC0xMzc1ODYwNzI1LDI2Njk2NzU1LC01NTE3OTg0MDIsMT
+MwNTA5MTM2NiwtMjE4MTUyNDEsMjEwOTkzMzE0MCwtMTA0MDQ1
+MDgzOV19
 -->
