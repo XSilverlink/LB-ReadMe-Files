@@ -70,13 +70,16 @@ Once you've set up your buttons you can press them on this screen. In this examp
 
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Stream_Deck_zmoT2boEgZ.png)
 
-You can now click on 
+Also on twitch the prediction should have started and if you look into your chat or channel point menu this should be showing somewhere:
+
+![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_sq05UVAR7S.png)
+You can now 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI2MTQyOTUsLTExNDgwOTIyMzUsMj
-QyNjIwMTk1LC05MTU3MDMyNDcsLTE2MzgxMTA0MjgsLTkxNTcw
-MzI0NywtODAwNzkxNzk1LC05MjQyMjAzMDgsLTEzMzY1MzYzOD
-gsMjEwMDI1MTk3MiwtMjI3MjYxMjUsMjYzOTAxMTAyLC0xNTU2
-OTY2NTU2LDEwNjQxNTg3MTAsLTk5Mjg3NDM3Myw0NDQ4Njc0MD
-csLTExNTU5NDg3MjcsLTEwNjM3Njc1MDYsLTk0NTAwMDk0NF19
+eyJoaXN0b3J5IjpbLTg4NjQ1OTA5MCwtMTE0ODA5MjIzNSwyND
+I2MjAxOTUsLTkxNTcwMzI0NywtMTYzODExMDQyOCwtOTE1NzAz
+MjQ3LC04MDA3OTE3OTUsLTkyNDIyMDMwOCwtMTMzNjUzNjM4OC
+wyMTAwMjUxOTcyLC0yMjcyNjEyNSwyNjM5MDExMDIsLTE1NTY5
+NjY1NTYsMTA2NDE1ODcxMCwtOTkyODc0MzczLDQ0NDg2NzQwNy
+wtMTE1NTk0ODcyNywtMTA2Mzc2NzUwNiwtOTQ1MDAwOTQ0XX0=
 
 -->
