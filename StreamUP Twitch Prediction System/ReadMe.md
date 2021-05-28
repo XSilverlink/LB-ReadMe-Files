@@ -117,12 +117,16 @@ These are the available chat commands for moderators and streamers:
 | !prediction-lock| Locks the current running prediction |
 | !prediction-cancel| Cancels prediction and refunds channel points|
 
+I don't think it needs any more explanation but if you have any questions, remarks or feedback please let us know on the StreamUP Discord.
+
+# Editing the 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzMTkwNDc0LDE2OTYyNTcwNTIsMzY1Nz
-Y1MTA2LC0xMzc1ODYwNzI1LDI2Njk2NzU1LC01NTE3OTg0MDIs
-MTMwNTA5MTM2NiwtMjE4MTUyNDEsMjEwOTkzMzE0MCwtMTA0MD
-Q1MDgzOSw5NjY1MTcxODAsLTEyNTE3NzcxMjksMTYzNzE5NDg3
-LC0xODIwMDMzNzIsLTExNDgwOTIyMzUsMjQyNjIwMTk1LC05MT
-U3MDMyNDcsLTE2MzgxMTA0MjgsLTkxNTcwMzI0NywtODAwNzkx
-Nzk1XX0=
+eyJoaXN0b3J5IjpbNzE4NjcwMjU5LDQ5MzE5MDQ3NCwxNjk2Mj
+U3MDUyLDM2NTc2NTEwNiwtMTM3NTg2MDcyNSwyNjY5Njc1NSwt
+NTUxNzk4NDAyLDEzMDUwOTEzNjYsLTIxODE1MjQxLDIxMDk5Mz
+MxNDAsLTEwNDA0NTA4MzksOTY2NTE3MTgwLC0xMjUxNzc3MTI5
+LDE2MzcxOTQ4NywtMTgyMDAzMzcyLC0xMTQ4MDkyMjM1LDI0Mj
+YyMDE5NSwtOTE1NzAzMjQ3LC0xNjM4MTEwNDI4LC05MTU3MDMy
+NDddfQ==
 -->
