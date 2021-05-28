@@ -104,13 +104,13 @@ Here is a complete example how it works:
 
 <p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_bpBEnwPl88.png"></p>
 
-The texts are customizable in the 
+The texts are customizable in the '
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjYzNDIyMSwzNjU3NjUxMDYsLTEzNz
-U4NjA3MjUsMjY2OTY3NTUsLTU1MTc5ODQwMiwxMzA1MDkxMzY2
-LC0yMTgxNTI0MSwyMTA5OTMzMTQwLC0xMDQwNDUwODM5LDk2Nj
-UxNzE4MCwtMTI1MTc3NzEyOSwxNjM3MTk0ODcsLTE4MjAwMzM3
-MiwtMTE0ODA5MjIzNSwyNDI2MjAxOTUsLTkxNTcwMzI0NywtMT
-YzODExMDQyOCwtOTE1NzAzMjQ3LC04MDA3OTE3OTUsLTkyNDIy
-MDMwOF19
+eyJoaXN0b3J5IjpbLTExMjYzNjUxMjAsMzY1NzY1MTA2LC0xMz
+c1ODYwNzI1LDI2Njk2NzU1LC01NTE3OTg0MDIsMTMwNTA5MTM2
+NiwtMjE4MTUyNDEsMjEwOTkzMzE0MCwtMTA0MDQ1MDgzOSw5Nj
+Y1MTcxODAsLTEyNTE3NzcxMjksMTYzNzE5NDg3LC0xODIwMDMz
+NzIsLTExNDgwOTIyMzUsMjQyNjIwMTk1LC05MTU3MDMyNDcsLT
+E2MzgxMTA0MjgsLTkxNTcwMzI0NywtODAwNzkxNzk1LC05MjQy
+MjAzMDhdfQ==
 -->
