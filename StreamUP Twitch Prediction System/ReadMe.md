@@ -128,16 +128,16 @@ Everything is specified already in the deck but here is a little bit extra. My a
 
 |  Bullet | Variable |  Type | Info | Default message
 |--|--|--|--|--|
-| 1 | prediction | String | First message that appears. | "Prediction setup started for /$SUPr:triggerUser$/. Please enter a title for the new prediction! Start typing !prediction and than the title of the prediction or type !prediction stop to stop anytime in the setup"
-| 2 | Answer 1 / Blue | String | Max 25 characters
-| 3 | Answer 2 / Pink | String | Max 45 characters
-| 4 | Timer | Number | Min: 1, Max: 1800
+| 1 | predictionChatStep0 | String | First message that appears. | "Prediction setup started for /$SUPr:triggerUser$/. Please enter a title for the new prediction! Start typing !prediction and than the title of the prediction or type !prediction stop to stop anytime in the setup"
+| 2 |  | String | 
+| 3 |  | String | 
+| 4 |  | Number | Min: 1, Max: 1800
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU4NjkyNjgsMTc5MzgwNTUzNiw0OT
-MxOTA0NzQsMTY5NjI1NzA1MiwzNjU3NjUxMDYsLTEzNzU4NjA3
-MjUsMjY2OTY3NTUsLTU1MTc5ODQwMiwxMzA1MDkxMzY2LC0yMT
-gxNTI0MSwyMTA5OTMzMTQwLC0xMDQwNDUwODM5LDk2NjUxNzE4
-MCwtMTI1MTc3NzEyOSwxNjM3MTk0ODcsLTE4MjAwMzM3MiwtMT
-E0ODA5MjIzNSwyNDI2MjAxOTUsLTkxNTcwMzI0NywtMTYzODEx
-MDQyOF19
+eyJoaXN0b3J5IjpbLTc4MTI1OTk3MCwxNzkzODA1NTM2LDQ5Mz
+E5MDQ3NCwxNjk2MjU3MDUyLDM2NTc2NTEwNiwtMTM3NTg2MDcy
+NSwyNjY5Njc1NSwtNTUxNzk4NDAyLDEzMDUwOTEzNjYsLTIxOD
+E1MjQxLDIxMDk5MzMxNDAsLTEwNDA0NTA4MzksOTY2NTE3MTgw
+LC0xMjUxNzc3MTI5LDE2MzcxOTQ4NywtMTgyMDAzMzcyLC0xMT
+Q4MDkyMjM1LDI0MjYyMDE5NSwtOTE1NzAzMjQ3LC0xNjM4MTEw
+NDI4XX0=
 -->
