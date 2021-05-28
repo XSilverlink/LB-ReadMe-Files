@@ -123,16 +123,16 @@ I don't think it needs any more explanation but if you have any questions, remar
 You can edit this button to personalize the messages. If you find the messages good enough you skip this area.
 
 <p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_SR8fDJB1zp.png"></p>
-Everything is specified already in the deck but here is a little bit extra. My advise to you is to copy and paste the variables into a text file for easier editing.
+Everything is specified already in the deck but here is a little bit extra. My advise to you is to copy and paste the variables into a text file for easier editing. All these values are strings so they need to 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzU0NzE3Niw0OTMxOTA0NzQsMTY5Nj
-I1NzA1MiwzNjU3NjUxMDYsLTEzNzU4NjA3MjUsMjY2OTY3NTUs
-LTU1MTc5ODQwMiwxMzA1MDkxMzY2LC0yMTgxNTI0MSwyMTA5OT
-MzMTQwLC0xMDQwNDUwODM5LDk2NjUxNzE4MCwtMTI1MTc3NzEy
-OSwxNjM3MTk0ODcsLTE4MjAwMzM3MiwtMTE0ODA5MjIzNSwyND
-I2MjAxOTUsLTkxNTcwMzI0NywtMTYzODExMDQyOCwtOTE1NzAz
-MjQ3XX0=
+eyJoaXN0b3J5IjpbLTE0ODMwNDIyMjcsNDkzMTkwNDc0LDE2OT
+YyNTcwNTIsMzY1NzY1MTA2LC0xMzc1ODYwNzI1LDI2Njk2NzU1
+LC01NTE3OTg0MDIsMTMwNTA5MTM2NiwtMjE4MTUyNDEsMjEwOT
+kzMzE0MCwtMTA0MDQ1MDgzOSw5NjY1MTcxODAsLTEyNTE3Nzcx
+MjksMTYzNzE5NDg3LC0xODIwMDMzNzIsLTExNDgwOTIyMzUsMj
+QyNjIwMTk1LC05MTU3MDMyNDcsLTE2MzgxMTA0MjgsLTkxNTcw
+MzI0N119
 -->
