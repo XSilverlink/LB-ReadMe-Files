@@ -90,13 +90,14 @@ You can also start a prediction by clicking on the 'StreamUP Twitch Prediction S
 First you need to press the button 'Get / Refresh OAuth Credentials from Lioranboard' so it will retrieve your credentials from Lioranboard. If you don't press that button, creating a prediction will not work. After that you can fill in the fields in the 'Create Prediction' area as you would in Lioranboard.  When the fields are filled you just press the button 'Start New Prediction' and voila the prediction should be started. This syncs up with Lioranboard itself so the decks will also be updated.
 
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/chrome_rrPyRt86Uy.png)
+
 When a prediction is started you'll see some information popup. These are 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODE1MjQxLDIxMDk5MzMxNDAsLTEwND
-A0NTA4MzksOTY2NTE3MTgwLC0xMjUxNzc3MTI5LDE2MzcxOTQ4
-NywtMTgyMDAzMzcyLC0xMTQ4MDkyMjM1LDI0MjYyMDE5NSwtOT
-E1NzAzMjQ3LC0xNjM4MTEwNDI4LC05MTU3MDMyNDcsLTgwMDc5
-MTc5NSwtOTI0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAyNTE5Nz
-IsLTIyNzI2MTI1LDI2MzkwMTEwMiwtMTU1Njk2NjU1NiwxMDY0
-MTU4NzEwXX0=
+eyJoaXN0b3J5IjpbLTc1MTk3ODkwNywtMjE4MTUyNDEsMjEwOT
+kzMzE0MCwtMTA0MDQ1MDgzOSw5NjY1MTcxODAsLTEyNTE3Nzcx
+MjksMTYzNzE5NDg3LC0xODIwMDMzNzIsLTExNDgwOTIyMzUsMj
+QyNjIwMTk1LC05MTU3MDMyNDcsLTE2MzgxMTA0MjgsLTkxNTcw
+MzI0NywtODAwNzkxNzk1LC05MjQyMjAzMDgsLTEzMzY1MzYzOD
+gsMjEwMDI1MTk3MiwtMjI3MjYxMjUsMjYzOTAxMTAyLC0xNTU2
+OTY2NTU2XX0=
 -->
