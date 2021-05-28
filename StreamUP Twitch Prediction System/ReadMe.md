@@ -112,14 +112,15 @@ These are the available chat commands for moderators and streamers:
 | !prediction | This will start a prediction |
 | !prediction stop | This will stop the current setup of a prediction
 | !prediction-winblue | Pick Team Blue as the winner |
-| !prediction-winpink | Pick Team|
+| !prediction-winpink | Pick Team Pink as the winner|
+| !prediction-| |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU1MjM5NzEsMzY1NzY1MTA2LC0xMz
-c1ODYwNzI1LDI2Njk2NzU1LC01NTE3OTg0MDIsMTMwNTA5MTM2
-NiwtMjE4MTUyNDEsMjEwOTkzMzE0MCwtMTA0MDQ1MDgzOSw5Nj
-Y1MTcxODAsLTEyNTE3NzcxMjksMTYzNzE5NDg3LC0xODIwMDMz
-NzIsLTExNDgwOTIyMzUsMjQyNjIwMTk1LC05MTU3MDMyNDcsLT
-E2MzgxMTA0MjgsLTkxNTcwMzI0NywtODAwNzkxNzk1LC05MjQy
-MjAzMDhdfQ==
+eyJoaXN0b3J5IjpbMTQ4MDAyNzQ1NCwzNjU3NjUxMDYsLTEzNz
+U4NjA3MjUsMjY2OTY3NTUsLTU1MTc5ODQwMiwxMzA1MDkxMzY2
+LC0yMTgxNTI0MSwyMTA5OTMzMTQwLC0xMDQwNDUwODM5LDk2Nj
+UxNzE4MCwtMTI1MTc3NzEyOSwxNjM3MTk0ODcsLTE4MjAwMzM3
+MiwtMTE0ODA5MjIzNSwyNDI2MjAxOTUsLTkxNTcwMzI0NywtMT
+YzODExMDQyOCwtOTE1NzAzMjQ3LC04MDA3OTE3OTUsLTkyNDIy
+MDMwOF19
 -->
