@@ -119,14 +119,15 @@ These are the available chat commands for moderators and streamers:
 
 I don't think it needs any more explanation but if you have any questions, remarks or feedback please let us know on the StreamUP Discord.
 
-# Editing the 
+# Editing the 'Mod Prediction Trigger'
+You can edit this button to personalize the messages. If you find the messages good enough you skip this area
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NjcwMjU5LDQ5MzE5MDQ3NCwxNjk2Mj
-U3MDUyLDM2NTc2NTEwNiwtMTM3NTg2MDcyNSwyNjY5Njc1NSwt
-NTUxNzk4NDAyLDEzMDUwOTEzNjYsLTIxODE1MjQxLDIxMDk5Mz
-MxNDAsLTEwNDA0NTA4MzksOTY2NTE3MTgwLC0xMjUxNzc3MTI5
-LDE2MzcxOTQ4NywtMTgyMDAzMzcyLC0xMTQ4MDkyMjM1LDI0Mj
-YyMDE5NSwtOTE1NzAzMjQ3LC0xNjM4MTEwNDI4LC05MTU3MDMy
-NDddfQ==
+eyJoaXN0b3J5IjpbNTMwNzc5NDUsNDkzMTkwNDc0LDE2OTYyNT
+cwNTIsMzY1NzY1MTA2LC0xMzc1ODYwNzI1LDI2Njk2NzU1LC01
+NTE3OTg0MDIsMTMwNTA5MTM2NiwtMjE4MTUyNDEsMjEwOTkzMz
+E0MCwtMTA0MDQ1MDgzOSw5NjY1MTcxODAsLTEyNTE3NzcxMjks
+MTYzNzE5NDg3LC0xODIwMDMzNzIsLTExNDgwOTIyMzUsMjQyNj
+IwMTk1LC05MTU3MDMyNDcsLTE2MzgxMTA0MjgsLTkxNTcwMzI0
+N119
 -->
