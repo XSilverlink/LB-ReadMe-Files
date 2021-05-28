@@ -161,10 +161,11 @@ This is where the magic happens! Lioranboard receives every 2 seconds (or per wh
 The extension sends out the following variables:
 | Variable | Type | Information
 |--|--|--|
-|  |  |
+| SUPr:predictionID | String | ID of prediction given by twitch
+| SUPr:| |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDU0MjcxNiw1NDg4NzU2NzAsLTU1MD
+eyJoaXN0b3J5IjpbLTQ0NzQ4ODE0Myw1NDg4NzU2NzAsLTU1MD
 k2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3ODM1NiwxNjUwMTk4
 ODM4LC0xMDc1MDM2MjczLC03NTgxMzU4MTUsLTk4ODE1MzU4NS
 wtMTA1MDIzMDM0OSwxOTk5MzI1NDE4LDE4NzYxODIxOTIsMTc4
