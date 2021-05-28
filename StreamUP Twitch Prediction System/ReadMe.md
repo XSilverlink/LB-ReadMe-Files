@@ -108,6 +108,7 @@ Here is a complete example how it works:
 
 These are the available chat commands for moderators and streamers:
 <p align="center">
+
 |  Chat Command| Information  |
 |--|--|
 | !prediction | This will start a prediction |
@@ -116,9 +117,10 @@ These are the available chat commands for moderators and streamers:
 | !prediction-winpink | Pick Team Pink as the winner|
 | !prediction-lock| Locks the current running prediction |
 | !prediction-cancel| Cancels prediction and refunds channel points|
+
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDgwODcyMCwxNjk2MjU3MDUyLDM2NT
+eyJoaXN0b3J5IjpbLTU2Mjc2NDgyMCwxNjk2MjU3MDUyLDM2NT
 c2NTEwNiwtMTM3NTg2MDcyNSwyNjY5Njc1NSwtNTUxNzk4NDAy
 LDEzMDUwOTEzNjYsLTIxODE1MjQxLDIxMDk5MzMxNDAsLTEwND
 A0NTA4MzksOTY2NTE3MTgwLC0xMjUxNzc3MTI5LDE2MzcxOTQ4
