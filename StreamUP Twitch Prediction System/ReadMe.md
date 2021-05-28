@@ -107,6 +107,7 @@ Here is a complete example how it works:
 *The texts are customizable in the 'Mod Prediction Trigger' (How to edit and what to edit is available in this document)*
 
 These are the available chat commands for moderators and streamers:
+<p align="center">
 |  Chat Command| Information  |
 |--|--|
 | !prediction | This will start a prediction |
@@ -115,13 +116,13 @@ These are the available chat commands for moderators and streamers:
 | !prediction-winpink | Pick Team Pink as the winner|
 | !prediction-lock| Locks the current running prediction |
 | !prediction-cancel| Cancels prediction and refunds channel points|
-
+</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjI1NzA1MiwzNjU3NjUxMDYsLTEzNz
-U4NjA3MjUsMjY2OTY3NTUsLTU1MTc5ODQwMiwxMzA1MDkxMzY2
-LC0yMTgxNTI0MSwyMTA5OTMzMTQwLC0xMDQwNDUwODM5LDk2Nj
-UxNzE4MCwtMTI1MTc3NzEyOSwxNjM3MTk0ODcsLTE4MjAwMzM3
-MiwtMTE0ODA5MjIzNSwyNDI2MjAxOTUsLTkxNTcwMzI0NywtMT
-YzODExMDQyOCwtOTE1NzAzMjQ3LC04MDA3OTE3OTUsLTkyNDIy
-MDMwOF19
+eyJoaXN0b3J5IjpbMTY1MDgwODcyMCwxNjk2MjU3MDUyLDM2NT
+c2NTEwNiwtMTM3NTg2MDcyNSwyNjY5Njc1NSwtNTUxNzk4NDAy
+LDEzMDUwOTEzNjYsLTIxODE1MjQxLDIxMDk5MzMxNDAsLTEwND
+A0NTA4MzksOTY2NTE3MTgwLC0xMjUxNzc3MTI5LDE2MzcxOTQ4
+NywtMTgyMDAzMzcyLC0xMTQ4MDkyMjM1LDI0MjYyMDE5NSwtOT
+E1NzAzMjQ3LC0xNjM4MTEwNDI4LC05MTU3MDMyNDcsLTgwMDc5
+MTc5NV19
 -->
