@@ -28,8 +28,7 @@ Lioranboard does not have the capability yet to generate a token with prediction
  2. Tick everything on you want to enable
  3. Click on 'Copy URL'
  4. paste the URL in notepad or some equivalent
- 5. Add this to the end of the URL:
-	 -  +channel:manage:predictions
+ 5. Add this to the end of the URL:  +channel:manage:predictions
  6. Copy the whole URL
  7. Paste it in your default / favorite browser
  8. And click the purple Authorize button
@@ -156,11 +155,11 @@ Everything is specified already in the deck but here is a little bit extra. My a
 
 Don't edit anything else in this button or otherwise it may brake and you may need to reinstall the deck.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTMyNTQxOCwxODc2MTgyMTkyLDE3OD
-I2NjU2MzAsMzMwMTg1MDQyLC0yNzYxNDcxMjgsLTE0NjM4OTEw
-ODksMTc5MzgwNTUzNiw0OTMxOTA0NzQsMTY5NjI1NzA1MiwzNj
-U3NjUxMDYsLTEzNzU4NjA3MjUsMjY2OTY3NTUsLTU1MTc5ODQw
-MiwxMzA1MDkxMzY2LC0yMTgxNTI0MSwyMTA5OTMzMTQwLC0xMD
-QwNDUwODM5LDk2NjUxNzE4MCwtMTI1MTc3NzEyOSwxNjM3MTk0
-ODddfQ==
+eyJoaXN0b3J5IjpbLTEwNTAyMzAzNDksMTk5OTMyNTQxOCwxOD
+c2MTgyMTkyLDE3ODI2NjU2MzAsMzMwMTg1MDQyLC0yNzYxNDcx
+MjgsLTE0NjM4OTEwODksMTc5MzgwNTUzNiw0OTMxOTA0NzQsMT
+Y5NjI1NzA1MiwzNjU3NjUxMDYsLTEzNzU4NjA3MjUsMjY2OTY3
+NTUsLTU1MTc5ODQwMiwxMzA1MDkxMzY2LC0yMTgxNTI0MSwyMT
+A5OTMzMTQwLC0xMDQwNDUwODM5LDk2NjUxNzE4MCwtMTI1MTc3
+NzEyOV19
 -->
