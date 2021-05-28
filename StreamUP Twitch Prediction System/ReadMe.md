@@ -66,9 +66,10 @@ I think this does not need any explaining right? 😉
 This guide assumes that you know how to connect to Lioranboard through the Lioranboard Stream Deck app for android or PC. Once you're connected to the app it should look something like this:
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Stream_Deck_We5ZSC950y.png)
 
-Once you've set up your buttons you can press them on this screen. In this example we are going to click on 'Example Prediction 1'
+Once you've set up your buttons you can press them on this screen. In this example we are going to click on 'Example Prediction 1' . Once the prediction has started the answer you've specified will be showing up on the Answers button as shown below:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDYwMzA4NTEsLTExNDgwOTIyMzUsMj
+eyJoaXN0b3J5IjpbLTE1NTA2ODY2MTEsLTExNDgwOTIyMzUsMj
 QyNjIwMTk1LC05MTU3MDMyNDcsLTE2MzgxMTA0MjgsLTkxNTcw
 MzI0NywtODAwNzkxNzk1LC05MjQyMjAzMDgsLTEzMzY1MzYzOD
 gsMjEwMDI1MTk3MiwtMjI3MjYxMjUsMjYzOTAxMTAyLC0xNTU2
