@@ -84,9 +84,9 @@ As you can see when a prediction is running the button 'Retrieve prediction info
 
 ⁴ The reason why information has been pulling will be explained later on 
 # Starting a prediction through the Transmitter
-You can also start a prediction by clicking on the 'StreamUP Twitch Prediction System' tab in your tsl_transmitter and you
+You can also start a prediction by clicking on the 'StreamUP Twitch Prediction System' tab in your tsl_transmitter and you can start a prediction there. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5NjgxMTU4LC0xMjUxNzc3MTI5LDE2Mz
+eyJoaXN0b3J5IjpbOTY2NTE3MTgwLC0xMjUxNzc3MTI5LDE2Mz
 cxOTQ4NywtMTgyMDAzMzcyLC0xMTQ4MDkyMjM1LDI0MjYyMDE5
 NSwtOTE1NzAzMjQ3LC0xNjM4MTEwNDI4LC05MTU3MDMyNDcsLT
 gwMDc5MTc5NSwtOTI0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAy
