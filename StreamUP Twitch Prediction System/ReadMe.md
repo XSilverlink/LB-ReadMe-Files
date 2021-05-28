@@ -77,10 +77,10 @@ Also on twitch the prediction should have started and if you look into your chat
 You can now press one of the answer buttons to set that as the winning prediction, you can lock the prediction so that no new votes can be put in or you can cancel the running prediction and give everyone their points back.
 
 As you can see in your deck the button 'Retrieve prediction information' flashes every 2 seconds. This will be happening until
-the timer runs out or if you lock the prediction. Manually pressing this button while nothing is running or when a prediction is locked will not do anything. This button is meant for retrieving prediction information that is made through this extension.
+the timer runs out or if you lock the prediction. Manually pressing this button while nothing is running or when a prediction is locked will not do anything. This button is meant for retrieving prediction information that is made through this extension. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTg5NzIxMiwtMTE0ODA5MjIzNSwyND
+eyJoaXN0b3J5IjpbLTE4MjAwMzM3MiwtMTE0ODA5MjIzNSwyND
 I2MjAxOTUsLTkxNTcwMzI0NywtMTYzODExMDQyOCwtOTE1NzAz
 MjQ3LC04MDA3OTE3OTUsLTkyNDIyMDMwOCwtMTMzNjUzNjM4OC
 wyMTAwMjUxOTcyLC0yMjcyNjEyNSwyNjM5MDExMDIsLTE1NTY5
