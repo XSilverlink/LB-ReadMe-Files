@@ -21,6 +21,9 @@ https://discord.gg/RnDKRaVCEu
 
 ¹ Currently its only possible to do these things if its launched through the extension.
 
+# First things first!
+Lioranboard does not have the capability yet to generate a token with predictions yet. Until this is resolved you need to generate a new code manually
+
 # Getting started after install
 There should be a new deck available in Lioranboard called 'StreamUP - Predictions' open up this deck and you will be greeted by the deck :
 
@@ -143,11 +146,11 @@ Everything is specified already in the deck but here is a little bit extra. My a
 
 Don't edit anything else in this button or otherwise it may brake and you may need to reinstall the deck.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjE4MjE5MiwxNzgyNjY1NjMwLDMzMD
-E4NTA0MiwtMjc2MTQ3MTI4LC0xNDYzODkxMDg5LDE3OTM4MDU1
-MzYsNDkzMTkwNDc0LDE2OTYyNTcwNTIsMzY1NzY1MTA2LC0xMz
-c1ODYwNzI1LDI2Njk2NzU1LC01NTE3OTg0MDIsMTMwNTA5MTM2
-NiwtMjE4MTUyNDEsMjEwOTkzMzE0MCwtMTA0MDQ1MDgzOSw5Nj
-Y1MTcxODAsLTEyNTE3NzcxMjksMTYzNzE5NDg3LC0xODIwMDMz
-NzJdfQ==
+eyJoaXN0b3J5IjpbMTM4MzIwOTU5MSwxODc2MTgyMTkyLDE3OD
+I2NjU2MzAsMzMwMTg1MDQyLC0yNzYxNDcxMjgsLTE0NjM4OTEw
+ODksMTc5MzgwNTUzNiw0OTMxOTA0NzQsMTY5NjI1NzA1MiwzNj
+U3NjUxMDYsLTEzNzU4NjA3MjUsMjY2OTY3NTUsLTU1MTc5ODQw
+MiwxMzA1MDkxMzY2LC0yMTgxNTI0MSwyMTA5OTMzMTQwLC0xMD
+QwNDUwODM5LDk2NjUxNzE4MCwtMTI1MTc3NzEyOSwxNjM3MTk0
+ODddfQ==
 -->
