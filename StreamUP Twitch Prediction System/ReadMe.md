@@ -91,13 +91,13 @@ First you need to press the button 'Get / Refresh OAuth Credentials from Lioranb
 
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/chrome_rrPyRt86Uya.png)
 
-When a prediction is started you'll see some information popup. These are 
+When a prediction is started you'll see some information popup. These are are being live retrieved through lioranboard (That is what the flashing 'Retrieve prediction information' button does 😉) You can see live how many people have cast a prediction and how many channel points they have spend. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTA5MTM2NiwtMjE4MTUyNDEsMjEwOT
-kzMzE0MCwtMTA0MDQ1MDgzOSw5NjY1MTcxODAsLTEyNTE3Nzcx
-MjksMTYzNzE5NDg3LC0xODIwMDMzNzIsLTExNDgwOTIyMzUsMj
-QyNjIwMTk1LC05MTU3MDMyNDcsLTE2MzgxMTA0MjgsLTkxNTcw
-MzI0NywtODAwNzkxNzk1LC05MjQyMjAzMDgsLTEzMzY1MzYzOD
-gsMjEwMDI1MTk3MiwtMjI3MjYxMjUsMjYzOTAxMTAyLC0xNTU2
-OTY2NTU2XX0=
+eyJoaXN0b3J5IjpbLTc5MzQzMzE1NSwxMzA1MDkxMzY2LC0yMT
+gxNTI0MSwyMTA5OTMzMTQwLC0xMDQwNDUwODM5LDk2NjUxNzE4
+MCwtMTI1MTc3NzEyOSwxNjM3MTk0ODcsLTE4MjAwMzM3MiwtMT
+E0ODA5MjIzNSwyNDI2MjAxOTUsLTkxNTcwMzI0NywtMTYzODEx
+MDQyOCwtOTE1NzAzMjQ3LC04MDA3OTE3OTUsLTkyNDIyMDMwOC
+wtMTMzNjUzNjM4OCwyMTAwMjUxOTcyLC0yMjcyNjEyNSwyNjM5
+MDExMDJdfQ==
 -->
