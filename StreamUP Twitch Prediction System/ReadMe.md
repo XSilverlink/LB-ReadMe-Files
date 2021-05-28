@@ -170,8 +170,8 @@ The extension sends out the following variables:
 | SUPr:blueTitle | String | Answer you specified for Answer 1 / Blue
 | SUPr:blueTotalCP | Real | Total amount of channel points spent for Answer 1 / Blue
 | SUPr:blueTotalCPRounded | String | Total amount of channel points for Answer 1 / Blue. Will give you a rounded String when over 1000+ channel points spent. (ex: 1337 will show as 1.3k)
-| SUPr:blueTotalUsers | Real | Total amount of people who votes for Answer 1 / Blue
-| SUPr:blueTotalUsersRounded | String | Total amount of people who votes for A
+| SUPr:blueTotalUsers | Real | Total amount of people who voted for Answer 1 / Blue
+| SUPr:blueTotalUsersRounded | String | Total amount of people who voted for Answer 1 / Blue. Will give you a rounded String when over 1000+ channel points spent. (ex: 1111 will show as 1.1k)
 | SUPr: |  | 
 | SUPr: |  | 
 | SUPr:pinkID | String | ID of Answer 2 / Pink given by Twitch
@@ -179,11 +179,11 @@ The extension sends out the following variables:
 | SUPr: |  | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwNzYwMzA3LDE5NDAxMDg2NTEsODM3MT
-M1NjYyLDU0ODg3NTY3MCwtNTUwOTYxODQwLC0xNDUwMTczNjIy
-LC0xMzc3Njc4MzU2LDE2NTAxOTg4MzgsLTEwNzUwMzYyNzMsLT
-c1ODEzNTgxNSwtOTg4MTUzNTg1LC0xMDUwMjMwMzQ5LDE5OTkz
-MjU0MTgsMTg3NjE4MjE5MiwxNzgyNjY1NjMwLDMzMDE4NTA0Mi
-wtMjc2MTQ3MTI4LC0xNDYzODkxMDg5LDE3OTM4MDU1MzYsNDkz
-MTkwNDc0XX0=
+eyJoaXN0b3J5IjpbLTE2NjI5MDg2MjUsMTk0MDEwODY1MSw4Mz
+cxMzU2NjIsNTQ4ODc1NjcwLC01NTA5NjE4NDAsLTE0NTAxNzM2
+MjIsLTEzNzc2NzgzNTYsMTY1MDE5ODgzOCwtMTA3NTAzNjI3My
+wtNzU4MTM1ODE1LC05ODgxNTM1ODUsLTEwNTAyMzAzNDksMTk5
+OTMyNTQxOCwxODc2MTgyMTkyLDE3ODI2NjU2MzAsMzMwMTg1MD
+QyLC0yNzYxNDcxMjgsLTE0NjM4OTEwODksMTc5MzgwNTUzNiw0
+OTMxOTA0NzRdfQ==
 -->
