@@ -68,10 +68,11 @@ This guide assumes that you know how to connect to Lioranboard through the Liora
 
 Once you've set up your buttons you can press them on this screen. In this example we are going to click on 'Example Prediction 1' . Once the prediction has started the answer you've specified will be showing up on the Answers button as shown below:
 
-![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Stream_Deck_zmoT2boEgZ.png)
+<p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Stream_Deck_zmoT2boEgZ.png"></p>
 
 Also on twitch the prediction should have started and if you look into your chat or channel point menu this should be showing somewhere:
-<p><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_sq05UVAR7S.png"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_sq05UVAR7S.png"></p>
 
 You can now press one of the answer buttons to set that as the winning prediction, you can also lock the prediction so that no new votes can be put in or you can cancel the running prediction and give everyone their points back.
 
@@ -96,11 +97,11 @@ When a prediction is started you'll see some information popup. These are are be
 With this you can also start predictions through twitch as a mod or streamer. Currently Twitch does not support '/prediction' on mobile so we made it possible through our own system. You just start by typing !prediction. If you or a mod start the prediction only the one who started the prediction can finish the prediction.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1NzY1MTA2LC0xMzc1ODYwNzI1LDI2Nj
-k2NzU1LC01NTE3OTg0MDIsMTMwNTA5MTM2NiwtMjE4MTUyNDEs
-MjEwOTkzMzE0MCwtMTA0MDQ1MDgzOSw5NjY1MTcxODAsLTEyNT
-E3NzcxMjksMTYzNzE5NDg3LC0xODIwMDMzNzIsLTExNDgwOTIy
-MzUsMjQyNjIwMTk1LC05MTU3MDMyNDcsLTE2MzgxMTA0MjgsLT
-kxNTcwMzI0NywtODAwNzkxNzk1LC05MjQyMjAzMDgsLTEzMzY1
-MzYzODhdfQ==
+eyJoaXN0b3J5IjpbLTIxODQ1OTQ4NywzNjU3NjUxMDYsLTEzNz
+U4NjA3MjUsMjY2OTY3NTUsLTU1MTc5ODQwMiwxMzA1MDkxMzY2
+LC0yMTgxNTI0MSwyMTA5OTMzMTQwLC0xMDQwNDUwODM5LDk2Nj
+UxNzE4MCwtMTI1MTc3NzEyOSwxNjM3MTk0ODcsLTE4MjAwMzM3
+MiwtMTE0ODA5MjIzNSwyNDI2MjAxOTUsLTkxNTcwMzI0NywtMT
+YzODExMDQyOCwtOTE1NzAzMjQ3LC04MDA3OTE3OTUsLTkyNDIy
+MDMwOF19
 -->
