@@ -27,11 +27,12 @@ Lioranboard does not have the capability yet to generate a token with prediction
  1. Click on 'Link your Twitch'
  2. Tick everything on you want to enable
  3. Click on 'Copy URL'
- 4. paste the URL in notepad or some equivalent notepad
+ 4. paste the URL in notepad or some equivalent
  5. Add this to the end of the URL:
 	 -  +channel:manage:predictions
  6. Copy the whole URL
- 7. Paste it in your default / favorite browser 
+ 7. Paste it in your default / favorite browser
+ 8. And click the purple Authorize button
 
 # Getting started after install
 There should be a new deck available in Lioranboard called 'StreamUP - Predictions' open up this deck and you will be greeted by the deck :
@@ -155,11 +156,11 @@ Everything is specified already in the deck but here is a little bit extra. My a
 
 Don't edit anything else in this button or otherwise it may brake and you may need to reinstall the deck.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjM5NTgxMzQsMTg3NjE4MjE5MiwxNz
-gyNjY1NjMwLDMzMDE4NTA0MiwtMjc2MTQ3MTI4LC0xNDYzODkx
-MDg5LDE3OTM4MDU1MzYsNDkzMTkwNDc0LDE2OTYyNTcwNTIsMz
-Y1NzY1MTA2LC0xMzc1ODYwNzI1LDI2Njk2NzU1LC01NTE3OTg0
-MDIsMTMwNTA5MTM2NiwtMjE4MTUyNDEsMjEwOTkzMzE0MCwtMT
-A0MDQ1MDgzOSw5NjY1MTcxODAsLTEyNTE3NzcxMjksMTYzNzE5
-NDg3XX0=
+eyJoaXN0b3J5IjpbMTk5OTMyNTQxOCwxODc2MTgyMTkyLDE3OD
+I2NjU2MzAsMzMwMTg1MDQyLC0yNzYxNDcxMjgsLTE0NjM4OTEw
+ODksMTc5MzgwNTUzNiw0OTMxOTA0NzQsMTY5NjI1NzA1MiwzNj
+U3NjUxMDYsLTEzNzU4NjA3MjUsMjY2OTY3NTUsLTU1MTc5ODQw
+MiwxMzA1MDkxMzY2LC0yMTgxNTI0MSwyMTA5OTMzMTQwLC0xMD
+QwNDUwODM5LDk2NjUxNzE4MCwtMTI1MTc3NzEyOSwxNjM3MTk0
+ODddfQ==
 -->
