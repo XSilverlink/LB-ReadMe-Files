@@ -71,8 +71,7 @@ Once you've set up your buttons you can press them on this screen. In this examp
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Stream_Deck_zmoT2boEgZ.png)
 
 Also on twitch the prediction should have started and if you look into your chat or channel point menu this should be showing somewhere:
-
-![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_sq05UVAR7S.png)
+<p><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_sq05UVAR7S.png"></p>
 
 You can now press one of the answer buttons to set that as the winning prediction, you can also lock the prediction so that no new votes can be put in or you can cancel the running prediction and give everyone their points back.
 
@@ -97,11 +96,11 @@ When a prediction is started you'll see some information popup. These are are be
 With this you can also start predictions through twitch as a mod or streamer. Currently Twitch does not support '/prediction' on mobile so we made it possible through our own system. You just start by typing !prediction. If you or a mod start the prediction only the one who started the prediction can finish the prediction.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU4NjA3MjUsMjY2OTY3NTUsLTU1MT
-c5ODQwMiwxMzA1MDkxMzY2LC0yMTgxNTI0MSwyMTA5OTMzMTQw
-LC0xMDQwNDUwODM5LDk2NjUxNzE4MCwtMTI1MTc3NzEyOSwxNj
-M3MTk0ODcsLTE4MjAwMzM3MiwtMTE0ODA5MjIzNSwyNDI2MjAx
-OTUsLTkxNTcwMzI0NywtMTYzODExMDQyOCwtOTE1NzAzMjQ3LC
-04MDA3OTE3OTUsLTkyNDIyMDMwOCwtMTMzNjUzNjM4OCwyMTAw
-MjUxOTcyXX0=
+eyJoaXN0b3J5IjpbMzY1NzY1MTA2LC0xMzc1ODYwNzI1LDI2Nj
+k2NzU1LC01NTE3OTg0MDIsMTMwNTA5MTM2NiwtMjE4MTUyNDEs
+MjEwOTkzMzE0MCwtMTA0MDQ1MDgzOSw5NjY1MTcxODAsLTEyNT
+E3NzcxMjksMTYzNzE5NDg3LC0xODIwMDMzNzIsLTExNDgwOTIy
+MzUsMjQyNjIwMTk1LC05MTU3MDMyNDcsLTE2MzgxMTA0MjgsLT
+kxNTcwMzI0NywtODAwNzkxNzk1LC05MjQyMjAzMDgsLTEzMzY1
+MzYzODhdfQ==
 -->
