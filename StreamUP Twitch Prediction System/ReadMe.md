@@ -91,13 +91,13 @@ First you need to press the button 'Get / Refresh OAuth Credentials from Lioranb
 
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/chrome_rrPyRt86Uya.png)
 
-When a prediction is started you'll see some information popup. These are are being live retrieved through lioranboard (That is what the flashing 'Retrieve prediction information' button does 😉) You can see live how many people have cast a prediction and how many channel points they have spend. This information is also pushed to Lioranboard (More information about this later in this document). Here you can, just as in the Lioranboard stream deck application 
+When a prediction is started you'll see some information popup. These are are being live retrieved through lioranboard (That is what the flashing 'Retrieve prediction information' button does 😉) You can see live how many people have cast a prediction and how many channel points they have spend. This information is also pushed to Lioranboard (More information about this later in this document). Here you can, just as in the Lioranboard stream deck application, select a winner, lock and / or cancel a prediction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTIxMDk3MywtNTUxNzk4NDAyLDEzMD
-UwOTEzNjYsLTIxODE1MjQxLDIxMDk5MzMxNDAsLTEwNDA0NTA4
-MzksOTY2NTE3MTgwLC0xMjUxNzc3MTI5LDE2MzcxOTQ4NywtMT
-gyMDAzMzcyLC0xMTQ4MDkyMjM1LDI0MjYyMDE5NSwtOTE1NzAz
-MjQ3LC0xNjM4MTEwNDI4LC05MTU3MDMyNDcsLTgwMDc5MTc5NS
-wtOTI0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAyNTE5NzIsLTIy
-NzI2MTI1XX0=
+eyJoaXN0b3J5IjpbMjY2OTY3NTUsLTU1MTc5ODQwMiwxMzA1MD
+kxMzY2LC0yMTgxNTI0MSwyMTA5OTMzMTQwLC0xMDQwNDUwODM5
+LDk2NjUxNzE4MCwtMTI1MTc3NzEyOSwxNjM3MTk0ODcsLTE4Mj
+AwMzM3MiwtMTE0ODA5MjIzNSwyNDI2MjAxOTUsLTkxNTcwMzI0
+NywtMTYzODExMDQyOCwtOTE1NzAzMjQ3LC04MDA3OTE3OTUsLT
+kyNDIyMDMwOCwtMTMzNjUzNjM4OCwyMTAwMjUxOTcyLC0yMjcy
+NjEyNV19
 -->
