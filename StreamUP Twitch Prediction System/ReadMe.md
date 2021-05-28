@@ -129,15 +129,15 @@ Everything is specified already in the deck but here is a little bit extra. My a
 |  Bullet | Variable |  Type | Info | Default message
 |--|--|--|--|--|
 | 1 | predictionChatStep0 | String | First message that appears. | "Prediction setup started for /$SUPr:triggerUser$/. Please enter a title for the new prediction! Start typing !prediction and than the title of the prediction or type !prediction stop to stop anytime in the setup"
-| 2 | predictionChatStep0Error | String | "I think you forgot a step. Please start the prediction by just typing !prediction"
+| 2 | predictionChatStep0Error | String | When at the first step and someone makes a boo boo | "I think you forgot a step. Please start the prediction by just typing !prediction"
 | 3 | predictionChatStep1 | String | "Title specified! Now please enter the first answer! Start typing !prediction and than the answer"
 | 4 |  | Number | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODg1MTI3OCwxNzkzODA1NTM2LDQ5Mz
-E5MDQ3NCwxNjk2MjU3MDUyLDM2NTc2NTEwNiwtMTM3NTg2MDcy
-NSwyNjY5Njc1NSwtNTUxNzk4NDAyLDEzMDUwOTEzNjYsLTIxOD
-E1MjQxLDIxMDk5MzMxNDAsLTEwNDA0NTA4MzksOTY2NTE3MTgw
-LC0xMjUxNzc3MTI5LDE2MzcxOTQ4NywtMTgyMDAzMzcyLC0xMT
-Q4MDkyMjM1LDI0MjYyMDE5NSwtOTE1NzAzMjQ3LC0xNjM4MTEw
-NDI4XX0=
+eyJoaXN0b3J5IjpbLTE0NjM4OTEwODksMTc5MzgwNTUzNiw0OT
+MxOTA0NzQsMTY5NjI1NzA1MiwzNjU3NjUxMDYsLTEzNzU4NjA3
+MjUsMjY2OTY3NTUsLTU1MTc5ODQwMiwxMzA1MDkxMzY2LC0yMT
+gxNTI0MSwyMTA5OTMzMTQwLC0xMDQwNDUwODM5LDk2NjUxNzE4
+MCwtMTI1MTc3NzEyOSwxNjM3MTk0ODcsLTE4MjAwMzM3MiwtMT
+E0ODA5MjIzNSwyNDI2MjAxOTUsLTkxNTcwMzI0NywtMTYzODEx
+MDQyOF19
 -->
