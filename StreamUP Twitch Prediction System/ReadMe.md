@@ -131,9 +131,11 @@ Everything is specified already in the deck but here is a little bit extra. My a
 | 1 | predictionChatStep0 | String | First message that appears. | "Prediction setup started for /$SUPr:triggerUser$/. Please enter a title for the new prediction! Start typing !prediction and than the title of the prediction or type !prediction stop to stop anytime in the setup"
 | 2 | predictionChatStep0Error | String | When at the first step and someone makes a boo boo | "I think you forgot a step. Please start the prediction by just typing !prediction"
 | 3 | predictionChatStep1 | String | Title specified, waiting for 1st answer |"Title specified! Now please enter the first answer! Start typing !prediction and than the answer"
-| 4 | predictionChatStep2 | String | 1st answer specified waiting for 2nd answer | 
+| 4 | predictionChatStep2 | String | 1st answer specified waiting for 2nd answer | "Answer 1 specified! Now please enter the second answer! Start typing !prediction and than the answer"
+| 5 | predictionChatStep3 | String | 2nd answer specified waiting for timer number | "Answer 2 specified! Now enter how long in seconds the prediction should be running. Start typing !prediction and than a number between 1 and 1800 to start a prediction"
+| 2 | predictionChatStep0Error | String | When at the first step and someone makes a boo boo | "I think you forgot a step. Please start the prediction by just typing !prediction"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjUwNDU4OCwtMTQ2Mzg5MTA4OSwxNz
+eyJoaXN0b3J5IjpbMTU2NjEzNDUxOCwtMTQ2Mzg5MTA4OSwxNz
 kzODA1NTM2LDQ5MzE5MDQ3NCwxNjk2MjU3MDUyLDM2NTc2NTEw
 NiwtMTM3NTg2MDcyNSwyNjY5Njc1NSwtNTUxNzk4NDAyLDEzMD
 UwOTEzNjYsLTIxODE1MjQxLDIxMDk5MzMxNDAsLTEwNDA0NTA4
