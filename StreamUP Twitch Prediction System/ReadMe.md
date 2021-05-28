@@ -74,17 +74,22 @@ Also on twitch the prediction should have started and if you look into your chat
 
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_sq05UVAR7S.png)
 
-You can now press one of the answer buttons to set that as the winning prediction, you can lock the prediction so that no new votes can be put in or you can cancel the running prediction and give everyone their points back.
+You can now press one of the answer buttons to set that as the winning prediction, you can also lock the prediction so that no new votes can be put in or you can cancel the running prediction and give everyone their points back.
+
+Once you've picked a
 
 As you can see in your deck the button 'Retrieve prediction information' flashes every 2 seconds. This will be happening until
-the timer runs out or if you lock the prediction. Manually pressing this button while nothing is running or when a prediction is locked will not do anything. This button is meant for retrieving prediction information that is made through this extension. If you find that every 2 seconds is to quick you can edit the button and put in a higher number than 2000
+the timer runs out or if you lock the prediction. Manually pressing this button while nothing is running or when a prediction is locked will not do anything. This button is meant for retrieving prediction information that is made through this extension. If you find that every 2 seconds is to quick you can edit the button and put in a higher number than 2000. We don't recommend to go lower than that though.
+
+![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/LioranBoard_Receiver_pP8Ite0cSE.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzE5NDg3LC0xODIwMDMzNzIsLTExND
-gwOTIyMzUsMjQyNjIwMTk1LC05MTU3MDMyNDcsLTE2MzgxMTA0
-MjgsLTkxNTcwMzI0NywtODAwNzkxNzk1LC05MjQyMjAzMDgsLT
-EzMzY1MzYzODgsMjEwMDI1MTk3MiwtMjI3MjYxMjUsMjYzOTAx
-MTAyLC0xNTU2OTY2NTU2LDEwNjQxNTg3MTAsLTk5Mjg3NDM3My
-w0NDQ4Njc0MDcsLTExNTU5NDg3MjcsLTEwNjM3Njc1MDYsLTk0
-NTAwMDk0NF19
+eyJoaXN0b3J5IjpbMTEyNzU3OTMyNywxNjM3MTk0ODcsLTE4Mj
+AwMzM3MiwtMTE0ODA5MjIzNSwyNDI2MjAxOTUsLTkxNTcwMzI0
+NywtMTYzODExMDQyOCwtOTE1NzAzMjQ3LC04MDA3OTE3OTUsLT
+kyNDIyMDMwOCwtMTMzNjUzNjM4OCwyMTAwMjUxOTcyLC0yMjcy
+NjEyNSwyNjM5MDExMDIsLTE1NTY5NjY1NTYsMTA2NDE1ODcxMC
+wtOTkyODc0MzczLDQ0NDg2NzQwNywtMTE1NTk0ODcyNywtMTA2
+Mzc2NzUwNl19
 -->
