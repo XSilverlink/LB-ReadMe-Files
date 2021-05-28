@@ -165,13 +165,15 @@ The extension sends out the following variables:
 | SUPr:predictionTitle | String | Title you specified for the prediction
 | SUPr:predictionWindow | Number | Seconds you specified for the prediction
 | SUPr:predictionStatus | String | Status of the prediction. (OPEN, LOCKED, RESOLVED or CANCELED)
+| SUPr:isPredictionRunning | Number | Internal Variable to check if the prediction is running
+| SUPr:blueID |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MTM1NjYyLDU0ODg3NTY3MCwtNTUwOT
-YxODQwLC0xNDUwMTczNjIyLC0xMzc3Njc4MzU2LDE2NTAxOTg4
-MzgsLTEwNzUwMzYyNzMsLTc1ODEzNTgxNSwtOTg4MTUzNTg1LC
-0xMDUwMjMwMzQ5LDE5OTkzMjU0MTgsMTg3NjE4MjE5MiwxNzgy
-NjY1NjMwLDMzMDE4NTA0MiwtMjc2MTQ3MTI4LC0xNDYzODkxMD
-g5LDE3OTM4MDU1MzYsNDkzMTkwNDc0LDE2OTYyNTcwNTIsMzY1
-NzY1MTA2XX0=
+eyJoaXN0b3J5IjpbMTY0NjU4MTM2MCw4MzcxMzU2NjIsNTQ4OD
+c1NjcwLC01NTA5NjE4NDAsLTE0NTAxNzM2MjIsLTEzNzc2Nzgz
+NTYsMTY1MDE5ODgzOCwtMTA3NTAzNjI3MywtNzU4MTM1ODE1LC
+05ODgxNTM1ODUsLTEwNTAyMzAzNDksMTk5OTMyNTQxOCwxODc2
+MTgyMTkyLDE3ODI2NjU2MzAsMzMwMTg1MDQyLC0yNzYxNDcxMj
+gsLTE0NjM4OTEwODksMTc5MzgwNTUzNiw0OTMxOTA0NzQsMTY5
+NjI1NzA1Ml19
 -->
