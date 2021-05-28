@@ -86,8 +86,10 @@ As you can see when a prediction is running the button 'Retrieve prediction info
 # Starting a prediction through the Transmitter
 You can also start a prediction by clicking on the 'StreamUP Twitch Prediction System' tab in your tsl_transmitter and you can start a prediction there. 
 ![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/chrome_e3LC4U85zf.png)
+
+First you need to press the button 'Get / Refresh OAuth Credentials from Lioranboard' so it will retrieve your credentials from Lioranboard. If you don't press this this page will not work.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM5MzM5MTIsOTY2NTE3MTgwLC0xMj
+eyJoaXN0b3J5IjpbLTEwNDA0NTA4MzksOTY2NTE3MTgwLC0xMj
 UxNzc3MTI5LDE2MzcxOTQ4NywtMTgyMDAzMzcyLC0xMTQ4MDky
 MjM1LDI0MjYyMDE5NSwtOTE1NzAzMjQ3LC0xNjM4MTEwNDI4LC
 05MTU3MDMyNDcsLTgwMDc5MTc5NSwtOTI0MjIwMzA4LC0xMzM2
