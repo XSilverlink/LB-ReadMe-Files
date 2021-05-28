@@ -164,14 +164,14 @@ The extension sends out the following variables:
 | SUPr:predictionID | String | ID of prediction given by twitch
 | SUPr:predictionTitle | String | Title you specified for the prediction
 | SUPr:predictionWindow | Number | Seconds you specified for the prediction
-| SUPr:pr | |
+| SUPr:predictionStatus | String | Status of the prediction. (OPEN, LOCKED, RESOLVED or CANCELED)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzkxMzcwMiw1NDg4NzU2NzAsLTU1MD
-k2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3ODM1NiwxNjUwMTk4
-ODM4LC0xMDc1MDM2MjczLC03NTgxMzU4MTUsLTk4ODE1MzU4NS
-wtMTA1MDIzMDM0OSwxOTk5MzI1NDE4LDE4NzYxODIxOTIsMTc4
-MjY2NTYzMCwzMzAxODUwNDIsLTI3NjE0NzEyOCwtMTQ2Mzg5MT
-A4OSwxNzkzODA1NTM2LDQ5MzE5MDQ3NCwxNjk2MjU3MDUyLDM2
-NTc2NTEwNl19
+eyJoaXN0b3J5IjpbODM3MTM1NjYyLDU0ODg3NTY3MCwtNTUwOT
+YxODQwLC0xNDUwMTczNjIyLC0xMzc3Njc4MzU2LDE2NTAxOTg4
+MzgsLTEwNzUwMzYyNzMsLTc1ODEzNTgxNSwtOTg4MTUzNTg1LC
+0xMDUwMjMwMzQ5LDE5OTkzMjU0MTgsMTg3NjE4MjE5MiwxNzgy
+NjY1NjMwLDMzMDE4NTA0MiwtMjc2MTQ3MTI4LC0xNDYzODkxMD
+g5LDE3OTM4MDU1MzYsNDkzMTkwNDc0LDE2OTYyNTcwNTIsMzY1
+NzY1MTA2XX0=
 -->
