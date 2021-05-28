@@ -62,12 +62,12 @@ Number you can put in without any "quotes"*
 I think this does not need any explaining right? 😉
 
 # Starting a prediction through Lioranboard Stream Deck
-This guide assumes that you know how to connect to
+This guide assumes that you know how to connect to Lioranboard through the Lioranboard Stream Deck app for android or PC. Once you're connected to the app it should look something like this:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTMzOTE1LDI0MjYyMDE5NSwtOTE1Nz
-AzMjQ3LC0xNjM4MTEwNDI4LC05MTU3MDMyNDcsLTgwMDc5MTc5
-NSwtOTI0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAyNTE5NzIsLT
-IyNzI2MTI1LDI2MzkwMTEwMiwtMTU1Njk2NjU1NiwxMDY0MTU4
-NzEwLC05OTI4NzQzNzMsNDQ0ODY3NDA3LC0xMTU1OTQ4NzI3LC
-0xMDYzNzY3NTA2LC05NDUwMDA5NDRdfQ==
+eyJoaXN0b3J5IjpbLTE2MjcxNDg4MTksMjQyNjIwMTk1LC05MT
+U3MDMyNDcsLTE2MzgxMTA0MjgsLTkxNTcwMzI0NywtODAwNzkx
+Nzk1LC05MjQyMjAzMDgsLTEzMzY1MzYzODgsMjEwMDI1MTk3Mi
+wtMjI3MjYxMjUsMjYzOTAxMTAyLC0xNTU2OTY2NTU2LDEwNjQx
+NTg3MTAsLTk5Mjg3NDM3Myw0NDQ4Njc0MDcsLTExNTU5NDg3Mj
+csLTEwNjM3Njc1MDYsLTk0NTAwMDk0NF19
 -->
