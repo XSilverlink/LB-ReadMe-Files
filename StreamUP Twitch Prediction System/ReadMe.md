@@ -168,10 +168,12 @@ The extension sends out the following variables:
 | SUPr:isPredictionRunning | Number | Internal Variable to check if the prediction is running
 | SUPr:blueID | String | ID of Answer 1 / Blue given by Twitch
 | SUPr:blueTitle | String | Answer you specified for Answer 1 / Blue
-| SUPr:blue |  | 
+| SUPr:pinkID | String | ID of Answer 1 / Blue given by Twitch
+| SUPr:pinkTitle | String | Answer you specified for Answer 1 / Blue
+| SUPr: |  | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2NDI1NjA3LDgzNzEzNTY2Miw1NDg4Nz
+eyJoaXN0b3J5IjpbMjI3NDQ0Nzg5LDgzNzEzNTY2Miw1NDg4Nz
 U2NzAsLTU1MDk2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3ODM1
 NiwxNjUwMTk4ODM4LC0xMDc1MDM2MjczLC03NTgxMzU4MTUsLT
 k4ODE1MzU4NSwtMTA1MDIzMDM0OSwxOTk5MzI1NDE4LDE4NzYx
