@@ -133,13 +133,14 @@ Everything is specified already in the deck but here is a little bit extra. My a
 | 3 | predictionChatStep1 | String | Title specified, waiting for 1st answer |"Title specified! Now please enter the first answer! Start typing !prediction and than the answer"
 | 4 | predictionChatStep2 | String | 1st answer specified waiting for 2nd answer | "Answer 1 specified! Now please enter the second answer! Start typing !prediction and than the answer"
 | 5 | predictionChatStep3 | String | 2nd answer specified waiting for timer number | "Answer 2 specified! Now enter how long in seconds the prediction should be running. Start typing !prediction and than a number between 1 and 1800 to start a prediction"
-| 6 | predictionChatStep4a | String | Gives all the | "Prediction Settings: Title: /$SUPr:predictionTitle$/ || Answer 1: /$SUPr:blueTitle$/ || Answer 2: /$SUPr:pinkTitle$/"
+| 6 | predictionChatStep4a | String | Summary | "Prediction Settings: Title: /$SUPr:predictionTitle$/ || Answer 1: /$SUPr:blueTitle$/ || Answer 2: /$SUPr:pinkTitle$/"
+| 7 | predictionChatStep4B | String | Question if the user wants to continue | "@/$SUPr:triggerUser$/ Do you want to start the prediction? Type !prediction YES to continue. Type !prediction and anything else to stop"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjE0NzEyOCwtMTQ2Mzg5MTA4OSwxNz
-kzODA1NTM2LDQ5MzE5MDQ3NCwxNjk2MjU3MDUyLDM2NTc2NTEw
-NiwtMTM3NTg2MDcyNSwyNjY5Njc1NSwtNTUxNzk4NDAyLDEzMD
-UwOTEzNjYsLTIxODE1MjQxLDIxMDk5MzMxNDAsLTEwNDA0NTA4
-MzksOTY2NTE3MTgwLC0xMjUxNzc3MTI5LDE2MzcxOTQ4NywtMT
-gyMDAzMzcyLC0xMTQ4MDkyMjM1LDI0MjYyMDE5NSwtOTE1NzAz
-MjQ3XX0=
+eyJoaXN0b3J5IjpbODQ4NzM5OTkwLC0yNzYxNDcxMjgsLTE0Nj
+M4OTEwODksMTc5MzgwNTUzNiw0OTMxOTA0NzQsMTY5NjI1NzA1
+MiwzNjU3NjUxMDYsLTEzNzU4NjA3MjUsMjY2OTY3NTUsLTU1MT
+c5ODQwMiwxMzA1MDkxMzY2LC0yMTgxNTI0MSwyMTA5OTMzMTQw
+LC0xMDQwNDUwODM5LDk2NjUxNzE4MCwtMTI1MTc3NzEyOSwxNj
+M3MTk0ODcsLTE4MjAwMzM3MiwtMTE0ODA5MjIzNSwyNDI2MjAx
+OTVdfQ==
 -->
