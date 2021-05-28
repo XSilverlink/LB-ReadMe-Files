@@ -85,12 +85,13 @@ As you can see when a prediction is running the button 'Retrieve prediction info
 ⁴ The reason why information has been pulling will be explained later on 
 # Starting a prediction through the Transmitter
 You can also start a prediction by clicking on the 'StreamUP Twitch Prediction System' tab in your tsl_transmitter and you can start a prediction there. 
+![](https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/chrome_e3LC4U85zf.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NTE3MTgwLC0xMjUxNzc3MTI5LDE2Mz
-cxOTQ4NywtMTgyMDAzMzcyLC0xMTQ4MDkyMjM1LDI0MjYyMDE5
-NSwtOTE1NzAzMjQ3LC0xNjM4MTEwNDI4LC05MTU3MDMyNDcsLT
-gwMDc5MTc5NSwtOTI0MjIwMzA4LC0xMzM2NTM2Mzg4LDIxMDAy
-NTE5NzIsLTIyNzI2MTI1LDI2MzkwMTEwMiwtMTU1Njk2NjU1Ni
-wxMDY0MTU4NzEwLC05OTI4NzQzNzMsNDQ0ODY3NDA3LC0xMTU1
-OTQ4NzI3XX0=
+eyJoaXN0b3J5IjpbLTE4NjM5MzM5MTIsOTY2NTE3MTgwLC0xMj
+UxNzc3MTI5LDE2MzcxOTQ4NywtMTgyMDAzMzcyLC0xMTQ4MDky
+MjM1LDI0MjYyMDE5NSwtOTE1NzAzMjQ3LC0xNjM4MTEwNDI4LC
+05MTU3MDMyNDcsLTgwMDc5MTc5NSwtOTI0MjIwMzA4LC0xMzM2
+NTM2Mzg4LDIxMDAyNTE5NzIsLTIyNzI2MTI1LDI2MzkwMTEwMi
+wtMTU1Njk2NjU1NiwxMDY0MTU4NzEwLC05OTI4NzQzNzMsNDQ0
+ODY3NDA3XX0=
 -->
