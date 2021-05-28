@@ -133,13 +133,13 @@ Everything is specified already in the deck but here is a little bit extra. My a
 | 3 | predictionChatStep1 | String | Title specified, waiting for 1st answer |"Title specified! Now please enter the first answer! Start typing !prediction and than the answer"
 | 4 | predictionChatStep2 | String | 1st answer specified waiting for 2nd answer | "Answer 1 specified! Now please enter the second answer! Start typing !prediction and than the answer"
 | 5 | predictionChatStep3 | String | 2nd answer specified waiting for timer number | "Answer 2 specified! Now enter how long in seconds the prediction should be running. Start typing !prediction and than a number between 1 and 1800 to start a prediction"
-| 6 | predictionChatStep4a | String | Gives all the | "Prediction Settings: Title: /$SUPr:predictionTitle$/ || Answer 1: /$SUPr:blueTitle$/ || Answer 2: /$SUPr:pinkTitle$/ ||"
+| 6 | predictionChatStep4a | String | Gives all the | "Prediction Settings: Title: /$SUPr:predictionTitle$/ || Answer 1: /$SUPr:blueTitle$/ || Answer 2: /$SUPr:pinkTitle$/"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2MDg1NTM2LC0xNDYzODkxMDg5LDE3OT
-M4MDU1MzYsNDkzMTkwNDc0LDE2OTYyNTcwNTIsMzY1NzY1MTA2
-LC0xMzc1ODYwNzI1LDI2Njk2NzU1LC01NTE3OTg0MDIsMTMwNT
-A5MTM2NiwtMjE4MTUyNDEsMjEwOTkzMzE0MCwtMTA0MDQ1MDgz
-OSw5NjY1MTcxODAsLTEyNTE3NzcxMjksMTYzNzE5NDg3LC0xOD
-IwMDMzNzIsLTExNDgwOTIyMzUsMjQyNjIwMTk1LC05MTU3MDMy
-NDddfQ==
+eyJoaXN0b3J5IjpbLTI3NjE0NzEyOCwtMTQ2Mzg5MTA4OSwxNz
+kzODA1NTM2LDQ5MzE5MDQ3NCwxNjk2MjU3MDUyLDM2NTc2NTEw
+NiwtMTM3NTg2MDcyNSwyNjY5Njc1NSwtNTUxNzk4NDAyLDEzMD
+UwOTEzNjYsLTIxODE1MjQxLDIxMDk5MzMxNDAsLTEwNDA0NTA4
+MzksOTY2NTE3MTgwLC0xMjUxNzc3MTI5LDE2MzcxOTQ4NywtMT
+gyMDAzMzcyLC0xMTQ4MDkyMjM1LDI0MjYyMDE5NSwtOTE1NzAz
+MjQ3XX0=
 -->
