@@ -224,11 +224,11 @@ You can manually create buttons if you like in other decks or just create a temp
 ### StreamUP - Set Prediction
 | Parameter | Value | Type | Extra info
 |--|--|--|--|
-| channel_id | /$channel_id$/ | String | This field is filled in automatically
-| oauth_token | /$oauth_token$/ |  |
+| channel_id | /$channel_id$/ | Real | This field is filled in automatically
+| oauth_token | /$oauth_token$/ | String | This field is filled in automatically
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc1NzU3OTEsLTEzMjk5MTY4NTgsNz
+eyJoaXN0b3J5IjpbLTE5MTM3MDQ5NjUsLTEzMjk5MTY4NTgsNz
 U0MjUzNTcwLDMxNzExMzM2MSwtNjc0NzUwNjEzLDQ1MTkyNTcx
 MiwtMTk0NzEzNDY2NSwxNDk2ODk0NzYxLDIxMTAxMjE3NzEsMT
 I4MzAyNjk0NywtMTk0NzEzNDY2NSw1MTE0NzQzMjUsMTE1MDkx
