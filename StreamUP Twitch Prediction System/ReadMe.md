@@ -229,14 +229,14 @@ You can manually create buttons if you like in other decks or just create a temp
 | Prediction Title |  | String | Title of the prediction
 | Answer 1 |  | String | Answer 1 / Blue
 | Answer 2 |  | String | Answer 2 / Pink
-| Prediction Window |  | String |
+| Prediction Window |  | Real | How long the prediction should stay open
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDQ2NTkyLC0xMzI5OTE2ODU4LDc1ND
-I1MzU3MCwzMTcxMTMzNjEsLTY3NDc1MDYxMyw0NTE5MjU3MTIs
-LTE5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMTEwMTIxNzcxLDEyOD
-MwMjY5NDcsLTE5NDcxMzQ2NjUsNTExNDc0MzI1LDExNTA5MTcy
-MiwtMTAyNDg3MjA3MiwxOTQwMTA4NjUxLDgzNzEzNTY2Miw1ND
-g4NzU2NzAsLTU1MDk2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3
-ODM1Nl19
+eyJoaXN0b3J5IjpbLTUzMDg0NTM2NSwtMTMyOTkxNjg1OCw3NT
+QyNTM1NzAsMzE3MTEzMzYxLC02NzQ3NTA2MTMsNDUxOTI1NzEy
+LC0xOTQ3MTM0NjY1LDE0OTY4OTQ3NjEsMjExMDEyMTc3MSwxMj
+gzMDI2OTQ3LC0xOTQ3MTM0NjY1LDUxMTQ3NDMyNSwxMTUwOTE3
+MjIsLTEwMjQ4NzIwNzIsMTk0MDEwODY1MSw4MzcxMzU2NjIsNT
+Q4ODc1NjcwLC01NTA5NjE4NDAsLTE0NTAxNzM2MjIsLTEzNzc2
+NzgzNTZdfQ==
 -->
