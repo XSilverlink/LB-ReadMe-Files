@@ -10,6 +10,16 @@
 **💭 If you have any questions, suggestions, problems or feedback feel free to join us on the StreamUP discord:**
 https://discord.gg/RnDKRaVCEu
 
+# Table of Contents
+
+ - Features
+ - First things first!
+ - Getting started after install
+ - Setting up / editing the example prediction
+ - Starting a prediction through Lioranboard
+ - Starting a prediction through the transmitter
+ - Starting a prediction through 
+
 # Features  
 
 ### Through Lioranboard, Transmitter and (Mobile) Chat:
@@ -269,11 +279,11 @@ https://discord.gg/RnDKRaVCEu
 **And of course my documentation wouldn't be ready without a shameless plug:   
 Follow me on https://twitch.tv/Silverlink**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDIxMzY1MzAsLTQ1NzA5ODA4NywtOT
-I4NTg2Mzc2LC0yMDI2NjE2OTM5LC04Nzk1OTgwMTksMTM0ODAz
-NDUyNyw0MjY5MTUzMTYsMTc5MDgwNjAyOCwtNjA4ODk0MzgwLC
-01MzA4NDUzNjUsLTEzMjk5MTY4NTgsNzU0MjUzNTcwLDMxNzEx
-MzM2MSwtNjc0NzUwNjEzLDQ1MTkyNTcxMiwtMTk0NzEzNDY2NS
-wxNDk2ODk0NzYxLDIxMTAxMjE3NzEsMTI4MzAyNjk0NywtMTk0
-NzEzNDY2NV19
+eyJoaXN0b3J5IjpbLTEwNTIwMDE0OTIsLTEwNDIxMzY1MzAsLT
+Q1NzA5ODA4NywtOTI4NTg2Mzc2LC0yMDI2NjE2OTM5LC04Nzk1
+OTgwMTksMTM0ODAzNDUyNyw0MjY5MTUzMTYsMTc5MDgwNjAyOC
+wtNjA4ODk0MzgwLC01MzA4NDUzNjUsLTEzMjk5MTY4NTgsNzU0
+MjUzNTcwLDMxNzExMzM2MSwtNjc0NzUwNjEzLDQ1MTkyNTcxMi
+wtMTk0NzEzNDY2NSwxNDk2ODk0NzYxLDIxMTAxMjE3NzEsMTI4
+MzAyNjk0N119
 -->
