@@ -236,14 +236,14 @@ You can manually create buttons if you like in other decks or just create a temp
 |--|--|--|--|--|
 | channel_id | /$channel_id$/ | /$channel_id$/ | Real | This field is filled in automatically
 | oauth_token | /$oauth_token$/ | /$oauth_token$/ | String | This field is filled in automatically
-| Prediction ID | | /$SUPr:predictionID | String | ID of the running prediction
+| Prediction ID | | /$SUPr:predictionID$/ | String | ID of the running prediction
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTkwNDgzNDQsLTUzMDg0NTM2NSwtMT
-MyOTkxNjg1OCw3NTQyNTM1NzAsMzE3MTEzMzYxLC02NzQ3NTA2
-MTMsNDUxOTI1NzEyLC0xOTQ3MTM0NjY1LDE0OTY4OTQ3NjEsMj
-ExMDEyMTc3MSwxMjgzMDI2OTQ3LC0xOTQ3MTM0NjY1LDUxMTQ3
-NDMyNSwxMTUwOTE3MjIsLTEwMjQ4NzIwNzIsMTk0MDEwODY1MS
-w4MzcxMzU2NjIsNTQ4ODc1NjcwLC01NTA5NjE4NDAsLTE0NTAx
-NzM2MjJdfQ==
+eyJoaXN0b3J5IjpbMTM5NTMyOTI3NywtNTMwODQ1MzY1LC0xMz
+I5OTE2ODU4LDc1NDI1MzU3MCwzMTcxMTMzNjEsLTY3NDc1MDYx
+Myw0NTE5MjU3MTIsLTE5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMT
+EwMTIxNzcxLDEyODMwMjY5NDcsLTE5NDcxMzQ2NjUsNTExNDc0
+MzI1LDExNTA5MTcyMiwtMTAyNDg3MjA3MiwxOTQwMTA4NjUxLD
+gzNzEzNTY2Miw1NDg4NzU2NzAsLTU1MDk2MTg0MCwtMTQ1MDE3
+MzYyMl19
 -->
