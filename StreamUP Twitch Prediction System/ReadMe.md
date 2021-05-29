@@ -217,15 +217,15 @@ SUPrLock| Send out when you lock a prediction through the transmitter, chat comm
 # Send to Extension
 You can manually create buttons if you like in other decks or just create a template deck with just only starting predictions. 
 
-*We strongly advise only to create 'StreamUP - Set Prediction' buttons and do not create any other buttons because they are handled in the deck that comes with this extension. You can **move** the 'Answer 1' and 'Answer 2' buttons to another deck but the button ID needs to be 'SUPr:A1' for the Answer 1 button and 'SUPr:A2' for the Answer 2 button if you want them to be updated like in the default deck. If yo*
+*We strongly advise only to create 'StreamUP - Set Prediction' buttons and do not create any other buttons because they are handled in the deck that comes with this extension. You can **move** the 'Answer 1' and 'Answer 2' buttons to another deck but the button ID needs to be 'SUPr:A1' for the Answer 1 button and 'SUPr:A2' for the Answer 2 button if you want them to be updated like in the default deck. If you just want to pick a winner button without any updates on the button you can use 'StreamUP - End Prediction' and configure that correctly*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTQ3MDU1Myw3NTQyNTM1NzAsMzE3MT
-EzMzYxLC02NzQ3NTA2MTMsNDUxOTI1NzEyLC0xOTQ3MTM0NjY1
-LDE0OTY4OTQ3NjEsMjExMDEyMTc3MSwxMjgzMDI2OTQ3LC0xOT
-Q3MTM0NjY1LDUxMTQ3NDMyNSwxMTUwOTE3MjIsLTEwMjQ4NzIw
-NzIsMTk0MDEwODY1MSw4MzcxMzU2NjIsNTQ4ODc1NjcwLC01NT
-A5NjE4NDAsLTE0NTAxNzM2MjIsLTEzNzc2NzgzNTYsMTY1MDE5
-ODgzOF19
+eyJoaXN0b3J5IjpbMjc5MjkyMzk5LDc1NDI1MzU3MCwzMTcxMT
+MzNjEsLTY3NDc1MDYxMyw0NTE5MjU3MTIsLTE5NDcxMzQ2NjUs
+MTQ5Njg5NDc2MSwyMTEwMTIxNzcxLDEyODMwMjY5NDcsLTE5ND
+cxMzQ2NjUsNTExNDc0MzI1LDExNTA5MTcyMiwtMTAyNDg3MjA3
+MiwxOTQwMTA4NjUxLDgzNzEzNTY2Miw1NDg4NzU2NzAsLTU1MD
+k2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3ODM1NiwxNjUwMTk4
+ODM4XX0=
 -->
