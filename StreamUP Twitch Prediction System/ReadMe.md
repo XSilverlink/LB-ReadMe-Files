@@ -168,18 +168,27 @@ The extension sends out the following variables:
 | SUPr:predictionWindow | Real | Seconds you specified for the prediction
 | SUPr:predictionStatus | String | Status of the prediction. (OPEN, LOCKED, RESOLVED or CANCELED)
 | SUPr:isPredictionRunning | Real | Internal Variable to check if the prediction is running
+
+| Variable | Type | Information
+|--|--|--|
 | SUPr:blueID | String | ID of Answer 1 / Blue given by Twitch
 | SUPr:blueTitle | String | Answer you specified for Answer 1 / Blue
 | SUPr:blueTotalCP | Real | Total amount of channel points spent for Answer 1 / Blue
 | SUPr:blueTotalCPRounded | String | Total amount of channel points for Answer 1 / Blue⁵
 | SUPr:blueTotalUsers | Real | Total amount of people who voted for Answer 1 / Blue
 | SUPr:blueTotalUsersRounded | String | Total amount of people who voted for Answer 1 / Blue⁵
+
+| Variable | Type | Information
+|--|--|--|
 | SUPr:pinkID | String | ID of Answer 2 / Pink given by Twitch
 | SUPr:pinkTitle | String | Answer you specified for Answer 2 / Pink
 | SUPr:pinkTotalCP | Real | Total amount of channel points spent for Answer 2 / Pink
 | SUPr:pinkTotalCPRounded | String | Total amount of channel points for Answer 2 / Pink⁵
 | SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
 | SUPr:pinkTotalUsersRounded | String | Total amount of people who voted for Answer 2 / Pink⁵
+
+| Variable | Type | Information
+|--|--|--|
 | SUPr:totalPredictingCP | Real | Total amount spend on this prediction
 | SUPr:totalPredictingCPRounded | String | Total amount spend on this prediction⁵
 | SUPr:totalPredictingUsers | Real | Total amount of people who voted in this prediction
@@ -188,11 +197,11 @@ The extension sends out the following variables:
 *⁵ Values rounded to a String value. Ex: 42069 will be rounded to 42k*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExNDc0MzI1LDExNTA5MTcyMiwtMTAyND
-g3MjA3MiwxOTQwMTA4NjUxLDgzNzEzNTY2Miw1NDg4NzU2NzAs
-LTU1MDk2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3ODM1NiwxNj
-UwMTk4ODM4LC0xMDc1MDM2MjczLC03NTgxMzU4MTUsLTk4ODE1
-MzU4NSwtMTA1MDIzMDM0OSwxOTk5MzI1NDE4LDE4NzYxODIxOT
-IsMTc4MjY2NTYzMCwzMzAxODUwNDIsLTI3NjE0NzEyOCwtMTQ2
-Mzg5MTA4OV19
+eyJoaXN0b3J5IjpbMjExMjA4NjIyMyw1MTE0NzQzMjUsMTE1MD
+kxNzIyLC0xMDI0ODcyMDcyLDE5NDAxMDg2NTEsODM3MTM1NjYy
+LDU0ODg3NTY3MCwtNTUwOTYxODQwLC0xNDUwMTczNjIyLC0xMz
+c3Njc4MzU2LDE2NTAxOTg4MzgsLTEwNzUwMzYyNzMsLTc1ODEz
+NTgxNSwtOTg4MTUzNTg1LC0xMDUwMjMwMzQ5LDE5OTkzMjU0MT
+gsMTg3NjE4MjE5MiwxNzgyNjY1NjMwLDMzMDE4NTA0MiwtMjc2
+MTQ3MTI4XX0=
 -->
