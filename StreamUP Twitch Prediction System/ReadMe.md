@@ -201,12 +201,14 @@ The extension sends out the following variables:
 
 *⁵ Values rounded to a String value. Ex: 42069 will be rounded to 42k*
 
+You can use these variables in Lioranboard how ever you want. Show them in OBS via a text source
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMT
-EwMTIxNzcxLDEyODMwMjY5NDcsLTE5NDcxMzQ2NjUsNTExNDc0
-MzI1LDExNTA5MTcyMiwtMTAyNDg3MjA3MiwxOTQwMTA4NjUxLD
-gzNzEzNTY2Miw1NDg4NzU2NzAsLTU1MDk2MTg0MCwtMTQ1MDE3
-MzYyMiwtMTM3NzY3ODM1NiwxNjUwMTk4ODM4LC0xMDc1MDM2Mj
-czLC03NTgxMzU4MTUsLTk4ODE1MzU4NSwtMTA1MDIzMDM0OSwx
-OTk5MzI1NDE4XX0=
+eyJoaXN0b3J5IjpbMTY3ODEyMTkzMywtMTk0NzEzNDY2NSwxND
+k2ODk0NzYxLDIxMTAxMjE3NzEsMTI4MzAyNjk0NywtMTk0NzEz
+NDY2NSw1MTE0NzQzMjUsMTE1MDkxNzIyLC0xMDI0ODcyMDcyLD
+E5NDAxMDg2NTEsODM3MTM1NjYyLDU0ODg3NTY3MCwtNTUwOTYx
+ODQwLC0xNDUwMTczNjIyLC0xMzc3Njc4MzU2LDE2NTAxOTg4Mz
+gsLTEwNzUwMzYyNzMsLTc1ODEzNTgxNSwtOTg4MTUzNTg1LC0x
+MDUwMjMwMzQ5XX0=
 -->
