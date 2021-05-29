@@ -185,14 +185,14 @@ The extension sends out the following variables:
 | SUPr:totalPredictingUsers | Real | Total amount of people who voted in this prediction
 | SUPr:totalPredictingUsersRounded | String | Total amount of people who voted in this prediction⁵
 
-*⁵ Values in String rounded to a *
+*⁵ Values rounded to a String value. Ex: 42069 will be rounded to 42k*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzYxOTc3NywxMTUwOTE3MjIsLTEwMj
-Q4NzIwNzIsMTk0MDEwODY1MSw4MzcxMzU2NjIsNTQ4ODc1Njcw
-LC01NTA5NjE4NDAsLTE0NTAxNzM2MjIsLTEzNzc2NzgzNTYsMT
-Y1MDE5ODgzOCwtMTA3NTAzNjI3MywtNzU4MTM1ODE1LC05ODgx
-NTM1ODUsLTEwNTAyMzAzNDksMTk5OTMyNTQxOCwxODc2MTgyMT
-kyLDE3ODI2NjU2MzAsMzMwMTg1MDQyLC0yNzYxNDcxMjgsLTE0
-NjM4OTEwODldfQ==
+eyJoaXN0b3J5IjpbNTExNDc0MzI1LDExNTA5MTcyMiwtMTAyND
+g3MjA3MiwxOTQwMTA4NjUxLDgzNzEzNTY2Miw1NDg4NzU2NzAs
+LTU1MDk2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3ODM1NiwxNj
+UwMTk4ODM4LC0xMDc1MDM2MjczLC03NTgxMzU4MTUsLTk4ODE1
+MzU4NSwtMTA1MDIzMDM0OSwxOTk5MzI1NDE4LDE4NzYxODIxOT
+IsMTc4MjY2NTYzMCwzMzAxODUwNDIsLTI3NjE0NzEyOCwtMTQ2
+Mzg5MTA4OV19
 -->
