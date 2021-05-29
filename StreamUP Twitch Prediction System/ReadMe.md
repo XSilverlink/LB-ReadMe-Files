@@ -161,6 +161,8 @@ This is where the magic happens! Lioranboard receives every 2 seconds (or per wh
 <p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_yaMO23C7er.png"></p>
 
 The extension sends out the following variables:
+
+### Prediction Information
 | Variable | Type | Information
 |--|--|--|
 | SUPr:predictionID | String | ID of prediction given by Twitch
@@ -169,6 +171,7 @@ The extension sends out the following variables:
 | SUPr:predictionStatus | String | Status of the prediction. (OPEN, LOCKED, RESOLVED or CANCELED)
 | SUPr:isPredictionRunning | Real | Internal Variable to check if the prediction is running
 
+### Blue Answer Information
 | Variable | Type | Information
 |--|--|--|
 | SUPr:blueID | String | ID of Answer 1 / Blue given by Twitch
@@ -178,6 +181,7 @@ The extension sends out the following variables:
 | SUPr:blueTotalUsers | Real | Total amount of people who voted for Answer 1 / Blue
 | SUPr:blueTotalUsersRounded | String | Total amount of people who voted for Answer 1 / Blue⁵
 
+### Pink Answer Information
 | Variable | Type | Information
 |--|--|--|
 | SUPr:pinkID | String | ID of Answer 2 / Pink given by Twitch
@@ -187,6 +191,7 @@ The extension sends out the following variables:
 | SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
 | SUPr:pinkTotalUsersRounded | String | Total amount of people who voted for Answer 2 / Pink⁵
 
+### Totals Information
 | Variable | Type | Information
 |--|--|--|
 | SUPr:totalPredictingCP | Real | Total amount spend on this prediction
@@ -197,11 +202,11 @@ The extension sends out the following variables:
 *⁵ Values rounded to a String value. Ex: 42069 will be rounded to 42k*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjA4NjIyMyw1MTE0NzQzMjUsMTE1MD
-kxNzIyLC0xMDI0ODcyMDcyLDE5NDAxMDg2NTEsODM3MTM1NjYy
-LDU0ODg3NTY3MCwtNTUwOTYxODQwLC0xNDUwMTczNjIyLC0xMz
-c3Njc4MzU2LDE2NTAxOTg4MzgsLTEwNzUwMzYyNzMsLTc1ODEz
-NTgxNSwtOTg4MTUzNTg1LC0xMDUwMjMwMzQ5LDE5OTkzMjU0MT
-gsMTg3NjE4MjE5MiwxNzgyNjY1NjMwLDMzMDE4NTA0MiwtMjc2
-MTQ3MTI4XX0=
+eyJoaXN0b3J5IjpbLTE5NDcxMzQ2NjUsNTExNDc0MzI1LDExNT
+A5MTcyMiwtMTAyNDg3MjA3MiwxOTQwMTA4NjUxLDgzNzEzNTY2
+Miw1NDg4NzU2NzAsLTU1MDk2MTg0MCwtMTQ1MDE3MzYyMiwtMT
+M3NzY3ODM1NiwxNjUwMTk4ODM4LC0xMDc1MDM2MjczLC03NTgx
+MzU4MTUsLTk4ODE1MzU4NSwtMTA1MDIzMDM0OSwxOTk5MzI1ND
+E4LDE4NzYxODIxOTIsMTc4MjY2NTYzMCwzMzAxODUwNDIsLTI3
+NjE0NzEyOF19
 -->
