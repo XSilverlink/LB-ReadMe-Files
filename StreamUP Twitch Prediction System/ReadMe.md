@@ -207,13 +207,13 @@ You can use these variables in Lioranboard how ever you want. Show them in OBS v
 When certain events happen in the extension the extension will send out some Extension Triggers. You can use these however you want.
 
 | Extension Trigger | Info
-|--|--|--|
+|--|--|
 | SUPrInitialize | Send out when a prediction starts
 | SUPrWinBlue | Send out when you've selected blue as a winner in the transmitter, chat command or stream deck app
 SUPrWinPink | Send out when you've selected pink as a winner in the transmitter, chat command or stream deck app
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDY3NTA5MCwzMTcxMTMzNjEsLTY3ND
+eyJoaXN0b3J5IjpbLTkyMTM4OTg1NiwzMTcxMTMzNjEsLTY3ND
 c1MDYxMyw0NTE5MjU3MTIsLTE5NDcxMzQ2NjUsMTQ5Njg5NDc2
 MSwyMTEwMTIxNzcxLDEyODMwMjY5NDcsLTE5NDcxMzQ2NjUsNT
 ExNDc0MzI1LDExNTA5MTcyMiwtMTAyNDg3MjA3MiwxOTQwMTA4
