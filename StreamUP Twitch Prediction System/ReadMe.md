@@ -14,7 +14,7 @@ https://discord.gg/RnDKRaVCEu
 
 [![Alt text](https://img.youtube.com/vi/4eOihSZN8Qs/0.jpg)](https://www.youtube.com/watch?v=4eOihSZN8Qs)
 
-<p align="center"><img src="https://img.youtube.com/vi/4eOihSZN8Qs/0.jpg"></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=4eOihSZN8Qs"><img src="https://img.youtube.com/vi/4eOihSZN8Qs/0.jpg"></a></p>
 
 # Features  
 
@@ -208,7 +208,7 @@ The extension sends out the following variables:
 *⁵ Values rounded to a String value. Ex: 42069 will be rounded to 42k*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjkyNzM0MSwyMTEwMTIxNzcxLDEyOD
+eyJoaXN0b3J5IjpbLTMxNDY4NDczNCwyMTEwMTIxNzcxLDEyOD
 MwMjY5NDcsLTE5NDcxMzQ2NjUsNTExNDc0MzI1LDExNTA5MTcy
 MiwtMTAyNDg3MjA3MiwxOTQwMTA4NjUxLDgzNzEzNTY2Miw1ND
 g4NzU2NzAsLTU1MDk2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3
