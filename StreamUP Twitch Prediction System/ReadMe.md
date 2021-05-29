@@ -231,12 +231,22 @@ You can manually create buttons if you like in other decks or just create a temp
 | Answer 2 |  | String | Answer 2 / Pink
 | Prediction Window |  | Real | How long the prediction should stay open
 
+### StreamUP - Set Prediction
+| Parameter | Default value | Type | Information
+|--|--|--|--|
+| channel_id | /$channel_id$/ | Real | This field is filled in automatically
+| oauth_token | /$oauth_token$/ | String | This field is filled in automatically
+| Prediction Title |  | String | Title of the prediction
+| Answer 1 |  | String | Answer 1 / Blue
+| Answer 2 |  | String | Answer 2 / Pink
+| Prediction Window |  | Real | How long the prediction should stay open
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDg0NTM2NSwtMTMyOTkxNjg1OCw3NT
-QyNTM1NzAsMzE3MTEzMzYxLC02NzQ3NTA2MTMsNDUxOTI1NzEy
-LC0xOTQ3MTM0NjY1LDE0OTY4OTQ3NjEsMjExMDEyMTc3MSwxMj
-gzMDI2OTQ3LC0xOTQ3MTM0NjY1LDUxMTQ3NDMyNSwxMTUwOTE3
-MjIsLTEwMjQ4NzIwNzIsMTk0MDEwODY1MSw4MzcxMzU2NjIsNT
-Q4ODc1NjcwLC01NTA5NjE4NDAsLTE0NTAxNzM2MjIsLTEzNzc2
-NzgzNTZdfQ==
+eyJoaXN0b3J5IjpbMTI1NTk1NTE3NywtNTMwODQ1MzY1LC0xMz
+I5OTE2ODU4LDc1NDI1MzU3MCwzMTcxMTMzNjEsLTY3NDc1MDYx
+Myw0NTE5MjU3MTIsLTE5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMT
+EwMTIxNzcxLDEyODMwMjY5NDcsLTE5NDcxMzQ2NjUsNTExNDc0
+MzI1LDExNTA5MTcyMiwtMTAyNDg3MjA3MiwxOTQwMTA4NjUxLD
+gzNzEzNTY2Miw1NDg4NzU2NzAsLTU1MDk2MTg0MCwtMTQ1MDE3
+MzYyMl19
 -->
