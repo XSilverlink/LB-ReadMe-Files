@@ -252,12 +252,14 @@ You can manually create buttons if you like in other decks or just create a temp
 | Parameter | Default value | Recommended value |  Type | Information
 |--|--|--|--|--|
 | Clear Variables | true |  | Selection Box | Set to true to clear the variables set by this extension
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2OTE1MzE2LDE3OTA4MDYwMjgsLTYwOD
-g5NDM4MCwtNTMwODQ1MzY1LC0xMzI5OTE2ODU4LDc1NDI1MzU3
-MCwzMTcxMTMzNjEsLTY3NDc1MDYxMyw0NTE5MjU3MTIsLTE5ND
-cxMzQ2NjUsMTQ5Njg5NDc2MSwyMTEwMTIxNzcxLDEyODMwMjY5
-NDcsLTE5NDcxMzQ2NjUsNTExNDc0MzI1LDExNTA5MTcyMiwtMT
-AyNDg3MjA3MiwxOTQwMTA4NjUxLDgzNzEzNTY2Miw1NDg4NzU2
-NzBdfQ==
+eyJoaXN0b3J5IjpbLTIwNDg5NTcyMzIsNDI2OTE1MzE2LDE3OT
+A4MDYwMjgsLTYwODg5NDM4MCwtNTMwODQ1MzY1LC0xMzI5OTE2
+ODU4LDc1NDI1MzU3MCwzMTcxMTMzNjEsLTY3NDc1MDYxMyw0NT
+E5MjU3MTIsLTE5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMTEwMTIx
+NzcxLDEyODMwMjY5NDcsLTE5NDcxMzQ2NjUsNTExNDc0MzI1LD
+ExNTA5MTcyMiwtMTAyNDg3MjA3MiwxOTQwMTA4NjUxLDgzNzEz
+NTY2Ml19
 -->
