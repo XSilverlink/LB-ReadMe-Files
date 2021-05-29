@@ -266,14 +266,14 @@ https://discord.gg/RnDKRaVCEu
 
 *Clicking the image will open a new tab with the youtube page*
 
-**And of course my documentation wouldn't be ready without a shameless plug: 
+**And of course my documentation wouldn't be ready without a shameless plug:   
 Follow me on https://twitch.tv/Silverlink**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI5NTQ5MTksLTkyODU4NjM3NiwtMj
-AyNjYxNjkzOSwtODc5NTk4MDE5LDEzNDgwMzQ1MjcsNDI2OTE1
-MzE2LDE3OTA4MDYwMjgsLTYwODg5NDM4MCwtNTMwODQ1MzY1LC
-0xMzI5OTE2ODU4LDc1NDI1MzU3MCwzMTcxMTMzNjEsLTY3NDc1
-MDYxMyw0NTE5MjU3MTIsLTE5NDcxMzQ2NjUsMTQ5Njg5NDc2MS
-wyMTEwMTIxNzcxLDEyODMwMjY5NDcsLTE5NDcxMzQ2NjUsNTEx
-NDc0MzI1XX0=
+eyJoaXN0b3J5IjpbLTQ1NzA5ODA4NywtOTI4NTg2Mzc2LC0yMD
+I2NjE2OTM5LC04Nzk1OTgwMTksMTM0ODAzNDUyNyw0MjY5MTUz
+MTYsMTc5MDgwNjAyOCwtNjA4ODk0MzgwLC01MzA4NDUzNjUsLT
+EzMjk5MTY4NTgsNzU0MjUzNTcwLDMxNzExMzM2MSwtNjc0NzUw
+NjEzLDQ1MTkyNTcxMiwtMTk0NzEzNDY2NSwxNDk2ODk0NzYxLD
+IxMTAxMjE3NzEsMTI4MzAyNjk0NywtMTk0NzEzNDY2NSw1MTE0
+NzQzMjVdfQ==
 -->
