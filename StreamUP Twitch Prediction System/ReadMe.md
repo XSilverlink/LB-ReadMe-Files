@@ -10,6 +10,8 @@
 **💭 If you have any questions, problems or feedback feel free to join us on the StreamUP discord:**
 https://discord.gg/RnDKRaVCEu
 
+
+
 # Features  
 
 ### Through Lioranboard, Transmitter and (Mobile) Chat:
@@ -202,11 +204,11 @@ The extension sends out the following variables:
 *⁵ Values rounded to a String value. Ex: 42069 will be rounded to 42k*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDcxMzQ2NjUsNTExNDc0MzI1LDExNT
-A5MTcyMiwtMTAyNDg3MjA3MiwxOTQwMTA4NjUxLDgzNzEzNTY2
-Miw1NDg4NzU2NzAsLTU1MDk2MTg0MCwtMTQ1MDE3MzYyMiwtMT
-M3NzY3ODM1NiwxNjUwMTk4ODM4LC0xMDc1MDM2MjczLC03NTgx
-MzU4MTUsLTk4ODE1MzU4NSwtMTA1MDIzMDM0OSwxOTk5MzI1ND
-E4LDE4NzYxODIxOTIsMTc4MjY2NTYzMCwzMzAxODUwNDIsLTI3
-NjE0NzEyOF19
+eyJoaXN0b3J5IjpbLTE2OTk3ODY5LC0xOTQ3MTM0NjY1LDUxMT
+Q3NDMyNSwxMTUwOTE3MjIsLTEwMjQ4NzIwNzIsMTk0MDEwODY1
+MSw4MzcxMzU2NjIsNTQ4ODc1NjcwLC01NTA5NjE4NDAsLTE0NT
+AxNzM2MjIsLTEzNzc2NzgzNTYsMTY1MDE5ODgzOCwtMTA3NTAz
+NjI3MywtNzU4MTM1ODE1LC05ODgxNTM1ODUsLTEwNTAyMzAzND
+ksMTk5OTMyNTQxOCwxODc2MTgyMTkyLDE3ODI2NjU2MzAsMzMw
+MTg1MDQyXX0=
 -->
