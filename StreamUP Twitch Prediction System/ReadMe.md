@@ -171,26 +171,26 @@ The extension sends out the following variables:
 | SUPr:blueID | String | ID of Answer 1 / Blue given by Twitch
 | SUPr:blueTitle | String | Answer you specified for Answer 1 / Blue
 | SUPr:blueTotalCP | Real | Total amount of channel points spent for Answer 1 / Blue
-| SUPr:blueTotalCPRounded | String | Total amount of channel points for Answer 1 / Blue.⁵
+| SUPr:blueTotalCPRounded | String | Total amount of channel points for Answer 1 / Blue⁵
 | SUPr:blueTotalUsers | Real | Total amount of people who voted for Answer 1 / Blue
-| SUPr:blueTotalUsersRounded | String | Total amount of people who voted for Answer 1 / Blue.⁵
+| SUPr:blueTotalUsersRounded | String | Total amount of people who voted for Answer 1 / Blue⁵
 | SUPr:pinkID | String | ID of Answer 2 / Pink given by Twitch
 | SUPr:pinkTitle | String | Answer you specified for Answer 2 / Pink
 | SUPr:pinkTotalCP | Real | Total amount of channel points spent for Answer 2 / Pink
-| SUPr:pinkTotalCPRounded | String | Total amount of channel points for Answer 2 / Pink.⁵
+| SUPr:pinkTotalCPRounded | String | Total amount of channel points for Answer 2 / Pink⁵
 | SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
-| SUPr:pinkTotalUsersRounded | String | Total amount of people who voted for Answer 2 / Pink.⁵
-| SUPr:totalPredictingCP | Real | Total amount of people who voted for Answer 2 / Pink
-| SUPr:totalPredictingCPRounded | Real | Total amount of people who voted for Answer 2 / Pink
-| SUPr:totalPredictingUsers | Real | Total amount of people who voted for Answer 2 / Pink
-| SUPr:totalPredictingUsersRounded | Real | Total amount of people who voted for Answer 2 / Pink
+| SUPr:pinkTotalUsersRounded | String | Total amount of people who voted for Answer 2 / Pink⁵
+| SUPr:totalPredictingCP | Real | Total amount spend on this prediction
+| SUPr:totalPredictingCPRounded | Real | Total amount spend on this prediction⁵
+| SUPr:totalPredictingUsers | Real | Total amount of people who voted in this prediction
+| SUPr:totalPredictingUsersRounded | Real | TTotal amount of people who voted in this prediction⁵
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMjc1OTUzLDExNTA5MTcyMiwtMTAyND
-g3MjA3MiwxOTQwMTA4NjUxLDgzNzEzNTY2Miw1NDg4NzU2NzAs
-LTU1MDk2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3ODM1NiwxNj
-UwMTk4ODM4LC0xMDc1MDM2MjczLC03NTgxMzU4MTUsLTk4ODE1
-MzU4NSwtMTA1MDIzMDM0OSwxOTk5MzI1NDE4LDE4NzYxODIxOT
-IsMTc4MjY2NTYzMCwzMzAxODUwNDIsLTI3NjE0NzEyOCwtMTQ2
-Mzg5MTA4OV19
+eyJoaXN0b3J5IjpbLTg3NzcwOTg1MywxMTUwOTE3MjIsLTEwMj
+Q4NzIwNzIsMTk0MDEwODY1MSw4MzcxMzU2NjIsNTQ4ODc1Njcw
+LC01NTA5NjE4NDAsLTE0NTAxNzM2MjIsLTEzNzc2NzgzNTYsMT
+Y1MDE5ODgzOCwtMTA3NTAzNjI3MywtNzU4MTM1ODE1LC05ODgx
+NTM1ODUsLTEwNTAyMzAzNDksMTk5OTMyNTQxOCwxODc2MTgyMT
+kyLDE3ODI2NjU2MzAsMzMwMTg1MDQyLC0yNzYxNDcxMjgsLTE0
+NjM4OTEwODldfQ==
 -->
