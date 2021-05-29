@@ -13,11 +13,11 @@ https://discord.gg/RnDKRaVCEu
 # Table of Contents
 
  - [Features](#features)
- - First things first!
- - Getting started after install
- - Setting up / editing the example prediction
+ - [First things first!](#first-things-first)
+ - [Getting started after install](getting-started-after-install)
+ - [Setting up / editing the example prediction](#setting-up--editing-the-example-prediction)
  - Starting a prediction through Lioranboard
- - Starting a prediction through the transmitter
+ - Starting a prediction through the Transmitter
  - Starting a prediction through Twitch chat
  - Editing the 'Mod Prediction Trigger'
  - Receiving Variables in Lioranboard
@@ -284,7 +284,7 @@ https://discord.gg/RnDKRaVCEu
 **And of course my documentation wouldn't be ready without a shameless plug:   
 Follow me on https://twitch.tv/Silverlink**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzY4NzM0NiwtMTA0MjEzNjUzMCwtND
+eyJoaXN0b3J5IjpbLTUyMDkxNjMyNiwtMTA0MjEzNjUzMCwtND
 U3MDk4MDg3LC05Mjg1ODYzNzYsLTIwMjY2MTY5MzksLTg3OTU5
 ODAxOSwxMzQ4MDM0NTI3LDQyNjkxNTMxNiwxNzkwODA2MDI4LC
 02MDg4OTQzODAsLTUzMDg0NTM2NSwtMTMyOTkxNjg1OCw3NTQy
