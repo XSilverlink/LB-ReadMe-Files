@@ -214,12 +214,16 @@ SUPrWinPink | Send out when you've selected pink as a winner through the transmi
 SUPrCancel | Send out when you cancel a prediction through the transmitter, chat command or stream deck app
 SUPrLock| Send out when you lock a prediction through the transmitter, chat command or stream deck app
 
+# Send to Extension
+You can manually create buttons if you like in other decks
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0MjUzNTcwLDMxNzExMzM2MSwtNjc0Nz
-UwNjEzLDQ1MTkyNTcxMiwtMTk0NzEzNDY2NSwxNDk2ODk0NzYx
-LDIxMTAxMjE3NzEsMTI4MzAyNjk0NywtMTk0NzEzNDY2NSw1MT
-E0NzQzMjUsMTE1MDkxNzIyLC0xMDI0ODcyMDcyLDE5NDAxMDg2
-NTEsODM3MTM1NjYyLDU0ODg3NTY3MCwtNTUwOTYxODQwLC0xND
-UwMTczNjIyLC0xMzc3Njc4MzU2LDE2NTAxOTg4MzgsLTEwNzUw
-MzYyNzNdfQ==
+eyJoaXN0b3J5IjpbLTIwMjc2NDQwMiw3NTQyNTM1NzAsMzE3MT
+EzMzYxLC02NzQ3NTA2MTMsNDUxOTI1NzEyLC0xOTQ3MTM0NjY1
+LDE0OTY4OTQ3NjEsMjExMDEyMTc3MSwxMjgzMDI2OTQ3LC0xOT
+Q3MTM0NjY1LDUxMTQ3NDMyNSwxMTUwOTE3MjIsLTEwMjQ4NzIw
+NzIsMTk0MDEwODY1MSw4MzcxMzU2NjIsNTQ4ODc1NjcwLC01NT
+A5NjE4NDAsLTE0NTAxNzM2MjIsLTEzNzc2NzgzNTYsMTY1MDE5
+ODgzOF19
 -->
