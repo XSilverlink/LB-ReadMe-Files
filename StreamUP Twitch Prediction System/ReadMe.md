@@ -215,15 +215,17 @@ SUPrCancel | Send out when you cancel a prediction through the transmitter, chat
 SUPrLock| Send out when you lock a prediction through the transmitter, chat command or stream deck app
 
 # Send to Extension
-You can manually create buttons if you like in other decks or just create a template deck with just only starting predictions. **We strongly advise only to create 'StreamUP - Set Prediction' buttons and do not create any other buttons because they are handled in the deck that comes with this extension **
+You can manually create buttons if you like in other decks or just create a template deck with just only starting predictions. 
+
+*We strongly advise only to create 'StreamUP - Set Prediction' buttons and do not create any other buttons because they are handled in the deck that comes with this extension. You can **move** the 'Answer 1' and 'Answer 2' buttons to another deck but the button ID needs to be the*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzc5NzQwNzAsNzU0MjUzNTcwLDMxNz
-ExMzM2MSwtNjc0NzUwNjEzLDQ1MTkyNTcxMiwtMTk0NzEzNDY2
-NSwxNDk2ODk0NzYxLDIxMTAxMjE3NzEsMTI4MzAyNjk0NywtMT
-k0NzEzNDY2NSw1MTE0NzQzMjUsMTE1MDkxNzIyLC0xMDI0ODcy
-MDcyLDE5NDAxMDg2NTEsODM3MTM1NjYyLDU0ODg3NTY3MCwtNT
-UwOTYxODQwLC0xNDUwMTczNjIyLC0xMzc3Njc4MzU2LDE2NTAx
-OTg4MzhdfQ==
+eyJoaXN0b3J5IjpbMTMyNjQzNTAzNCw3NTQyNTM1NzAsMzE3MT
+EzMzYxLC02NzQ3NTA2MTMsNDUxOTI1NzEyLC0xOTQ3MTM0NjY1
+LDE0OTY4OTQ3NjEsMjExMDEyMTc3MSwxMjgzMDI2OTQ3LC0xOT
+Q3MTM0NjY1LDUxMTQ3NDMyNSwxMTUwOTE3MjIsLTEwMjQ4NzIw
+NzIsMTk0MDEwODY1MSw4MzcxMzU2NjIsNTQ4ODc1NjcwLC01NT
+A5NjE4NDAsLTE0NTAxNzM2MjIsLTEzNzc2NzgzNTYsMTY1MDE5
+ODgzOF19
 -->
