@@ -170,8 +170,8 @@ Everything is specified already in the deck but here is a little bit extra. My a
 
 Don't edit anything else in this button or otherwise it may brake and you may need to reinstall the deck.
 
-# Receiving Variables in Lioranboard
-This is where the magic happens! Lioranboard receives every 2 seconds (or per what you've set in the 'Retrieve prediction information' button) information from the Twitch API. This means you can live update your sources in OBS through Lioranboard. You can show live numbers on stream. Make a moving bar for the countdown and other great stuff. [Andilippi](https://twitch.tv/Andilippi) has made a great example of what you can do with it. Here is a screenshot of it:
+# Receiving variables in Lioranboard
+This is where the real magic happens! Lioranboard receives every 2 seconds (or per what you've set in the 'Retrieve prediction information' button) information from the Twitch API. This means you can live update your sources in OBS through Lioranboard. You can show live numbers on stream. Make a moving bar for the countdown and other great stuff. [Andilippi](https://twitch.tv/Andilippi) has made a great example of what you can do with it. Here is a screenshot of it:
 
 <p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_yaMO23C7er.png"></p>
 
@@ -284,11 +284,11 @@ https://discord.gg/RnDKRaVCEu
 **And of course my documentation wouldn't be ready without a shameless plug:   
 Follow me on https://twitch.tv/Silverlink**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2ODQxMjI0LC0xMDQyMTM2NTMwLC00NT
-cwOTgwODcsLTkyODU4NjM3NiwtMjAyNjYxNjkzOSwtODc5NTk4
-MDE5LDEzNDgwMzQ1MjcsNDI2OTE1MzE2LDE3OTA4MDYwMjgsLT
-YwODg5NDM4MCwtNTMwODQ1MzY1LC0xMzI5OTE2ODU4LDc1NDI1
-MzU3MCwzMTcxMTMzNjEsLTY3NDc1MDYxMyw0NTE5MjU3MTIsLT
-E5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMTEwMTIxNzcxLDEyODMw
-MjY5NDddfQ==
+eyJoaXN0b3J5IjpbMTIzOTc5Mzg1NCwtMTA0MjEzNjUzMCwtND
+U3MDk4MDg3LC05Mjg1ODYzNzYsLTIwMjY2MTY5MzksLTg3OTU5
+ODAxOSwxMzQ4MDM0NTI3LDQyNjkxNTMxNiwxNzkwODA2MDI4LC
+02MDg4OTQzODAsLTUzMDg0NTM2NSwtMTMyOTkxNjg1OCw3NTQy
+NTM1NzAsMzE3MTEzMzYxLC02NzQ3NTA2MTMsNDUxOTI1NzEyLC
+0xOTQ3MTM0NjY1LDE0OTY4OTQ3NjEsMjExMDEyMTc3MSwxMjgz
+MDI2OTQ3XX0=
 -->
