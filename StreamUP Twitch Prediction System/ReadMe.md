@@ -203,12 +203,14 @@ The extension sends out the following variables:
 
 You can use these variables in Lioranboard how ever you want. Show them in OBS via a text source, make advanced calculations with the numbers and many more stuff and things.
 
+### Extra Information
+## Send to extension
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDc1MDYxMyw0NTE5MjU3MTIsLTE5ND
-cxMzQ2NjUsMTQ5Njg5NDc2MSwyMTEwMTIxNzcxLDEyODMwMjY5
-NDcsLTE5NDcxMzQ2NjUsNTExNDc0MzI1LDExNTA5MTcyMiwtMT
-AyNDg3MjA3MiwxOTQwMTA4NjUxLDgzNzEzNTY2Miw1NDg4NzU2
-NzAsLTU1MDk2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3ODM1Ni
-wxNjUwMTk4ODM4LC0xMDc1MDM2MjczLC03NTgxMzU4MTUsLTk4
-ODE1MzU4NV19
+eyJoaXN0b3J5IjpbLTE0MDE3NzYyMzIsLTY3NDc1MDYxMyw0NT
+E5MjU3MTIsLTE5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMTEwMTIx
+NzcxLDEyODMwMjY5NDcsLTE5NDcxMzQ2NjUsNTExNDc0MzI1LD
+ExNTA5MTcyMiwtMTAyNDg3MjA3MiwxOTQwMTA4NjUxLDgzNzEz
+NTY2Miw1NDg4NzU2NzAsLTU1MDk2MTg0MCwtMTQ1MDE3MzYyMi
+wtMTM3NzY3ODM1NiwxNjUwMTk4ODM4LC0xMDc1MDM2MjczLC03
+NTgxMzU4MTVdfQ==
 -->
