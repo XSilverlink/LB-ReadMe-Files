@@ -215,11 +215,11 @@ SUPrCancel | Send out when you cancel a prediction through the transmitter, chat
 SUPrLock| Send out when you lock a prediction through the transmitter, chat command or stream deck app
 
 # Send to Extension
-You can manually create buttons if you like in other decks or just create a template deck with just only starting predictions. **We strongly advise only to **
+You can manually create buttons if you like in other decks or just create a template deck with just only starting predictions. **We strongly advise only to create 'StreamUP - Set Prediction' buttons**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjcwMjY1NCw3NTQyNTM1NzAsMzE3MT
+eyJoaXN0b3J5IjpbMTk0MzYwMzk2NCw3NTQyNTM1NzAsMzE3MT
 EzMzYxLC02NzQ3NTA2MTMsNDUxOTI1NzEyLC0xOTQ3MTM0NjY1
 LDE0OTY4OTQ3NjEsMjExMDEyMTc3MSwxMjgzMDI2OTQ3LC0xOT
 Q3MTM0NjY1LDUxMTQ3NDMyNSwxMTUwOTE3MjIsLTEwMjQ4NzIw
