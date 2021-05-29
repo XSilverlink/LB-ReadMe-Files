@@ -217,15 +217,17 @@ SUPrLock| Send out when you lock a prediction through the transmitter, chat comm
 # Send to Extension
 You can manually create buttons if you like in other decks or just create a template deck with just only starting predictions. 
 
-*We strongly advise only to create 'StreamUP - Set Prediction' buttons and do not create any other buttons because they are handled in the deck that comes with this extension. You can **move** the 'Answer 1' and 'Answer 2' buttons to another deck but the button ID needs to be 'SUPr:A1' for the Answer 1 button and 'SUPr:A2' for the Answer 2 button if you want them to be updated like in the default deck. If you just want to pick a winner button without any updates on the button you can use 'StreamUP - End Prediction' and configure that correctly*
+*We strongly advise only to create 'StreamUP - Set Prediction' buttons and do not create any other buttons because they are handled in the default deck that comes with this extension.*
+
+*You can **move** the 'Answer 1' and 'Answer 2' buttons to another deck but the button ID needs to be 'SUPr:A1' for the Answer 1 button and 'SUPr:A2' for the Answer 2 button if you want them to be updated like in the default deck. If you just want to pick a winner button without any updates on the button you can use 'StreamUP - End Prediction' and configure that correctly.*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5MjkyMzk5LDc1NDI1MzU3MCwzMTcxMT
-MzNjEsLTY3NDc1MDYxMyw0NTE5MjU3MTIsLTE5NDcxMzQ2NjUs
-MTQ5Njg5NDc2MSwyMTEwMTIxNzcxLDEyODMwMjY5NDcsLTE5ND
-cxMzQ2NjUsNTExNDc0MzI1LDExNTA5MTcyMiwtMTAyNDg3MjA3
-MiwxOTQwMTA4NjUxLDgzNzEzNTY2Miw1NDg4NzU2NzAsLTU1MD
-k2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3ODM1NiwxNjUwMTk4
-ODM4XX0=
+eyJoaXN0b3J5IjpbLTEzMjk5MTY4NTgsNzU0MjUzNTcwLDMxNz
+ExMzM2MSwtNjc0NzUwNjEzLDQ1MTkyNTcxMiwtMTk0NzEzNDY2
+NSwxNDk2ODk0NzYxLDIxMTAxMjE3NzEsMTI4MzAyNjk0NywtMT
+k0NzEzNDY2NSw1MTE0NzQzMjUsMTE1MDkxNzIyLC0xMDI0ODcy
+MDcyLDE5NDAxMDg2NTEsODM3MTM1NjYyLDU0ODg3NTY3MCwtNT
+UwOTYxODQwLC0xNDUwMTczNjIyLC0xMzc3Njc4MzU2LDE2NTAx
+OTg4MzhdfQ==
 -->
