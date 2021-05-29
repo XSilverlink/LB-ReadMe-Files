@@ -238,12 +238,19 @@ You can manually create buttons if you like in other decks or just create a temp
 | oauth_token | /$oauth_token$/ | /$oauth_token$/ | String | This field is filled in automatically
 | Prediction ID | | /$SUPr:predictionID$/ | String | ID of the running prediction
 
+### StreamUP - End Prediction
+| Parameter | Default value | Recommended value |  Type | Information
+|--|--|--|--|--|
+| channel_id | /$channel_id$/ | /$channel_id$/ | String | This field is filled in automatically
+| oauth_token | /$oauth_token$/ | /$oauth_token$/ | String | This field is filled in automatically
+| Prediction ID | | /$SUPr:predictionID$/ | String | ID of the running prediction
+| Winning Outcome ID | | Empty, /$SUPr:blueID$/ or /$SUPr:pinkID$/| String | ID of the running prediction
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0MzIwMjksLTUzMDg0NTM2NSwtMTMyOT
-kxNjg1OCw3NTQyNTM1NzAsMzE3MTEzMzYxLC02NzQ3NTA2MTMs
-NDUxOTI1NzEyLC0xOTQ3MTM0NjY1LDE0OTY4OTQ3NjEsMjExMD
-EyMTc3MSwxMjgzMDI2OTQ3LC0xOTQ3MTM0NjY1LDUxMTQ3NDMy
-NSwxMTUwOTE3MjIsLTEwMjQ4NzIwNzIsMTk0MDEwODY1MSw4Mz
-cxMzU2NjIsNTQ4ODc1NjcwLC01NTA5NjE4NDAsLTE0NTAxNzM2
-MjJdfQ==
+eyJoaXN0b3J5IjpbLTE3MDMzMDk0LC01MzA4NDUzNjUsLTEzMj
+k5MTY4NTgsNzU0MjUzNTcwLDMxNzExMzM2MSwtNjc0NzUwNjEz
+LDQ1MTkyNTcxMiwtMTk0NzEzNDY2NSwxNDk2ODk0NzYxLDIxMT
+AxMjE3NzEsMTI4MzAyNjk0NywtMTk0NzEzNDY2NSw1MTE0NzQz
+MjUsMTE1MDkxNzIyLC0xMDI0ODcyMDcyLDE5NDAxMDg2NTEsOD
+M3MTM1NjYyLDU0ODg3NTY3MCwtNTUwOTYxODQwLC0xNDUwMTcz
+NjIyXX0=
 -->
