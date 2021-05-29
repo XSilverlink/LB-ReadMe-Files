@@ -201,10 +201,10 @@ The extension sends out the following variables:
 
 *⁵ Values rounded to a String value. Ex: 42069 will be rounded to 42k*
 
-You can use these variables in Lioranboard how ever you want. Show them in OBS via a text source, make advanced calculations with the numbers so you can calculate
+You can use these variables in Lioranboard how ever you want. Show them in OBS via a text source, make advanced calculations with the numbers so you can calculate percentages and make that show in OBS. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxNDQzOTg3LC0xOTQ3MTM0NjY1LDE0OT
+eyJoaXN0b3J5IjpbNDUxOTI1NzEyLC0xOTQ3MTM0NjY1LDE0OT
 Y4OTQ3NjEsMjExMDEyMTc3MSwxMjgzMDI2OTQ3LC0xOTQ3MTM0
 NjY1LDUxMTQ3NDMyNSwxMTUwOTE3MjIsLTEwMjQ4NzIwNzIsMT
 k0MDEwODY1MSw4MzcxMzU2NjIsNTQ4ODc1NjcwLC01NTA5NjE4
