@@ -181,12 +181,14 @@ The extension sends out the following variables:
 | SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
 | SUPr:pinkTotalUsersRounded | String | Total amount of people who voted for Answer 2 / Pink⁵
 | SUPr:totalPredictingCP | Real | Total amount spend on this prediction
-| SUPr:totalPredictingCPRounded | Real | Total amount spend on this prediction⁵
+| SUPr:totalPredictingCPRounded | String | Total amount spend on this prediction⁵
 | SUPr:totalPredictingUsers | Real | Total amount of people who voted in this prediction
-| SUPr:totalPredictingUsersRounded | Real | TTotal amount of people who voted in this prediction⁵
+| SUPr:totalPredictingUsersRounded | String | Total amount of people who voted in this prediction⁵
+
+*⁵ Rounded numbers*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzcwOTg1MywxMTUwOTE3MjIsLTEwMj
+eyJoaXN0b3J5IjpbLTc4NTIwNjgyOSwxMTUwOTE3MjIsLTEwMj
 Q4NzIwNzIsMTk0MDEwODY1MSw4MzcxMzU2NjIsNTQ4ODc1Njcw
 LC01NTA5NjE4NDAsLTE0NTAxNzM2MjIsLTEzNzc2NzgzNTYsMT
 Y1MDE5ODgzOCwtMTA3NTAzNjI3MywtNzU4MTM1ODE1LC05ODgx
