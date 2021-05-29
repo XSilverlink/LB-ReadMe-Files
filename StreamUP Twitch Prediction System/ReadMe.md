@@ -222,12 +222,13 @@ You can manually create buttons if you like in other decks or just create a temp
 *You can **move** the 'Answer 1' and 'Answer 2' buttons to another deck but the button ID needs to be 'SUPr:A1' for the Answer 1 button and 'SUPr:A2' for the Answer 2 button if you want them to be updated like in the default deck. If you just want to pick a winner button without any updates on the button you can use 'StreamUP - End Prediction' and configure that correctly.*
 
 ### StreamUP - Set Prediction
-| Parameter | Info | Value
-|--|--|--|
-| channel_id |  |
+| Parameter | Value | Type | Extra info
+|--|--|--|--|
+| channel_id | /$channel_id$/ | String | This field is filled in automatically
+| oauth_token | /$oauth_token$/ |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ3NTUxMjksLTEzMjk5MTY4NTgsNz
+eyJoaXN0b3J5IjpbLTExOTc1NzU3OTEsLTEzMjk5MTY4NTgsNz
 U0MjUzNTcwLDMxNzExMzM2MSwtNjc0NzUwNjEzLDQ1MTkyNTcx
 MiwtMTk0NzEzNDY2NSwxNDk2ODk0NzYxLDIxMTAxMjE3NzEsMT
 I4MzAyNjk0NywtMTk0NzEzNDY2NSw1MTE0NzQzMjUsMTE1MDkx
