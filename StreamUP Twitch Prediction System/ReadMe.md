@@ -224,7 +224,7 @@ You can manually create buttons if you like in other decks or just create a temp
 ### StreamUP - Set Prediction
 | Parameter | Default value | Type | Information
 |--|--|--|--|
-| channel_id | /$channel_id$/ | Real | This field is filled in automatically
+| channel_id | /$channel_id$/ | String | This field is filled in automatically
 | oauth_token | /$oauth_token$/ | String | This field is filled in automatically
 | Prediction Title |  | String | Title of the prediction
 | Answer 1 |  | String | Answer 1 / Blue
@@ -234,16 +234,16 @@ You can manually create buttons if you like in other decks or just create a temp
 ### StreamUP - Get Prediction
 | Parameter | Default value | Recommended value |  Type | Information
 |--|--|--|--|--|
-| channel_id | /$channel_id$/ | /$channel_id$/ | Real | This field is filled in automatically
+| channel_id | /$channel_id$/ | /$channel_id$/ | String | This field is filled in automatically
 | oauth_token | /$oauth_token$/ | /$oauth_token$/ | String | This field is filled in automatically
 | Prediction ID | | /$SUPr:predictionID$/ | String | ID of the running prediction
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTMyOTI3NywtNTMwODQ1MzY1LC0xMz
-I5OTE2ODU4LDc1NDI1MzU3MCwzMTcxMTMzNjEsLTY3NDc1MDYx
-Myw0NTE5MjU3MTIsLTE5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMT
-EwMTIxNzcxLDEyODMwMjY5NDcsLTE5NDcxMzQ2NjUsNTExNDc0
-MzI1LDExNTA5MTcyMiwtMTAyNDg3MjA3MiwxOTQwMTA4NjUxLD
-gzNzEzNTY2Miw1NDg4NzU2NzAsLTU1MDk2MTg0MCwtMTQ1MDE3
-MzYyMl19
+eyJoaXN0b3J5IjpbNzA0MzIwMjksLTUzMDg0NTM2NSwtMTMyOT
+kxNjg1OCw3NTQyNTM1NzAsMzE3MTEzMzYxLC02NzQ3NTA2MTMs
+NDUxOTI1NzEyLC0xOTQ3MTM0NjY1LDE0OTY4OTQ3NjEsMjExMD
+EyMTc3MSwxMjgzMDI2OTQ3LC0xOTQ3MTM0NjY1LDUxMTQ3NDMy
+NSwxMTUwOTE3MjIsLTEwMjQ4NzIwNzIsMTk0MDEwODY1MSw4Mz
+cxMzU2NjIsNTQ4ODc1NjcwLC01NTA5NjE4NDAsLTE0NTAxNzM2
+MjJdfQ==
 -->
