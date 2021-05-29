@@ -256,14 +256,17 @@ You can manually create buttons if you like in other decks or just create a temp
 # Is there more?
 Maybe, I honestly don't know, I think everything you need to know is in here. If there is I will update this ReadMe file accordingly. 
 
+Here is also btw an awesome video made by Andilippi about this extension:
+
 <p align="center"><a href="https://www.youtube.com/watch?v=4eOihSZN8Qs"><img src="https://img.youtube.com/vi/4eOihSZN8Qs/0.jpg" width="100%"></a></p>
+*clicking the image will open a new tab with the youtube page*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQ1OTE2NjgsLTg3OTU5ODAxOSwxMz
-Q4MDM0NTI3LDQyNjkxNTMxNiwxNzkwODA2MDI4LC02MDg4OTQz
-ODAsLTUzMDg0NTM2NSwtMTMyOTkxNjg1OCw3NTQyNTM1NzAsMz
-E3MTEzMzYxLC02NzQ3NTA2MTMsNDUxOTI1NzEyLC0xOTQ3MTM0
-NjY1LDE0OTY4OTQ3NjEsMjExMDEyMTc3MSwxMjgzMDI2OTQ3LC
-0xOTQ3MTM0NjY1LDUxMTQ3NDMyNSwxMTUwOTE3MjIsLTEwMjQ4
-NzIwNzJdfQ==
+eyJoaXN0b3J5IjpbNjUyMzU1MDc2LC04Nzk1OTgwMTksMTM0OD
+AzNDUyNyw0MjY5MTUzMTYsMTc5MDgwNjAyOCwtNjA4ODk0Mzgw
+LC01MzA4NDUzNjUsLTEzMjk5MTY4NTgsNzU0MjUzNTcwLDMxNz
+ExMzM2MSwtNjc0NzUwNjEzLDQ1MTkyNTcxMiwtMTk0NzEzNDY2
+NSwxNDk2ODk0NzYxLDIxMTAxMjE3NzEsMTI4MzAyNjk0NywtMT
+k0NzEzNDY2NSw1MTE0NzQzMjUsMTE1MDkxNzIyLC0xMDI0ODcy
+MDcyXX0=
 -->
