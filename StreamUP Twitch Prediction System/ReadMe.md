@@ -185,10 +185,10 @@ The extension sends out the following variables:
 | SUPr:totalPredictingUsers | Real | Total amount of people who voted in this prediction
 | SUPr:totalPredictingUsersRounded | String | Total amount of people who voted in this prediction⁵
 
-*⁵ Rounded numbers*
+*⁵ Values in String rounded to a *
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTIwNjgyOSwxMTUwOTE3MjIsLTEwMj
+eyJoaXN0b3J5IjpbLTQ2NzYxOTc3NywxMTUwOTE3MjIsLTEwMj
 Q4NzIwNzIsMTk0MDEwODY1MSw4MzcxMzU2NjIsNTQ4ODc1Njcw
 LC01NTA5NjE4NDAsLTE0NTAxNzM2MjIsLTEzNzc2NzgzNTYsMT
 Y1MDE5ODgzOCwtMTA3NTAzNjI3MywtNzU4MTM1ODE1LC05ODgx
