@@ -212,13 +212,14 @@ When certain events happen in the extension the extension will send out some Ext
 | SUPrWinBlue | Send out when you've selected blue as a winner through the transmitter, chat command or stream deck app
 SUPrWinPink | Send out when you've selected pink as a winner through the transmitter, chat command or stream deck app
 SUPrCancel | Send out when you cancel a prediction through the transmitter, chat command or stream deck app
+SUPrLock| Send out when you lock a prediction through the transmitter, chat command or stream deck app
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTYwMDY1NzYsMzE3MTEzMzYxLC02Nz
-Q3NTA2MTMsNDUxOTI1NzEyLC0xOTQ3MTM0NjY1LDE0OTY4OTQ3
-NjEsMjExMDEyMTc3MSwxMjgzMDI2OTQ3LC0xOTQ3MTM0NjY1LD
-UxMTQ3NDMyNSwxMTUwOTE3MjIsLTEwMjQ4NzIwNzIsMTk0MDEw
-ODY1MSw4MzcxMzU2NjIsNTQ4ODc1NjcwLC01NTA5NjE4NDAsLT
-E0NTAxNzM2MjIsLTEzNzc2NzgzNTYsMTY1MDE5ODgzOCwtMTA3
-NTAzNjI3M119
+eyJoaXN0b3J5IjpbNzU0MjUzNTcwLDMxNzExMzM2MSwtNjc0Nz
+UwNjEzLDQ1MTkyNTcxMiwtMTk0NzEzNDY2NSwxNDk2ODk0NzYx
+LDIxMTAxMjE3NzEsMTI4MzAyNjk0NywtMTk0NzEzNDY2NSw1MT
+E0NzQzMjUsMTE1MDkxNzIyLC0xMDI0ODcyMDcyLDE5NDAxMDg2
+NTEsODM3MTM1NjYyLDU0ODg3NTY3MCwtNTUwOTYxODQwLC0xND
+UwMTczNjIyLC0xMzc3Njc4MzU2LDE2NTAxOTg4MzgsLTEwNzUw
+MzYyNzNdfQ==
 -->
