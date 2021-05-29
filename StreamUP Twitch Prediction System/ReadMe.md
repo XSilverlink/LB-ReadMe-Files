@@ -12,7 +12,7 @@ https://discord.gg/RnDKRaVCEu
 
 # Table of Contents
 
- - Features
+ - [Features](#features)
  - First things first!
  - Getting started after install
  - Setting up / editing the example prediction
@@ -284,11 +284,11 @@ https://discord.gg/RnDKRaVCEu
 **And of course my documentation wouldn't be ready without a shameless plug:   
 Follow me on https://twitch.tv/Silverlink**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0NTA1ODkzLC0xMDQyMTM2NTMwLC00NT
-cwOTgwODcsLTkyODU4NjM3NiwtMjAyNjYxNjkzOSwtODc5NTk4
-MDE5LDEzNDgwMzQ1MjcsNDI2OTE1MzE2LDE3OTA4MDYwMjgsLT
-YwODg5NDM4MCwtNTMwODQ1MzY1LC0xMzI5OTE2ODU4LDc1NDI1
-MzU3MCwzMTcxMTMzNjEsLTY3NDc1MDYxMyw0NTE5MjU3MTIsLT
-E5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMTEwMTIxNzcxLDEyODMw
-MjY5NDddfQ==
+eyJoaXN0b3J5IjpbLTgyNzY4NzM0NiwtMTA0MjEzNjUzMCwtND
+U3MDk4MDg3LC05Mjg1ODYzNzYsLTIwMjY2MTY5MzksLTg3OTU5
+ODAxOSwxMzQ4MDM0NTI3LDQyNjkxNTMxNiwxNzkwODA2MDI4LC
+02MDg4OTQzODAsLTUzMDg0NTM2NSwtMTMyOTkxNjg1OCw3NTQy
+NTM1NzAsMzE3MTEzMzYxLC02NzQ3NTA2MTMsNDUxOTI1NzEyLC
+0xOTQ3MTM0NjY1LDE0OTY4OTQ3NjEsMjExMDEyMTc3MSwxMjgz
+MDI2OTQ3XX0=
 -->
