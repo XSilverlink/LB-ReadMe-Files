@@ -244,13 +244,13 @@ You can manually create buttons if you like in other decks or just create a temp
 | channel_id | /$channel_id$/ | /$channel_id$/ | String | This field is filled in automatically
 | oauth_token | /$oauth_token$/ | /$oauth_token$/ | String | This field is filled in automatically
 | Prediction ID | | /$SUPr:predictionID$/ | String | ID of the running prediction
-| Winning Outcome ID | | Empty, /$SUPr:blueID$/ or /$SUPr:pinkID$/| String | ID of the running prediction
+| Winning Outcome ID | | Empty, /$SUPr:blueID$/ or /$SUPr:pinkID$/| String | Can be left empty if you set it to CANCELED or LOCKED
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDMzMDk0LC01MzA4NDUzNjUsLTEzMj
-k5MTY4NTgsNzU0MjUzNTcwLDMxNzExMzM2MSwtNjc0NzUwNjEz
-LDQ1MTkyNTcxMiwtMTk0NzEzNDY2NSwxNDk2ODk0NzYxLDIxMT
-AxMjE3NzEsMTI4MzAyNjk0NywtMTk0NzEzNDY2NSw1MTE0NzQz
-MjUsMTE1MDkxNzIyLC0xMDI0ODcyMDcyLDE5NDAxMDg2NTEsOD
-M3MTM1NjYyLDU0ODg3NTY3MCwtNTUwOTYxODQwLC0xNDUwMTcz
-NjIyXX0=
+eyJoaXN0b3J5IjpbMTEyNzAxNzMxNiwtNTMwODQ1MzY1LC0xMz
+I5OTE2ODU4LDc1NDI1MzU3MCwzMTcxMTMzNjEsLTY3NDc1MDYx
+Myw0NTE5MjU3MTIsLTE5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMT
+EwMTIxNzcxLDEyODMwMjY5NDcsLTE5NDcxMzQ2NjUsNTExNDc0
+MzI1LDExNTA5MTcyMiwtMTAyNDg3MjA3MiwxOTQwMTA4NjUxLD
+gzNzEzNTY2Miw1NDg4NzU2NzAsLTU1MDk2MTg0MCwtMTQ1MDE3
+MzYyMl19
 -->
