@@ -16,13 +16,13 @@ https://discord.gg/RnDKRaVCEu
  - [First things first!](#first-things-first)
  - [Getting started after install](getting-started-after-install)
  - [Setting up / editing the example prediction](#setting-up--editing-the-example-prediction)
- - Starting a prediction through Lioranboard
- - Starting a prediction through the Transmitter
- - Starting a prediction through Twitch chat
- - Editing the 'Mod Prediction Trigger'
- - Receiving Variables in Lioranboard
- - Extension Triggers
- - Send to Extension
+ - [Starting a prediction through Lioranboard](#starting-a-prediction-through-lioranboard-stream-deck)
+ - [Starting a prediction through the Transmitter](#starting-a-prediction-through-the-transmitter)
+ - [Starting a prediction through Twitch chat](#starting-a-prediction-through-twitch-chat)
+ - [Editing the 'Mod Prediction Trigger'](#editing-the-mod-prediction-trigger)
+ - [Receiving Variables in Lioranboard](#receiving-variables-in-lioranboard)
+ - [Extension Triggers](#extension-triggers)
+ - [Send to Extension](#send-to-extension)
  - Is there more?
 
 # Features  
@@ -284,11 +284,11 @@ https://discord.gg/RnDKRaVCEu
 **And of course my documentation wouldn't be ready without a shameless plug:   
 Follow me on https://twitch.tv/Silverlink**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDkxNjMyNiwtMTA0MjEzNjUzMCwtND
-U3MDk4MDg3LC05Mjg1ODYzNzYsLTIwMjY2MTY5MzksLTg3OTU5
-ODAxOSwxMzQ4MDM0NTI3LDQyNjkxNTMxNiwxNzkwODA2MDI4LC
-02MDg4OTQzODAsLTUzMDg0NTM2NSwtMTMyOTkxNjg1OCw3NTQy
-NTM1NzAsMzE3MTEzMzYxLC02NzQ3NTA2MTMsNDUxOTI1NzEyLC
-0xOTQ3MTM0NjY1LDE0OTY4OTQ3NjEsMjExMDEyMTc3MSwxMjgz
-MDI2OTQ3XX0=
+eyJoaXN0b3J5IjpbLTIwMzA3MDU4NTksLTEwNDIxMzY1MzAsLT
+Q1NzA5ODA4NywtOTI4NTg2Mzc2LC0yMDI2NjE2OTM5LC04Nzk1
+OTgwMTksMTM0ODAzNDUyNyw0MjY5MTUzMTYsMTc5MDgwNjAyOC
+wtNjA4ODk0MzgwLC01MzA4NDUzNjUsLTEzMjk5MTY4NTgsNzU0
+MjUzNTcwLDMxNzExMzM2MSwtNjc0NzUwNjEzLDQ1MTkyNTcxMi
+wtMTk0NzEzNDY2NSwxNDk2ODk0NzYxLDIxMTAxMjE3NzEsMTI4
+MzAyNjk0N119
 -->
