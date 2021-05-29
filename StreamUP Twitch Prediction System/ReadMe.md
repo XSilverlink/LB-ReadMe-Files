@@ -260,18 +260,18 @@ Posted this earlier also but:
 **💭 If you have any questions, suggestions, problems or feedback feel free to join us on the StreamUP discord:**
 https://discord.gg/RnDKRaVCEu
 
-### Here is also btw an awesome video made by Andilippi about this extension:
+### Video(s) made for this extension by the awesome Andilippi:
 
 <p align="center"><a href="https://www.youtube.com/watch?v=4eOihSZN8Qs"><img src="https://img.youtube.com/vi/4eOihSZN8Qs/0.jpg" width="100%"></a></p>
 
 *Clicking the image will open a new tab with the youtube page*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzI2MjMxMiwtOTI4NTg2Mzc2LC0yMD
-I2NjE2OTM5LC04Nzk1OTgwMTksMTM0ODAzNDUyNyw0MjY5MTUz
-MTYsMTc5MDgwNjAyOCwtNjA4ODk0MzgwLC01MzA4NDUzNjUsLT
-EzMjk5MTY4NTgsNzU0MjUzNTcwLDMxNzExMzM2MSwtNjc0NzUw
-NjEzLDQ1MTkyNTcxMiwtMTk0NzEzNDY2NSwxNDk2ODk0NzYxLD
-IxMTAxMjE3NzEsMTI4MzAyNjk0NywtMTk0NzEzNDY2NSw1MTE0
-NzQzMjVdfQ==
+eyJoaXN0b3J5IjpbNTA2NjE3MTI2LC05Mjg1ODYzNzYsLTIwMj
+Y2MTY5MzksLTg3OTU5ODAxOSwxMzQ4MDM0NTI3LDQyNjkxNTMx
+NiwxNzkwODA2MDI4LC02MDg4OTQzODAsLTUzMDg0NTM2NSwtMT
+MyOTkxNjg1OCw3NTQyNTM1NzAsMzE3MTEzMzYxLC02NzQ3NTA2
+MTMsNDUxOTI1NzEyLC0xOTQ3MTM0NjY1LDE0OTY4OTQ3NjEsMj
+ExMDEyMTc3MSwxMjgzMDI2OTQ3LC0xOTQ3MTM0NjY1LDUxMTQ3
+NDMyNV19
 -->
