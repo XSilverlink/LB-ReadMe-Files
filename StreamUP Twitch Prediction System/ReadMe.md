@@ -268,10 +268,8 @@ https://discord.gg/RnDKRaVCEu
 
 **And of course my documentation wouldn't be ready without a shameless plug:   
 Follow me on https://twitch.tv/Silverlink**
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzU1MDk2NSwtOTI4NTg2Mzc2LC0yMD
+eyJoaXN0b3J5IjpbLTQ1NzA5ODA4NywtOTI4NTg2Mzc2LC0yMD
 I2NjE2OTM5LC04Nzk1OTgwMTksMTM0ODAzNDUyNyw0MjY5MTUz
 MTYsMTc5MDgwNjAyOCwtNjA4ODk0MzgwLC01MzA4NDUzNjUsLT
 EzMjk5MTY4NTgsNzU0MjUzNTcwLDMxNzExMzM2MSwtNjc0NzUw
