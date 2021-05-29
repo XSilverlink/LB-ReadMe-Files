@@ -17,7 +17,7 @@ https://discord.gg/RnDKRaVCEu
 - Lock a prediction¹
 - Cancel a prediction¹
 - Pick a winning side¹
-- Start, Stop, Cancel, Lock and pick a side through commands
+- Start, Stop, Cancel, Lock and pick a side through commands¹
 
 ¹ Currently its only possible to do these things if its launched through the extension.
 
@@ -269,11 +269,11 @@ https://discord.gg/RnDKRaVCEu
 **And of course my documentation wouldn't be ready without a shameless plug:   
 Follow me on https://twitch.tv/Silverlink**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzA5ODA4NywtOTI4NTg2Mzc2LC0yMD
-I2NjE2OTM5LC04Nzk1OTgwMTksMTM0ODAzNDUyNyw0MjY5MTUz
-MTYsMTc5MDgwNjAyOCwtNjA4ODk0MzgwLC01MzA4NDUzNjUsLT
-EzMjk5MTY4NTgsNzU0MjUzNTcwLDMxNzExMzM2MSwtNjc0NzUw
-NjEzLDQ1MTkyNTcxMiwtMTk0NzEzNDY2NSwxNDk2ODk0NzYxLD
-IxMTAxMjE3NzEsMTI4MzAyNjk0NywtMTk0NzEzNDY2NSw1MTE0
-NzQzMjVdfQ==
+eyJoaXN0b3J5IjpbLTEwNDIxMzY1MzAsLTQ1NzA5ODA4NywtOT
+I4NTg2Mzc2LC0yMDI2NjE2OTM5LC04Nzk1OTgwMTksMTM0ODAz
+NDUyNyw0MjY5MTUzMTYsMTc5MDgwNjAyOCwtNjA4ODk0MzgwLC
+01MzA4NDUzNjUsLTEzMjk5MTY4NTgsNzU0MjUzNTcwLDMxNzEx
+MzM2MSwtNjc0NzUwNjEzLDQ1MTkyNTcxMiwtMTk0NzEzNDY2NS
+wxNDk2ODk0NzYxLDIxMTAxMjE3NzEsMTI4MzAyNjk0NywtMTk0
+NzEzNDY2NV19
 -->
