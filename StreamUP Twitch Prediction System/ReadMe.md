@@ -12,7 +12,9 @@ https://discord.gg/RnDKRaVCEu
 
 # Corresponding video made by [Andilippi](https://www.youtube.com/channel/UCp70l75kpG3ISyxpIsL6hfQ)
 
-[![Alt text](https://img.youtube.com/vi/4eOihSZN8Qs/0.jpg)](https://www.youtube.com/embed/4eOihSZN8Qs)
+[![Alt text](https://img.youtube.com/vi/4eOihSZN8Qs/0.jpg)](https://www.youtube.com/watch?v=4eOihSZN8Qs)
+
+<p align="center"><img src="https://img.youtube.com/vi/4eOihSZN8Qs/0.jpg"></p>
 
 # Features  
 
@@ -206,11 +208,11 @@ The extension sends out the following variables:
 *⁵ Values rounded to a String value. Ex: 42069 will be rounded to 42k*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDIxMTc3MTEsMjExMDEyMTc3MSwxMj
-gzMDI2OTQ3LC0xOTQ3MTM0NjY1LDUxMTQ3NDMyNSwxMTUwOTE3
-MjIsLTEwMjQ4NzIwNzIsMTk0MDEwODY1MSw4MzcxMzU2NjIsNT
-Q4ODc1NjcwLC01NTA5NjE4NDAsLTE0NTAxNzM2MjIsLTEzNzc2
-NzgzNTYsMTY1MDE5ODgzOCwtMTA3NTAzNjI3MywtNzU4MTM1OD
-E1LC05ODgxNTM1ODUsLTEwNTAyMzAzNDksMTk5OTMyNTQxOCwx
-ODc2MTgyMTkyXX0=
+eyJoaXN0b3J5IjpbMTkxNjkyNzM0MSwyMTEwMTIxNzcxLDEyOD
+MwMjY5NDcsLTE5NDcxMzQ2NjUsNTExNDc0MzI1LDExNTA5MTcy
+MiwtMTAyNDg3MjA3MiwxOTQwMTA4NjUxLDgzNzEzNTY2Miw1ND
+g4NzU2NzAsLTU1MDk2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3
+ODM1NiwxNjUwMTk4ODM4LC0xMDc1MDM2MjczLC03NTgxMzU4MT
+UsLTk4ODE1MzU4NSwtMTA1MDIzMDM0OSwxOTk5MzI1NDE4LDE4
+NzYxODIxOTJdfQ==
 -->
