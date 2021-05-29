@@ -254,7 +254,7 @@ You can manually create buttons if you like in other decks or just create a temp
 | Clear Variables | true |  | Selection Box | Set to true to clear the variables set by this extension
 
 # Is there more?
-Maybe, I honestly don't know, I think everything you need to know is in here. If there is I will update this ReadMe file accordingly. 
+Maybe, I honestly don't know, I think everything you need to know is in here. If there is I will update this ReadMe file accordingly. If you have any question
 
 ### Here is also btw an awesome video made by Andilippi about this extension:
 
@@ -263,11 +263,11 @@ Maybe, I honestly don't know, I think everything you need to know is in here. If
 *clicking the image will open a new tab with the youtube page*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjY2MTY5MzksLTg3OTU5ODAxOSwxMz
-Q4MDM0NTI3LDQyNjkxNTMxNiwxNzkwODA2MDI4LC02MDg4OTQz
-ODAsLTUzMDg0NTM2NSwtMTMyOTkxNjg1OCw3NTQyNTM1NzAsMz
-E3MTEzMzYxLC02NzQ3NTA2MTMsNDUxOTI1NzEyLC0xOTQ3MTM0
-NjY1LDE0OTY4OTQ3NjEsMjExMDEyMTc3MSwxMjgzMDI2OTQ3LC
-0xOTQ3MTM0NjY1LDUxMTQ3NDMyNSwxMTUwOTE3MjIsLTEwMjQ4
-NzIwNzJdfQ==
+eyJoaXN0b3J5IjpbMTk3NDYzOTMzNSwtMjAyNjYxNjkzOSwtOD
+c5NTk4MDE5LDEzNDgwMzQ1MjcsNDI2OTE1MzE2LDE3OTA4MDYw
+MjgsLTYwODg5NDM4MCwtNTMwODQ1MzY1LC0xMzI5OTE2ODU4LD
+c1NDI1MzU3MCwzMTcxMTMzNjEsLTY3NDc1MDYxMyw0NTE5MjU3
+MTIsLTE5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMTEwMTIxNzcxLD
+EyODMwMjY5NDcsLTE5NDcxMzQ2NjUsNTExNDc0MzI1LDExNTA5
+MTcyMl19
 -->
