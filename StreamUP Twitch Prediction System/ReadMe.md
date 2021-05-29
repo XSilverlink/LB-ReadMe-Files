@@ -264,14 +264,14 @@ https://discord.gg/RnDKRaVCEu
 
 <p align="center"><a href="https://www.youtube.com/watch?v=4eOihSZN8Qs"><img src="https://img.youtube.com/vi/4eOihSZN8Qs/0.jpg" width="100%"></a></p>
 
-*clicking the image will open a new tab with the youtube page*
+*Clicking the image will open a new tab with the youtube page*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODU4NjM3NiwtMjAyNjYxNjkzOSwtOD
-c5NTk4MDE5LDEzNDgwMzQ1MjcsNDI2OTE1MzE2LDE3OTA4MDYw
-MjgsLTYwODg5NDM4MCwtNTMwODQ1MzY1LC0xMzI5OTE2ODU4LD
-c1NDI1MzU3MCwzMTcxMTMzNjEsLTY3NDc1MDYxMyw0NTE5MjU3
-MTIsLTE5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMTEwMTIxNzcxLD
-EyODMwMjY5NDcsLTE5NDcxMzQ2NjUsNTExNDc0MzI1LDExNTA5
-MTcyMl19
+eyJoaXN0b3J5IjpbLTkyNzI2MjMxMiwtOTI4NTg2Mzc2LC0yMD
+I2NjE2OTM5LC04Nzk1OTgwMTksMTM0ODAzNDUyNyw0MjY5MTUz
+MTYsMTc5MDgwNjAyOCwtNjA4ODk0MzgwLC01MzA4NDUzNjUsLT
+EzMjk5MTY4NTgsNzU0MjUzNTcwLDMxNzExMzM2MSwtNjc0NzUw
+NjEzLDQ1MTkyNTcxMiwtMTk0NzEzNDY2NSwxNDk2ODk0NzYxLD
+IxMTAxMjE3NzEsMTI4MzAyNjk0NywtMTk0NzEzNDY2NSw1MTE0
+NzQzMjVdfQ==
 -->
