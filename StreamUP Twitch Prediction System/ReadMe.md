@@ -7,7 +7,7 @@
 
 ℹ This extension comes with an with an **REQUIRED** deck. If you remove this deck automatic updating will **NOT** work.  Almost every button has an unique ID which should also **NOT** changed. It comes with 2 Example predictions which you can change however you want, you can even create more buttons on other decks.
 
-**💭 If you have any questions, problems or feedback feel free to join us on the StreamUP discord:**
+**💭 If you have any questions, suggestions, problems or feedback feel free to join us on the StreamUP discord:**
 https://discord.gg/RnDKRaVCEu
 
 # Features  
@@ -254,7 +254,11 @@ You can manually create buttons if you like in other decks or just create a temp
 | Clear Variables | true |  | Selection Box | Set to true to clear the variables set by this extension
 
 # Is there more?
-Maybe, I honestly don't know, I think everything you need to know is in here. If there is I will update this ReadMe file accordingly. If you have any question
+Maybe, I honestly don't know, I think everything you need to know is in here. If there is I will update this ReadMe file accordingly. 
+
+Posted this earlier also but:
+**💭 If you have any questions, suggestions, problems or feedback feel free to join us on the StreamUP discord:**
+https://discord.gg/RnDKRaVCEu
 
 ### Here is also btw an awesome video made by Andilippi about this extension:
 
@@ -263,7 +267,7 @@ Maybe, I honestly don't know, I think everything you need to know is in here. If
 *clicking the image will open a new tab with the youtube page*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDYzOTMzNSwtMjAyNjYxNjkzOSwtOD
+eyJoaXN0b3J5IjpbLTkyODU4NjM3NiwtMjAyNjYxNjkzOSwtOD
 c5NTk4MDE5LDEzNDgwMzQ1MjcsNDI2OTE1MzE2LDE3OTA4MDYw
 MjgsLTYwODg5NDM4MCwtNTMwODQ1MzY1LC0xMzI5OTE2ODU4LD
 c1NDI1MzU3MCwzMTcxMTMzNjEsLTY3NDc1MDYxMyw0NTE5MjU3
