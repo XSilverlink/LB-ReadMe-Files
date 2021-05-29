@@ -246,13 +246,13 @@ You can manually create buttons if you like in other decks or just create a temp
 | Prediction ID | | /$SUPr:predictionID$/ | String | ID of the running prediction
 | Winning Outcome ID | | Empty, /$SUPr:blueID$/ or /$SUPr:pinkID$/| String | Can be left empty if you set Prediction Status to CANCELED or LOCKED. ID is required when setting to Resolved
 | Prediction Status | Resolved |  | Selection box | Set the status of the prediction.
-| Clear Variables | true |  | Selection box | IClear the variables set by
+| Clear Variables | true |  | Selection box | IClear the variables set by this extension
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3MzY4MzYzLC02MDg4OTQzODAsLTUzMD
-g0NTM2NSwtMTMyOTkxNjg1OCw3NTQyNTM1NzAsMzE3MTEzMzYx
-LC02NzQ3NTA2MTMsNDUxOTI1NzEyLC0xOTQ3MTM0NjY1LDE0OT
-Y4OTQ3NjEsMjExMDEyMTc3MSwxMjgzMDI2OTQ3LC0xOTQ3MTM0
-NjY1LDUxMTQ3NDMyNSwxMTUwOTE3MjIsLTEwMjQ4NzIwNzIsMT
-k0MDEwODY1MSw4MzcxMzU2NjIsNTQ4ODc1NjcwLC01NTA5NjE4
-NDBdfQ==
+eyJoaXN0b3J5IjpbMTc5MDgwNjAyOCwtNjA4ODk0MzgwLC01Mz
+A4NDUzNjUsLTEzMjk5MTY4NTgsNzU0MjUzNTcwLDMxNzExMzM2
+MSwtNjc0NzUwNjEzLDQ1MTkyNTcxMiwtMTk0NzEzNDY2NSwxND
+k2ODk0NzYxLDIxMTAxMjE3NzEsMTI4MzAyNjk0NywtMTk0NzEz
+NDY2NSw1MTE0NzQzMjUsMTE1MDkxNzIyLC0xMDI0ODcyMDcyLD
+E5NDAxMDg2NTEsODM3MTM1NjYyLDU0ODg3NTY3MCwtNTUwOTYx
+ODQwXX0=
 -->
