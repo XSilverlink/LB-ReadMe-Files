@@ -14,7 +14,7 @@ https://discord.gg/RnDKRaVCEu
 
  - [Features](#features)
  - [First things first!](#first-things-first)
- - [Getting started after install](getting-started-after-install)
+ - [Getting started after install](#getting-started-after-install)
  - [Setting up / editing the example prediction](#setting-up--editing-the-example-prediction)
  - [Starting a prediction through Lioranboard](#starting-a-prediction-through-lioranboard-stream-deck)
  - [Starting a prediction through the Transmitter](#starting-a-prediction-through-the-transmitter)
@@ -284,7 +284,7 @@ https://discord.gg/RnDKRaVCEu
 **And of course my documentation wouldn't be ready without a shameless plug:   
 Follow me on https://twitch.tv/Silverlink**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTc5Mzg1NCwtMTA0MjEzNjUzMCwtND
+eyJoaXN0b3J5IjpbMTc1NzY3NjQxOSwtMTA0MjEzNjUzMCwtND
 U3MDk4MDg3LC05Mjg1ODYzNzYsLTIwMjY2MTY5MzksLTg3OTU5
 ODAxOSwxMzQ4MDM0NTI3LDQyNjkxNTMxNiwxNzkwODA2MDI4LC
 02MDg4OTQzODAsLTUzMDg0NTM2NSwtMTMyOTkxNjg1OCw3NTQy
