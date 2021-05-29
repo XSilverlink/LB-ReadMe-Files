@@ -254,9 +254,9 @@ You can manually create buttons if you like in other decks or just create a temp
 | Clear Variables | true |  | Selection Box | Set to true to clear the variables set by this extension
 
 # Is there more?
-Maybe, I honestly don't know, I think everything you need to know is in here. If there is I will update this ReadMe file accordingly. 
+Maybe, I honestly don't know, I think everything you need to know is in here. If there is I will update this ReadMe file accordingly. If you have any
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTU5ODAxOSw0MjY5MTUzMTYsMTc5MD
+eyJoaXN0b3J5IjpbMTM0ODAzNDUyNyw0MjY5MTUzMTYsMTc5MD
 gwNjAyOCwtNjA4ODk0MzgwLC01MzA4NDUzNjUsLTEzMjk5MTY4
 NTgsNzU0MjUzNTcwLDMxNzExMzM2MSwtNjc0NzUwNjEzLDQ1MT
 kyNTcxMiwtMTk0NzEzNDY2NSwxNDk2ODk0NzYxLDIxMTAxMjE3
