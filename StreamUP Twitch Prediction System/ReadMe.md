@@ -266,9 +266,10 @@ https://discord.gg/RnDKRaVCEu
 
 *Clicking the image will open a new tab with the youtube page*
 
-**And of course my documentation wouldn't be ready without a shameless plug: https://twitch.tv/Silverlink**
+**And of course my documentation wouldn't be ready without a shameless plug: 
+Follow me on https://twitch.tv/Silverlink**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg1NzczODcsLTkyODU4NjM3NiwtMj
+eyJoaXN0b3J5IjpbLTE0MzI5NTQ5MTksLTkyODU4NjM3NiwtMj
 AyNjYxNjkzOSwtODc5NTk4MDE5LDEzNDgwMzQ1MjcsNDI2OTE1
 MzE2LDE3OTA4MDYwMjgsLTYwODg5NDM4MCwtNTMwODQ1MzY1LC
 0xMzI5OTE2ODU4LDc1NDI1MzU3MCwzMTcxMTMzNjEsLTY3NDc1
