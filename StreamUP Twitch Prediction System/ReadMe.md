@@ -209,13 +209,15 @@ When certain events happen in the extension the extension will send out some Ext
 | Extension Trigger | Info
 |--|--|--|
 | SUPrInitialize | Send out when a prediction starts
+| SUPrWinBlue | Send out when you've selected blue as a winner in the transmitter, chat command or stream deck app
+SUPrWinPink | Send out when you've selected pink as a winner in the transmitter, chat command or stream deck app
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMDgzNTA4LDMxNzExMzM2MSwtNjc0Nz
-UwNjEzLDQ1MTkyNTcxMiwtMTk0NzEzNDY2NSwxNDk2ODk0NzYx
-LDIxMTAxMjE3NzEsMTI4MzAyNjk0NywtMTk0NzEzNDY2NSw1MT
-E0NzQzMjUsMTE1MDkxNzIyLC0xMDI0ODcyMDcyLDE5NDAxMDg2
-NTEsODM3MTM1NjYyLDU0ODg3NTY3MCwtNTUwOTYxODQwLC0xND
-UwMTczNjIyLC0xMzc3Njc4MzU2LDE2NTAxOTg4MzgsLTEwNzUw
-MzYyNzNdfQ==
+eyJoaXN0b3J5IjpbLTIzMDY3NTA5MCwzMTcxMTMzNjEsLTY3ND
+c1MDYxMyw0NTE5MjU3MTIsLTE5NDcxMzQ2NjUsMTQ5Njg5NDc2
+MSwyMTEwMTIxNzcxLDEyODMwMjY5NDcsLTE5NDcxMzQ2NjUsNT
+ExNDc0MzI1LDExNTA5MTcyMiwtMTAyNDg3MjA3MiwxOTQwMTA4
+NjUxLDgzNzEzNTY2Miw1NDg4NzU2NzAsLTU1MDk2MTg0MCwtMT
+Q1MDE3MzYyMiwtMTM3NzY3ODM1NiwxNjUwMTk4ODM4LC0xMDc1
+MDM2MjczXX0=
 -->
