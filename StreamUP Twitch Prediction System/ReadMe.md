@@ -245,9 +245,10 @@ You can manually create buttons if you like in other decks or just create a temp
 | oauth_token | /$oauth_token$/ | /$oauth_token$/ | String | This field is filled in automatically
 | Prediction ID | | /$SUPr:predictionID$/ | String | ID of the running prediction
 | Winning Outcome ID | | Empty, /$SUPr:blueID$/ or /$SUPr:pinkID$/| String | Can be left empty if you set Prediction Status to CANCELED or LOCKED. ID is required when setting to Resolved
-| Prediction Status | Resolved |  | Selection box | Set the status 
+| Prediction Status | Resolved |  | Selection box | Set the status of the prediction.
+| Clear Variables | true |  | Selection box | IClear the variables
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzA4MTU5MiwtNTMwODQ1MzY1LC0xMz
+eyJoaXN0b3J5IjpbLTYwODg5NDM4MCwtNTMwODQ1MzY1LC0xMz
 I5OTE2ODU4LDc1NDI1MzU3MCwzMTcxMTMzNjEsLTY3NDc1MDYx
 Myw0NTE5MjU3MTIsLTE5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMT
 EwMTIxNzcxLDEyODMwMjY5NDcsLTE5NDcxMzQ2NjUsNTExNDc0
