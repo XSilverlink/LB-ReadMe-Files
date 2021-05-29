@@ -23,7 +23,7 @@ https://discord.gg/RnDKRaVCEu
  - [Receiving Variables in Lioranboard](#receiving-variables-in-lioranboard)
  - [Extension Triggers](#extension-triggers)
  - [Send to Extension](#send-to-extension)
- - Is there more?
+ - [Is there more?](#is-there-more)
 
 # Features  
 
@@ -284,11 +284,11 @@ https://discord.gg/RnDKRaVCEu
 **And of course my documentation wouldn't be ready without a shameless plug:   
 Follow me on https://twitch.tv/Silverlink**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA3MDU4NTksLTEwNDIxMzY1MzAsLT
-Q1NzA5ODA4NywtOTI4NTg2Mzc2LC0yMDI2NjE2OTM5LC04Nzk1
-OTgwMTksMTM0ODAzNDUyNyw0MjY5MTUzMTYsMTc5MDgwNjAyOC
-wtNjA4ODk0MzgwLC01MzA4NDUzNjUsLTEzMjk5MTY4NTgsNzU0
-MjUzNTcwLDMxNzExMzM2MSwtNjc0NzUwNjEzLDQ1MTkyNTcxMi
-wtMTk0NzEzNDY2NSwxNDk2ODk0NzYxLDIxMTAxMjE3NzEsMTI4
-MzAyNjk0N119
+eyJoaXN0b3J5IjpbOTc2ODQxMjI0LC0xMDQyMTM2NTMwLC00NT
+cwOTgwODcsLTkyODU4NjM3NiwtMjAyNjYxNjkzOSwtODc5NTk4
+MDE5LDEzNDgwMzQ1MjcsNDI2OTE1MzE2LDE3OTA4MDYwMjgsLT
+YwODg5NDM4MCwtNTMwODQ1MzY1LC0xMzI5OTE2ODU4LDc1NDI1
+MzU3MCwzMTcxMTMzNjEsLTY3NDc1MDYxMyw0NTE5MjU3MTIsLT
+E5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMTEwMTIxNzcxLDEyODMw
+MjY5NDddfQ==
 -->
