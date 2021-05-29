@@ -158,6 +158,8 @@ Don't edit anything else in this button or otherwise it may brake and you may ne
 # Receiving Variables in Lioranboard
 This is where the magic happens! Lioranboard receives every 2 seconds (or per what you've set in the 'Retrieve prediction information' button) information from the Twitch API. This means you can live update your sources in OBS through Lioranboard. You can show live numbers on stream. Make a moving bar for the countdown and other great stuff. [Andilippi](https://twitch.tv/Andilippi) has made a great example of what you can do with it. Here is a screenshot of it:
 
+<p align="center"><img src="https://raw.githubusercontent.com/XSilverlink/LB-ReadMe-Files/main/StreamUP%20Twitch%20Prediction%20System/images/firefox_yaMO23C7er.png"></p>
+
 The extension sends out the following variables:
 | Variable | Type | Information
 |--|--|--|
@@ -180,11 +182,11 @@ The extension sends out the following variables:
 | SUPr:pinkTotalUsersRounded | String | Total amount of people who voted for Answer 2 / Pink. Will give you a rounded String when over 1000+ users have voted. (ex: 102030 will show as 10.2k)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQ4NzIwNzIsMTk0MDEwODY1MSw4Mz
-cxMzU2NjIsNTQ4ODc1NjcwLC01NTA5NjE4NDAsLTE0NTAxNzM2
-MjIsLTEzNzc2NzgzNTYsMTY1MDE5ODgzOCwtMTA3NTAzNjI3My
-wtNzU4MTM1ODE1LC05ODgxNTM1ODUsLTEwNTAyMzAzNDksMTk5
-OTMyNTQxOCwxODc2MTgyMTkyLDE3ODI2NjU2MzAsMzMwMTg1MD
-QyLC0yNzYxNDcxMjgsLTE0NjM4OTEwODksMTc5MzgwNTUzNiw0
-OTMxOTA0NzRdfQ==
+eyJoaXN0b3J5IjpbMTE1MDkxNzIyLC0xMDI0ODcyMDcyLDE5ND
+AxMDg2NTEsODM3MTM1NjYyLDU0ODg3NTY3MCwtNTUwOTYxODQw
+LC0xNDUwMTczNjIyLC0xMzc3Njc4MzU2LDE2NTAxOTg4MzgsLT
+EwNzUwMzYyNzMsLTc1ODEzNTgxNSwtOTg4MTUzNTg1LC0xMDUw
+MjMwMzQ5LDE5OTkzMjU0MTgsMTg3NjE4MjE5MiwxNzgyNjY1Nj
+MwLDMzMDE4NTA0MiwtMjc2MTQ3MTI4LC0xNDYzODkxMDg5LDE3
+OTM4MDU1MzZdfQ==
 -->
