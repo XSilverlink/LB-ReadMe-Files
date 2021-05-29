@@ -171,22 +171,25 @@ The extension sends out the following variables:
 | SUPr:blueID | String | ID of Answer 1 / Blue given by Twitch
 | SUPr:blueTitle | String | Answer you specified for Answer 1 / Blue
 | SUPr:blueTotalCP | Real | Total amount of channel points spent for Answer 1 / Blue
-| SUPr:blueTotalCPRounded | String | Total amount of channel points for Answer 1 / Blue. Will give you a rounded String when over 1000+ channel points spent. (ex: 1337 will show as 1.3k)
+| SUPr:blueTotalCPRounded | String | Total amount of channel points for Answer 1 / Blue.⁵
 | SUPr:blueTotalUsers | Real | Total amount of people who voted for Answer 1 / Blue
-| SUPr:blueTotalUsersRounded | String | Total amount of people who voted for Answer 1 / Blue. Will give you a rounded String when over 1000+ users have voted. (ex: 1111 will show as 1.1k)
+| SUPr:blueTotalUsersRounded | String | Total amount of people who voted for Answer 1 / Blue.⁵
 | SUPr:pinkID | String | ID of Answer 2 / Pink given by Twitch
 | SUPr:pinkTitle | String | Answer you specified for Answer 2 / Pink
 | SUPr:pinkTotalCP | Real | Total amount of channel points spent for Answer 2 / Pink
-| SUPr:pinkTotalCPRounded | String | Total amount of channel points for Answer 2 / Pink. Will give you a rounded String when over 1000+ channel points spent. (ex: 4957 will show as 4.9k)
+| SUPr:pinkTotalCPRounded | String | Total amount of channel points for Answer 2 / Pink.⁵
 | SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
-| SUPr:pinkTotalUsersRounded | String | Total amount of people who voted for Answer 2 / Pink. Will give you a rounded String when over 1000+ users have voted. (ex: 10203 will show as 10.2k)
-
+| SUPr:pinkTotalUsersRounded | String | Total amount of people who voted for Answer 2 / Pink.⁵
+| SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
+| SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
+| SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
+| SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ1NTYwOTQsMTE1MDkxNzIyLC0xMD
-I0ODcyMDcyLDE5NDAxMDg2NTEsODM3MTM1NjYyLDU0ODg3NTY3
-MCwtNTUwOTYxODQwLC0xNDUwMTczNjIyLC0xMzc3Njc4MzU2LD
-E2NTAxOTg4MzgsLTEwNzUwMzYyNzMsLTc1ODEzNTgxNSwtOTg4
-MTUzNTg1LC0xMDUwMjMwMzQ5LDE5OTkzMjU0MTgsMTg3NjE4Mj
-E5MiwxNzgyNjY1NjMwLDMzMDE4NTA0MiwtMjc2MTQ3MTI4LC0x
-NDYzODkxMDg5XX0=
+eyJoaXN0b3J5IjpbODE1NzczNTcxLDExNTA5MTcyMiwtMTAyND
+g3MjA3MiwxOTQwMTA4NjUxLDgzNzEzNTY2Miw1NDg4NzU2NzAs
+LTU1MDk2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3ODM1NiwxNj
+UwMTk4ODM4LC0xMDc1MDM2MjczLC03NTgxMzU4MTUsLTk4ODE1
+MzU4NSwtMTA1MDIzMDM0OSwxOTk5MzI1NDE4LDE4NzYxODIxOT
+IsMTc4MjY2NTYzMCwzMzAxODUwNDIsLTI3NjE0NzEyOCwtMTQ2
+Mzg5MTA4OV19
 -->
