@@ -180,12 +180,13 @@ The extension sends out the following variables:
 | SUPr:pinkTotalCPRounded | String | Total amount of channel points for Answer 2 / Pink.⁵
 | SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
 | SUPr:pinkTotalUsersRounded | String | Total amount of people who voted for Answer 2 / Pink.⁵
-| SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
-| SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
-| SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
-| SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
+| SUPr:totalPredictingCP | Real | Total amount of people who voted for Answer 2 / Pink
+| SUPr:totalPredictingCPRounded | Real | Total amount of people who voted for Answer 2 / Pink
+| SUPr:totalPredictingUsers | Real | Total amount of people who voted for Answer 2 / Pink
+| SUPr:totalPredictingUsersRounded | Real | Total amount of people who voted for Answer 2 / Pink
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1NzczNTcxLDExNTA5MTcyMiwtMTAyND
+eyJoaXN0b3J5IjpbMzIxMjc1OTUzLDExNTA5MTcyMiwtMTAyND
 g3MjA3MiwxOTQwMTA4NjUxLDgzNzEzNTY2Miw1NDg4NzU2NzAs
 LTU1MDk2MTg0MCwtMTQ1MDE3MzYyMiwtMTM3NzY3ODM1NiwxNj
 UwMTk4ODM4LC0xMDc1MDM2MjczLC03NTgxMzU4MTUsLTk4ODE1
