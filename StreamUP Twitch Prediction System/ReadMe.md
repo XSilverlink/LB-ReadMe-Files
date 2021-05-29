@@ -203,15 +203,19 @@ The extension sends out the following variables:
 
 You can use these variables in Lioranboard how ever you want. Show them in OBS via a text source, make advanced calculations with the numbers and many more stuff and things.
 
-# Extra Information
-### Send to extension 
-This Extension has 4
+# Extension Triggers
+When certain events happen in the extension the extension will send out some Extension Triggers. You can use these however you want.
+
+| Extension Trigger | Info |
+|--|--|
+|  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg2MDE1MDIsMzE3MTEzMzYxLC02Nz
-Q3NTA2MTMsNDUxOTI1NzEyLC0xOTQ3MTM0NjY1LDE0OTY4OTQ3
-NjEsMjExMDEyMTc3MSwxMjgzMDI2OTQ3LC0xOTQ3MTM0NjY1LD
-UxMTQ3NDMyNSwxMTUwOTE3MjIsLTEwMjQ4NzIwNzIsMTk0MDEw
-ODY1MSw4MzcxMzU2NjIsNTQ4ODc1NjcwLC01NTA5NjE4NDAsLT
-E0NTAxNzM2MjIsLTEzNzc2NzgzNTYsMTY1MDE5ODgzOCwtMTA3
-NTAzNjI3M119
+eyJoaXN0b3J5IjpbMTI4OTI5MjIxNSwzMTcxMTMzNjEsLTY3ND
+c1MDYxMyw0NTE5MjU3MTIsLTE5NDcxMzQ2NjUsMTQ5Njg5NDc2
+MSwyMTEwMTIxNzcxLDEyODMwMjY5NDcsLTE5NDcxMzQ2NjUsNT
+ExNDc0MzI1LDExNTA5MTcyMiwtMTAyNDg3MjA3MiwxOTQwMTA4
+NjUxLDgzNzEzNTY2Miw1NDg4NzU2NzAsLTU1MDk2MTg0MCwtMT
+Q1MDE3MzYyMiwtMTM3NzY3ODM1NiwxNjUwMTk4ODM4LC0xMDc1
+MDM2MjczXX0=
 -->
