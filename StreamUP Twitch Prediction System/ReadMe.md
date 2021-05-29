@@ -69,7 +69,7 @@ This section you can edit the values on the right where it says 'Var./Real/"Stri
 | 1 | Prediction Title | String | Max 45 characters
 | 2 | Answer 1 / Blue | String | Max 25 characters
 | 3 | Answer 2 / Pink | String | Max 45 characters
-| 4 | Timer | Number | Min: 1, Max: 1800
+| 4 | Timer | Real | Min: 1, Max: 1800
 
 *Strings needs values to be put in between "quotes"  
 Number you can put in without any "quotes"*
@@ -222,14 +222,17 @@ You can manually create buttons if you like in other decks or just create a temp
 *You can **move** the 'Answer 1' and 'Answer 2' buttons to another deck but the button ID needs to be 'SUPr:A1' for the Answer 1 button and 'SUPr:A2' for the Answer 2 button if you want them to be updated like in the default deck. If you just want to pick a winner button without any updates on the button you can use 'StreamUP - End Prediction' and configure that correctly.*
 
 ### StreamUP - Set Prediction
-| Parameter | Default value | Type | Extra info
+| Parameter | Default value | Type | Information
 |--|--|--|--|
 | channel_id | /$channel_id$/ | Real | This field is filled in automatically
 | oauth_token | /$oauth_token$/ | String | This field is filled in automatically
-| Prediction Title |  | String | 
+| Prediction Title |  | String | Title of the prediction
+| Answer 1 |  | String | Answer 1 / Blue
+| Answer 2 |  | String | Answer 2 / Pink
+| Prediction Window |  | String |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MjY2ODE0LC0xMzI5OTE2ODU4LDc1ND
+eyJoaXN0b3J5IjpbLTY1NDQ2NTkyLC0xMzI5OTE2ODU4LDc1ND
 I1MzU3MCwzMTcxMTMzNjEsLTY3NDc1MDYxMyw0NTE5MjU3MTIs
 LTE5NDcxMzQ2NjUsMTQ5Njg5NDc2MSwyMTEwMTIxNzcxLDEyOD
 MwMjY5NDcsLTE5NDcxMzQ2NjUsNTExNDc0MzI1LDExNTA5MTcy
