@@ -179,14 +179,14 @@ The extension sends out the following variables:
 | SUPr:pinkTotalCP | Real | Total amount of channel points spent for Answer 2 / Pink
 | SUPr:pinkTotalCPRounded | String | Total amount of channel points for Answer 2 / Pink. Will give you a rounded String when over 1000+ channel points spent. (ex: 4957 will show as 4.9k)
 | SUPr:pinkTotalUsers | Real | Total amount of people who voted for Answer 2 / Pink
-| SUPr:pinkTotalUsersRounded | String | Total amount of people who voted for Answer 2 / Pink. Will give you a rounded String when over 1000+ users have voted. (ex: 102030 will show as 10.2k)
+| SUPr:pinkTotalUsersRounded | String | Total amount of people who voted for Answer 2 / Pink. Will give you a rounded String when over 1000+ users have voted. (ex: 10203 will show as 10.2k)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDkxNzIyLC0xMDI0ODcyMDcyLDE5ND
-AxMDg2NTEsODM3MTM1NjYyLDU0ODg3NTY3MCwtNTUwOTYxODQw
-LC0xNDUwMTczNjIyLC0xMzc3Njc4MzU2LDE2NTAxOTg4MzgsLT
-EwNzUwMzYyNzMsLTc1ODEzNTgxNSwtOTg4MTUzNTg1LC0xMDUw
-MjMwMzQ5LDE5OTkzMjU0MTgsMTg3NjE4MjE5MiwxNzgyNjY1Nj
-MwLDMzMDE4NTA0MiwtMjc2MTQ3MTI4LC0xNDYzODkxMDg5LDE3
-OTM4MDU1MzZdfQ==
+eyJoaXN0b3J5IjpbLTE0NTQ1NTYwOTQsMTE1MDkxNzIyLC0xMD
+I0ODcyMDcyLDE5NDAxMDg2NTEsODM3MTM1NjYyLDU0ODg3NTY3
+MCwtNTUwOTYxODQwLC0xNDUwMTczNjIyLC0xMzc3Njc4MzU2LD
+E2NTAxOTg4MzgsLTEwNzUwMzYyNzMsLTc1ODEzNTgxNSwtOTg4
+MTUzNTg1LC0xMDUwMjMwMzQ5LDE5OTkzMjU0MTgsMTg3NjE4Mj
+E5MiwxNzgyNjY1NjMwLDMzMDE4NTA0MiwtMjc2MTQ3MTI4LC0x
+NDYzODkxMDg5XX0=
 -->
