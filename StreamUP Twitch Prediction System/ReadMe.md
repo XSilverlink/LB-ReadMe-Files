@@ -10,7 +10,8 @@
 **💭 If you have any questions, problems or feedback feel free to join us on the StreamUP discord:**
 https://discord.gg/RnDKRaVCEu
 
-
+# Corresponding video made by [Andilippi](https://www.youtube.com/watch?v=4eOihSZN8Qs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4eOihSZN8Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Features  
 
@@ -204,11 +205,11 @@ The extension sends out the following variables:
 *⁵ Values rounded to a String value. Ex: 42069 will be rounded to 42k*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk3ODY5LC0xOTQ3MTM0NjY1LDUxMT
-Q3NDMyNSwxMTUwOTE3MjIsLTEwMjQ4NzIwNzIsMTk0MDEwODY1
-MSw4MzcxMzU2NjIsNTQ4ODc1NjcwLC01NTA5NjE4NDAsLTE0NT
-AxNzM2MjIsLTEzNzc2NzgzNTYsMTY1MDE5ODgzOCwtMTA3NTAz
-NjI3MywtNzU4MTM1ODE1LC05ODgxNTM1ODUsLTEwNTAyMzAzND
-ksMTk5OTMyNTQxOCwxODc2MTgyMTkyLDE3ODI2NjU2MzAsMzMw
-MTg1MDQyXX0=
+eyJoaXN0b3J5IjpbMTI4MzAyNjk0NywtMTk0NzEzNDY2NSw1MT
+E0NzQzMjUsMTE1MDkxNzIyLC0xMDI0ODcyMDcyLDE5NDAxMDg2
+NTEsODM3MTM1NjYyLDU0ODg3NTY3MCwtNTUwOTYxODQwLC0xND
+UwMTczNjIyLC0xMzc3Njc4MzU2LDE2NTAxOTg4MzgsLTEwNzUw
+MzYyNzMsLTc1ODEzNTgxNSwtOTg4MTUzNTg1LC0xMDUwMjMwMz
+Q5LDE5OTkzMjU0MTgsMTg3NjE4MjE5MiwxNzgyNjY1NjMwLDMz
+MDE4NTA0Ml19
 -->
