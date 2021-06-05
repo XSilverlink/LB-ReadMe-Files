@@ -183,7 +183,7 @@ The extension sends out the following variables:
 | SUPr:predictionID | String | ID of prediction given by Twitch
 | SUPr:predictionTitle | String | Title you specified for the prediction
 | SUPr:predictionWindow | Real | Seconds you specified for the prediction
-| SUPr:predictionStatus | String | Status of the prediction. (OPEN, LOCKED, RESOLVED or CANCELED)
+| SUPr:predictionStatus | String | Status of the prediction. (ACTIVE, LOCKED, RESOLVED or CANCELED)
 | SUPr:isPredictionRunning | Real | Internal Variable to check if the prediction is running
 
 ### Blue Answer Information
@@ -284,11 +284,11 @@ https://discord.gg/RnDKRaVCEu
 **And of course my documentation wouldn't be ready without a shameless plug:   
 Follow me on https://twitch.tv/Silverlink**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzY3NjQxOSwtMTA0MjEzNjUzMCwtND
-U3MDk4MDg3LC05Mjg1ODYzNzYsLTIwMjY2MTY5MzksLTg3OTU5
-ODAxOSwxMzQ4MDM0NTI3LDQyNjkxNTMxNiwxNzkwODA2MDI4LC
-02MDg4OTQzODAsLTUzMDg0NTM2NSwtMTMyOTkxNjg1OCw3NTQy
-NTM1NzAsMzE3MTEzMzYxLC02NzQ3NTA2MTMsNDUxOTI1NzEyLC
-0xOTQ3MTM0NjY1LDE0OTY4OTQ3NjEsMjExMDEyMTc3MSwxMjgz
-MDI2OTQ3XX0=
+eyJoaXN0b3J5IjpbLTE3MjA4NzY4NTcsMTc1NzY3NjQxOSwtMT
+A0MjEzNjUzMCwtNDU3MDk4MDg3LC05Mjg1ODYzNzYsLTIwMjY2
+MTY5MzksLTg3OTU5ODAxOSwxMzQ4MDM0NTI3LDQyNjkxNTMxNi
+wxNzkwODA2MDI4LC02MDg4OTQzODAsLTUzMDg0NTM2NSwtMTMy
+OTkxNjg1OCw3NTQyNTM1NzAsMzE3MTEzMzYxLC02NzQ3NTA2MT
+MsNDUxOTI1NzEyLC0xOTQ3MTM0NjY1LDE0OTY4OTQ3NjEsMjEx
+MDEyMTc3MV19
 -->
